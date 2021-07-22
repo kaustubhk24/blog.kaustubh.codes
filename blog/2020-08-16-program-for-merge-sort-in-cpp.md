@@ -1,14 +1,14 @@
 ---
-slug: /circular-queue-using-array-in-cpp/
-title: Circular Queue Using Array in CPP
+slug: /program-for-merge-sort-in-cpp/
+title: Program for Merge Sort in CPP
 author: Kaustubh Kulkarni
 author_title: Programmer
 author_url: https://github.com/kaustubhk24
 author_image_url: https://avatars.githubusercontent.com/u/57136442?s=400&u=681cd0b008e087edfe707cc8583d35ed30d969a1&v=4
-tags: [CPP, Queue, Array, Circular Queue]
+tags: [CPP, Merge Sort]
 ---
 
-```cpp title=circular-queue.cpp
+```cpp title=merge-sort.cpp
 #include<iostream>
 using namespace std;
 
@@ -18,7 +18,7 @@ int q[10];
 
 bool isfull()
 {
-	if(front==(rear+1)%10)
+	if(rear==9)
 	{
 		return 1;
 	}
@@ -36,32 +36,17 @@ bool isempty()
 }
 int display()
 {
-	int f=front,r=rear;
-		if(isempty())
+	if(isempty())
+	{
+		cout<<"Queue is empty!"<<endl;
+	}
+	else
+	{
+		for(int i=front;i<=rear;i++)
 		{
-			cout<<"Queue Underflow!"<<endl;
+			cout<<q[i]<<"->";
 		}
-		cout<<"Queue elements:n";
-		if(f<=r)
-			while(f<=r)
-		{
-			cout<<q[f]<<"->";
-			f++;
-		}
-		else
-		{
-			while(f<=9)
-		{
-			cout<<q[f]<<"->";
-			f++;
-		}
-		f=0;
-		while(f<=r)
-		{
-			cout<<q[f]<<"->";
-			f++;
-		}
-}
+	}
 }
 int main()
 {
@@ -90,7 +75,7 @@ int main()
 					{
 						front=0;
 					}
-					rear=(rear+1)%10;
+					rear=rear+1;
 					cout<<"Enter a data:";
 					cin>>data;
 					q[rear]=data;	
@@ -105,30 +90,15 @@ int main()
 				}
 				else
 				{
-					if(front==rear)
-						{
+					data=q[front];
+					cout<<q[front]<<" is deleted!"<<endl;
+					front=front+1;
+					if(front>rear)
+					{
 						front=rear=-1;
-						break;
-						}
-					else
-						{
-							if(front==9)
-							{
-								{
-								data=q[front];
-								cout<<q[front]<<" is deleted!"<<endl;
-								front=0;
-								break;
-								}
-							}
-							else
-							{
-							data=q[front];
-							cout<<q[front]<<" is deleted!"<<endl;		
-							front=front+1;							
-						    break;
-							}
-						}
+					}
+					display();
+					break;
 				}
 			case 3:
 				display();
@@ -138,6 +108,4 @@ int main()
 		}
 	}
 }
-
-
 ```
