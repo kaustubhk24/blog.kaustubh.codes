@@ -63,11 +63,11 @@ The most important part is buying reliable / suitable domain and hosting, we hav
 
 In this step we will install , FREE SSL certificate, to move our site from http to https, 
 
-visit <a aria-label="sslforfree.com (opens in a new tab)" href="https://www.sslforfree.com/" target="_blank" rel="noreferrer noopener" class="rank-math-link">sslforfree.com</a> enter your domain name , now it will prompt for **Login/Register**, If you don&#8217;t have account there, you can **Register**, after that you will see screen below,<figure class="wp-block-image size-large">
+visit <a aria-label="sslforfree.com (opens in a new tab)" href="https://www.sslforfree.com/" target="_blank" rel="noreferrer noopener" class="rank-math-link">sslforfree.com</a> enter your domain name , now it will prompt for **Login/Register**, If you don't have account there, you can **Register**, after that you will see screen below,<figure class="wp-block-image size-large">
 
 <img loading="lazy" width="526" height="305" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-18.png" alt="How To Make Fastest Blog in WordPress" class="wp-image-1187" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-18.png 526w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-18-300x174.png 300w" sizes="(max-width: 526px) 100vw, 526px" /> 
 
-Click on **Next Step**, Now we need to **verify** our domain , we can do same using 3 methods, but we will be using **http file upload** method. First create folder _.well-known_ then create folder _pki-validation_ inside that and upload the downloaded file there & click on **verify** button . Now you&#8217;ll see confirmation screen below<figure class="wp-block-image size-large">
+Click on **Next Step**, Now we need to **verify** our domain , we can do same using 3 methods, but we will be using **http file upload** method. First create folder _.well-known_ then create folder _pki-validation_ inside that and upload the downloaded file there & click on **verify** button . Now you'll see confirmation screen below<figure class="wp-block-image size-large">
 
 <img loading="lazy" width="545" height="207" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-19.png" alt="How To Make Fastest Blog in WordPress" class="wp-image-1188" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-19.png 545w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-19-300x114.png 300w" sizes="(max-width: 545px) 100vw, 545px" /> 
 
@@ -81,7 +81,7 @@ Last step click on **Install** , You just completed Installing FREE SSL for 90 d
 
 ## Installing WordPress
 
-As you are following this tutorial, most probably you know, what WordPress is, but if you don&#8217;t know, please read this topic : <a aria-label="WordPress (opens in a new tab)" href="https://en.wikipedia.org/wiki/WordPress" target="_blank" rel="noreferrer noopener nofollow" class="rank-math-link">WordPress</a>.
+As you are following this tutorial, most probably you know, what WordPress is, but if you don't know, please read this topic : <a aria-label="WordPress (opens in a new tab)" href="https://en.wikipedia.org/wiki/WordPress" target="_blank" rel="noreferrer noopener nofollow" class="rank-math-link">WordPress</a>.
 
 In this tutorial we are using godaddy hosting with CPanel, it contains installtron that makes WordPress installation easy. to install WordPress , Just search for Installatron and open it, Once opened Select WordPress, Fill necessary details, in Site URL selection use site with 
 
@@ -91,7 +91,7 @@ enter username, email, password and click on install button, It will automatical
 
 <img loading="lazy" width="757" height="224" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-20.png" alt="How To Make Fastest Blog in WordPress" class="wp-image-1192" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-20.png 757w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-20-300x89.png 300w" sizes="(max-width: 757px) 100vw, 757px" /> 
 
-After installation is done, you can see **wp-admin** link, click on it, GoDaddy will show there setup option we will not be using in this tutorial, So use default wordpress. & click **yes I&#8217;m sure** then, You are now at **WordPress Dashboard**. Let&#8217;s remove non-required things, please [watch Video Guide](https://blog.kaustubh.codes/wp-admin/post.php?post=1185&action=edit#video-guide).
+After installation is done, you can see **wp-admin** link, click on it, GoDaddy will show there setup option we will not be using in this tutorial, So use default wordpress. & click **yes I'm sure** then, You are now at **WordPress Dashboard**. Let's remove non-required things, please [watch Video Guide](https://blog.kaustubh.codes/wp-admin/post.php?post=1185&action=edit#video-guide).
 
 ## Removing Non-Required Things
 
@@ -105,11 +105,11 @@ We will install <a aria-label="GeneratePress  (opens in a new tab)" href="https:
 
 <img loading="lazy" width="842" height="308" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-22.png" alt="How To Make Fastest Blog in WordPress" class="wp-image-1196" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-22.png 842w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-22-300x110.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-22-768x281.png 768w" sizes="(max-width: 842px) 100vw, 842px" /> 
 
-you just installed and activated theme. You can use this theme completely **FREE**. But we want some features that are NOT available in FREE version, So we&#8217;re buying Premium here, If you don&#8217;t want to invest money now, simply use this theme, But if you can , I will definitely suggest to go for Pro version.
+you just installed and activated theme. You can use this theme completely **FREE**. But we want some features that are NOT available in FREE version, So we're buying Premium here, If you don't want to invest money now, simply use this theme, But if you can , I will definitely suggest to go for Pro version.
 
 ## Installing & Activating Pro
 
-You can visit generatepress.com/premium to purchase pro. It will cost you around $49 for year. We know it&#8217;s big amount but it&#8217;s okay for this theme. If you want to purchase GPL Version of this theme, Please Click on Link Below.
+You can visit generatepress.com/premium to purchase pro. It will cost you around $49 for year. We know it's big amount but it's okay for this theme. If you want to purchase GPL Version of this theme, Please Click on Link Below.
 
 <div class="wp-block-buttons">
   <div class="wp-block-button">
@@ -146,5 +146,5 @@ tap that blue button and write copyright you want. You may use **%copy%** to pri
 Done we just saw, How To Make Fastest Blog in WordPress. IF you faced any issue while following this tutorial you can watch video Guide below.
 
 ## Video Guide {#video-guide}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YQ278bafXus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 Please comment if you have any suggestion, questions and complaints.

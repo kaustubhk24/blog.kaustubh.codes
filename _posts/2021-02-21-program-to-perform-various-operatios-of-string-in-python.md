@@ -35,12 +35,11 @@ print(str1.lower())
 print(str1.upper())</code></pre>
 
 <pre class="wp-block-code"><code>Output:
-Enter String : SwayAlgo.com Blogs
-SwayAlgo.com Blogs
+Enter String : Kaustubh K..com Blogs
+Kaustubh K..com Blogs
 18
 False
-sgolB moc.oglAyawS
-SwayAlgo.com Blogs
-b'SwayAlgo.com Blogs'
-swayalgo.com blogs
-SWAYALGO.COM BLOGS</code></pre>
+Kaustubh K..com Blogs
+b'Kaustubh K..com Blogs'
+Kaustubh K..com blogs
+Kaustubh K..COM BLOGS</code></pre>

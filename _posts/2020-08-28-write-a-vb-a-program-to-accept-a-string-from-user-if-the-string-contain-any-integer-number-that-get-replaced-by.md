@@ -9,7 +9,7 @@ permalink: /write-a-vb-a-program-to-accept-a-string-from-user-if-the-string-cont
 rank_math_internal_links_processed:
   - "1"
 blogger_blog:
-  - swayalgo.com
+  - Kaustubh K..com
 blogger_author:
   - Kaustubh Kulkarni
 blogger_permalink:

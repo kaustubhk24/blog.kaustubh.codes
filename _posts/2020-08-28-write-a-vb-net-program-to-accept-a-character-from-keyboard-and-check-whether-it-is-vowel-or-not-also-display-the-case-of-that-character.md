@@ -9,7 +9,7 @@ permalink: /write-a-vb-net-program-to-accept-a-character-from-keyboard-and-check
 rank_math_internal_links_processed:
   - "1"
 blogger_blog:
-  - swayalgo.com
+  - Kaustubh K..com
 blogger_author:
   - Kaustubh Kulkarni
 blogger_permalink:

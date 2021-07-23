@@ -26,6 +26,6 @@ print(str1&#91;::-1])
 
 Output
 
-<pre class="wp-block-code"><code>Enter String : SwayAlgo.com
-moc.oglAyawS
+<pre class="wp-block-code"><code>Enter String : Kaustubh
+hbutsuaK
 </code></pre>

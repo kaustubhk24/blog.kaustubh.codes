@@ -36,9 +36,9 @@ tags:
   - whatsapp chat button
   - whatsapp floating button
 ---
-To increase leads on your website you might be looking to add FREE WhataApp Floating Button on your website, It&#8217;s too easy to add, Let&#8217;s see ,
+To increase leads on your website you might be looking to add FREE WhataApp Floating Button on your website, It's too easy to add, Let's see ,
 
-First Visit <a aria-label="SwayAlgo Tools (opens in a new tab)" href="https://blog.kaustubh.codes/qpjy" target="_blank" rel="noreferrer noopener" class="rank-math-link">SwayAlgo Tools</a>,
+First Visit <a aria-label="Kaustubh K. (opens in a new tab)" href="https://blog.kaustubh.codes/qpjy" target="_blank" rel="noreferrer noopener" class="rank-math-link">Kaustubh K.</a>,
 
 You will see interface like screenshot below,<figure class="wp-block-image size-large">
 
@@ -46,7 +46,7 @@ You will see interface like screenshot below,<figure class="wp-block-image size-
 
 **Contents:**
 
-**Mobile Number** : In mobile number field add your mobile number , including country code , but don&#8217;t include + symbol
+**Mobile Number** : In mobile number field add your mobile number , including country code , but don't include + symbol
 
 For example,
 
@@ -58,7 +58,7 @@ For India prefix will be <s>+91</s> only 91
 
 For Example,
 
-You want to get **&#8220;Hello There&#8221;** message then add this text in message box <figure class="wp-block-image size-large">
+You want to get **"Hello There"** message then add this text in message box <figure class="wp-block-image size-large">
 
 <img loading="lazy" width="1024" height="328" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-9-1024x328.png" alt="FREE WhatsApp Floating Button" class="wp-image-1384" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-9-1024x328.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-9-300x96.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-9-768x246.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-9-1200x384.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-9.png 1358w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
@@ -66,7 +66,7 @@ Last step is to click on Generate Button, This will generate one WhatsApp api li
 
 <img loading="lazy" width="82" height="104" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-10-edited.png" alt="FREE WhatsApp Floating Button" class="wp-image-1392" /> 
 
-To add this floating button you have to copy complete code from site and paste inside your site&#8217;s body tag. in last line before `</body>`.
+To add this floating button you have to copy complete code from site and paste inside your site's body tag. in last line before `</body>`.
 
 ## Example Output Screen<figure class="wp-block-image size-large">
 
@@ -86,7 +86,7 @@ Live Preview is already added for this page , you can check right bottom corner 
     &lt;meta charset="UTF-8"&gt;
     &lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;
     &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
-    &lt;title&gt;Starter Template | SwayAlgo Tools&lt;/title&gt;
+    &lt;title&gt;Starter Template | Kaustubh K.&lt;/title&gt;
 &lt;/head&gt;
 &lt;body&gt;
     &lt;!--- Please copy from site and paste code below --&gt;
@@ -95,12 +95,7 @@ Live Preview is already added for this page , you can check right bottom corner 
 
 
 
-<div id="whatsapp-btn">
-</div>
 
-## Video<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
-<div class="wp-block-embed__wrapper">
-</div>
-
-[NOTE : This tool is not from WhatsApp , we are using there API , For copyrights claim please [contact us](https://blog.kaustubh.codes/contact/)]
+## Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Al_klaJkPf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

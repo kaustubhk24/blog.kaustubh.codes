@@ -9,7 +9,7 @@ permalink: /design-an-application-that-contains-one-label-and-two-combo-boxes-on
 rank_math_internal_links_processed:
   - "1"
 blogger_blog:
-  - swayalgo.com
+  - Kaustubh K..com
 blogger_author:
   - Kaustubh Kulkarni
 blogger_permalink:

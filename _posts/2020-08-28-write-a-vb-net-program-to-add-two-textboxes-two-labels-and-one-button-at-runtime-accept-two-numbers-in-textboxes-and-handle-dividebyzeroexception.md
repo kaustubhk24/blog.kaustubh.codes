@@ -9,7 +9,7 @@ permalink: /write-a-vb-net-program-to-add-two-textboxes-two-labels-and-one-butto
 rank_math_internal_links_processed:
   - "1"
 blogger_blog:
-  - swayalgo.com
+  - Kaustubh K..com
 blogger_author:
   - Kaustubh Kulkarni
 blogger_permalink:

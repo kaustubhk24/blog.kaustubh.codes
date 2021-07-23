@@ -57,7 +57,7 @@ The function must return a Boolean value (True/False). Output is handled by the 
 
 **Explanation 0**
 
-1990 is not a multiple of 4 hence it&#8217;s not a leap year.
+1990 is not a multiple of 4 hence it's not a leap year.
 
 
 

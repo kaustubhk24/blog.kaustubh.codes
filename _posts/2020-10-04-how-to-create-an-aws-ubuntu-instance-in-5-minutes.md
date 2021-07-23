@@ -38,7 +38,7 @@ tags:
 
 
 
-## Let&#8217;s See: How to Create an AWS Ubuntu Instance in 5 minutes?
+## Let's See: How to Create an AWS Ubuntu Instance in 5 minutes?
 
 
 
@@ -70,7 +70,7 @@ Now click on **Launch Instance** Button. Now we are going to configure our insta
 
 ## **Step 1:** 
 
-In this step we have to select An Amazon Machine Image (AMI). we will simply click on &#8220;**FREE Tier Only** &#8221; button. So It will show only the FREE options to us.<figure class="wp-block-image size-large">
+In this step we have to select An Amazon Machine Image (AMI). we will simply click on "**FREE Tier Only** " button. So It will show only the FREE options to us.<figure class="wp-block-image size-large">
 
 <img loading="lazy" width="1024" height="576" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-08-1024x576.png" alt="How to Create an AWS Ubuntu Instance in 5 minutes?" class="wp-image-311" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-08-1024x576.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-08-300x169.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-08-768x432.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-08-1200x675.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-08.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
@@ -148,7 +148,7 @@ I**mportant Note**: Keep the downloaded key safe. If you lost key, You will NOT 
 
 Our Instance is **Pending** Now. In few seconds status will be changed to **running**.
 
-That&#8217;s it. You successfully created your first **AWS Ubuntu instance**.
+That's it. You successfully created your first **AWS Ubuntu instance**.
 
 You can use your AWS Ubuntu instance to Host your website , web apps etc. 
 

@@ -35,7 +35,7 @@ What are the data types available in VB?
 
 ### **String** 
 
-String Data types used to Save words in varible Like &#8216;abc&#8217;, Its size depends on platform implementation. example
+String Data types used to Save words in varible Like &#8216;abc', Its size depends on platform implementation. example
 
 <pre class="wp-block-code"><code>Dim str As String= "PQR"</code></pre>
 
@@ -66,7 +66,7 @@ Char is used for defining single character
 
 ### **Date**
 
-As name suggest date is used to save Date values , it&#8217;s size is 8 bytes.
+As name suggest date is used to save Date values , it's size is 8 bytes.
 
 <pre class="wp-block-code"><code>Dim dt As Date = Today
 </code></pre>

@@ -9,7 +9,7 @@ permalink: /design-a-vb-net-form-to-pick-a-date-from-datetimepicker-control-and-
 rank_math_internal_links_processed:
   - "1"
 blogger_blog:
-  - swayalgo.com
+  - Kaustubh K..com
 blogger_author:
   - Kaustubh Kulkarni
 blogger_permalink:

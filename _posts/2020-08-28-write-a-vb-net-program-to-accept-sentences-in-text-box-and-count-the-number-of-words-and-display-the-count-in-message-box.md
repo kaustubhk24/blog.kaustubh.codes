@@ -9,7 +9,7 @@ permalink: /write-a-vb-net-program-to-accept-sentences-in-text-box-and-count-the
 rank_math_internal_links_processed:
   - "1"
 blogger_blog:
-  - swayalgo.com
+  - Kaustubh K..com
 blogger_author:
   - Kaustubh Kulkarni
 blogger_permalink:

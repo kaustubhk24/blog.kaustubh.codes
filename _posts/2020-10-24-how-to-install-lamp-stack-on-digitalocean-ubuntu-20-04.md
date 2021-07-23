@@ -95,7 +95,7 @@ Now click on that Create **Droplet button**.
 
 Done. Now our droplet is queue. Digital Ocean will create a droplet for us, & we will Get Public IPV4 address for that droplet.
 
-Once a droplet created You&#8217;ll see its IP address, copy that IP Address.
+Once a droplet created You'll see its IP address, copy that IP Address.
 
 If you are using any Linux or Mac version in your PC.
 
@@ -139,11 +139,11 @@ To install apache we will run a very simple command
 
 Click Y if prompted.
 
-Now our Apache is installed. If you visit your\_ip\_address you will see the apache2 default page. if you don&#8217;t see the page, No problem. We need to [configure our firewall.](#firewall-config)
+Now our Apache is installed. If you visit your\_ip\_address you will see the apache2 default page. if you don't see the page, No problem. We need to [configure our firewall.](#firewall-config)
 
 ## Installing MySQL
 
-Let&#8217;s install MySQL. Paste below commands in your terminal.
+Let's install MySQL. Paste below commands in your terminal.
 
 <pre class="wp-block-code"><code>$ apt install mysql</code></pre>
 
@@ -177,7 +177,7 @@ In next step you have to setup password for PhpMyAdmin<figure class="wp-block-im
 
 <img loading="lazy" width="608" height="239" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-16.png" alt="How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?" class="wp-image-461" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-16.png 608w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-16-300x118.png 300w" sizes="(max-width: 608px) 100vw, 608px" />  
 
-also, add a confirm password. That&#8217;s it. PhpMyadmin installation is done. Now the last and important part of the setup is firewall configuration.
+also, add a confirm password. That's it. PhpMyadmin installation is done. Now the last and important part of the setup is firewall configuration.
 
 ## Firewall Configuration {#firewall-config}
 
@@ -213,7 +213,7 @@ Now we have completed installation of LAMP stack on Ubuntu 20.04.
 
 We will check installation now.
 
-Open Any browser type droplet&#8217;s your public ip_address. 
+Open Any browser type droplet's your public ip_address. 
 
 If you see below page your installation is successful.<figure class="wp-block-image size-large">
 

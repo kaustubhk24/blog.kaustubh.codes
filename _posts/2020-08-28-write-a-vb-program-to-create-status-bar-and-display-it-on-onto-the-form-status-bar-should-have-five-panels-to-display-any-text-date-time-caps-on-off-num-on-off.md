@@ -9,7 +9,7 @@ permalink: /write-a-vb-program-to-create-status-bar-and-display-it-on-onto-the-f
 rank_math_internal_links_processed:
   - "1"
 blogger_blog:
-  - swayalgo.com
+  - Kaustubh K..com
 blogger_author:
   - Kaustubh Kulkarni
 blogger_permalink:

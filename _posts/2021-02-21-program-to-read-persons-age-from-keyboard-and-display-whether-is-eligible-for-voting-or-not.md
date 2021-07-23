@@ -1,6 +1,6 @@
 ---
 id: 1271
-title: 'Program To Read Person&#8217;s Age From Keyboard And Display Whether Is Eligible For Voting Or Not'
+title: Program To Read Person's Age From Keyboard And Display Whether Is Eligible For Voting Or Not
 date: 2021-02-21T06:38:45+00:00
 author: kaustubh
 layout: post

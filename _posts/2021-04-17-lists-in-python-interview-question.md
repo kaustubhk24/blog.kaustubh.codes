@@ -117,6 +117,6 @@ print
   </p>
   
   <p class="wp-block-coblocks-alert__text">
-    If you have any copyrights issues/complaints related to this article, you may send us mail at <a href="mailto:support@swayalgo.com" class="rank-math-link">support@swayalgo.com</a>, Also please refer to <a href="https://blog.kaustubh.codes/terms-conditions/" class="rank-math-link">Terms and Conditions</a> and <a href="https://blog.kaustubh.codes/privacy-policy/" class="rank-math-link">Privacy Policy.</a>
+    If you have any copyrights issues/complaints related to this article, you may send us mail at <a href="mailto:kaustubh@outlook.in" class="rank-math-link">kaustubh@outlook.in</a>, Also please refer to <a href="https://blog.kaustubh.codes/terms-conditions/" class="rank-math-link">Terms and Conditions</a> and <a href="https://blog.kaustubh.codes/privacy-policy/" class="rank-math-link">Privacy Policy.</a>
   </p>
 </div>

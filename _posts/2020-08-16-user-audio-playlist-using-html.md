@@ -9,7 +9,7 @@ permalink: /user-audio-playlist-using-html/
 rank_math_internal_links_processed:
   - "1"
 blogger_blog:
-  - swayalgo.com
+  - Kaustubh K..com
 blogger_author:
   - Kaustubh Kulkarni
 blogger_permalink:
@@ -20,32 +20,32 @@ rank_math_seo_score:
   - "12"
 enclosure:
   - |
-    https://static-cdn.swayalgo.com/assets/audios/sample-audios/Breatha%20-%20josh%20pan.mp3
+    https://static-cdn.Kaustubh K..com/assets/audios/sample-audios/Breatha%20-%20josh%20pan.mp3
     7350894
     audio/mpeg
     
   - |
-    https://static-cdn.swayalgo.com/assets/audios/sample-audios/Spring%20In%20My%20Step%20-%20Silent%20Partner.mp3
+    https://static-cdn.Kaustubh K..com/assets/audios/sample-audios/Spring%20In%20My%20Step%20-%20Silent%20Partner.mp3
     4751360
     audio/mpeg
     
   - |
-    https://static-cdn.swayalgo.com/assets/audios/sample-audios/Calvin%20Harris%20-%20josh%20pan.mp3
+    https://static-cdn.Kaustubh K..com/assets/audios/sample-audios/Calvin%20Harris%20-%20josh%20pan.mp3
     6251661
     audio/mpeg
     
   - |
-    https://static-cdn.swayalgo.com/assets/audios/sample-audios/Muriel%20-%20Bobby%20Richards.mp3
+    https://static-cdn.Kaustubh K..com/assets/audios/sample-audios/Muriel%20-%20Bobby%20Richards.mp3
     4193212
     audio/mpeg
     
   - |
-    https://static-cdn.swayalgo.com/assets/audios/sample-audios/Phrase%20Prant%20-%20josh%20pan.mp3
+    https://static-cdn.Kaustubh K..com/assets/audios/sample-audios/Phrase%20Prant%20-%20josh%20pan.mp3
     7897375
     audio/mpeg
     
   - |
-    https://static-cdn.swayalgo.com/assets/audios/sample-audios/Voices%20-%20Patrick%20Patrikios.mp3
+    https://static-cdn.Kaustubh K..com/assets/audios/sample-audios/Voices%20-%20Patrick%20Patrikios.mp3
     6084478
     audio/mpeg
     

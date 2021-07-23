@@ -1,6 +1,6 @@
 ---
 id: 1451
-title: 'function in Python to count words in a text file those are ending with alphabet &#8220;e&#8221;'
+title: 'function in Python to count words in a text file those are ending with alphabet "e"'
 date: 2021-03-21T06:14:16+00:00
 author: kaustubh
 layout: post

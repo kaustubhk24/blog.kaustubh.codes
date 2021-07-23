@@ -23,7 +23,7 @@ Without using any string methods, try to print the following:
 
 123..
 
-Note that &#8220;..&#8221; represents the consecutive values in between.
+Note that ".." represents the consecutive values in between.
 
 **Example**
 

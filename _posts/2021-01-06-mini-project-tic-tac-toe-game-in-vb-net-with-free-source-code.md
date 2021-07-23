@@ -42,7 +42,7 @@ In this tutorial we are going to make complete mini project VB.NET game named ti
 
 ### **Making UI**
 
-Now Let&#8217;s get started, first open your Visual Studio and drag 10 Buttons and 1 label and 1 image view and arrange all of them like design below. You can download image assets from here.<figure class="wp-block-image size-large">
+Now Let's get started, first open your Visual Studio and drag 10 Buttons and 1 label and 1 image view and arrange all of them like design below. You can download image assets from here.<figure class="wp-block-image size-large">
 
 <img loading="lazy" width="736" height="484" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/tic-tac-toe.png" alt="Tic Tac Toe Game in VB.NET" class="wp-image-1152" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/tic-tac-toe.png 736w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/tic-tac-toe-300x197.png 300w" sizes="(max-width: 736px) 100vw, 736px" /> 
 
@@ -65,7 +65,7 @@ First writing function to **restart** game
         Return True
     End Function</code></pre>
 
-Now Let&#8217;s define next function to **shownext ,**
+Now Let's define next function to **shownext ,**
 
 <pre class="wp-block-code"><code> Public Function showNext()
         If (nextPlayer = "X") Then
@@ -119,7 +119,7 @@ This last function will be used to Print winner that we found in Previous functi
         End If
     End Function</code></pre>
 
-Now Let&#8217;s Combine all code and it will look like below
+Now Let's Combine all code and it will look like below
 
 <pre class="wp-block-code"><code>Public Class Form1
     Dim nextPlayer As Char = "X"
@@ -224,7 +224,7 @@ if you want to Download complete Project with source code or want to download as
 
 <div class="wp-block-buttons">
   <div class="wp-block-button">
-    <a class="wp-block-button__link" href="https://blog.kaustubh.codes/product/source-code-mini-project-tic-tac-toe-game-in-vb-net/" target="_blank" rel="noreferrer noopener">Download Now FREE</a>
+    <a class="wp-block-button__link" href="https://github.com/JustInClicks-com/static-cdn/raw/main/Downloads/Desktop/Tic%20Tac%20Toe.rar" target="_blank" rel="noreferrer noopener">Download Now FREE</a>
   </div>
 </div>
 

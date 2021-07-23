@@ -109,7 +109,7 @@ Updating to latest version provides you security patches & restarting server als
 
 ## How do I schedule a crontab script?
 
-As mentioned above its very easy, We also made a tool, to help you in making command for that. Please visit this <a aria-label="tool. (opens in a new tab)" href="https://tools.swayalgo.com/crontab-jobs-schedule-maker/" target="_blank" rel="noreferrer noopener" class="rank-math-link">tool.</a>
+As mentioned above its very easy, We also made a tool, to help you in making command for that. Please visit this <a aria-label="tool. (opens in a new tab)" href="https://tools.Kaustubh.codes/crontab-jobs-schedule-maker/" target="_blank" rel="noreferrer noopener" class="rank-math-link">tool.</a>
 
 ## What does \* \* \* \* * mean in cron?
 
@@ -121,6 +121,6 @@ Yes we made this tool specially for crontab, Its completely free to use.
 
 <div class="wp-block-buttons">
   <div class="wp-block-button">
-    <a class="wp-block-button__link" href="https://tools.swayalgo.com/crontab-jobs-schedule-maker/">Crontab Scheduling Tool</a>
+    <a class="wp-block-button__link" href="https://tools.Kaustubh.codes/crontab-jobs-schedule-maker/">Crontab Scheduling Tool</a>
   </div>
 </div>

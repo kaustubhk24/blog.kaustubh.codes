@@ -42,9 +42,9 @@ tags:
 ---
  
 
-Let&#8217;s see How to Install FREE EasyAppointements on CPanel in 5 minutes? 
+Let's see How to Install FREE EasyAppointements on CPanel in 5 minutes? 
 
-In this tutorial, we are Going to install the popular <a aria-label="Easy!Appoinments (opens in a new tab)" href="http://easyappointments.org/" target="_blank" rel="noreferrer noopener nofollow" class="rank-math-link">Easy!Appoinments</a> on <a aria-label="CPanel (opens in a new tab)" href="https://en.wikipedia.org/wiki/CPanel" target="_blank" rel="noreferrer noopener nofollow" class="rank-math-link">CPanel</a>. You don&#8217;t need to do any coding just install this and you are ready to go.
+In this tutorial, we are Going to install the popular <a aria-label="Easy!Appoinments (opens in a new tab)" href="http://easyappointments.org/" target="_blank" rel="noreferrer noopener nofollow" class="rank-math-link">Easy!Appoinments</a> on <a aria-label="CPanel (opens in a new tab)" href="https://en.wikipedia.org/wiki/CPanel" target="_blank" rel="noreferrer noopener nofollow" class="rank-math-link">CPanel</a>. You don't need to do any coding just install this and you are ready to go.
 
 ## What is EasyAppointments?
 
@@ -58,7 +58,7 @@ EasyAppointments is <a aria-label="open-source (opens in a new tab)" href="https
 
 To upload files, first we need to download them from <a aria-label=" http://easyappointments.org/ (opens in a new tab)" href="http://easyappointments.org/" target="_blank" rel="noreferrer noopener nofollow" class="rank-math-link">http://easyappointments.org/</a> .
 
-To download visit above link and click on **Source Code** once source code is downloaded. Now visit your website&#8217;s CPanel. You can access your cpanel from your hosting provider&#8217;s site or you can directly access using cpanel.yoursite.com or yoursite.com/cpanel .
+To download visit above link and click on **Source Code** once source code is downloaded. Now visit your website's CPanel. You can access your cpanel from your hosting provider's site or you can directly access using cpanel.yoursite.com or yoursite.com/cpanel .
 
 Once you accessed your CPanel we will be moving to upload our files on CPanel Account .
 
@@ -70,7 +70,7 @@ Suppose you want to add your software at **example.com/book** then create a fold
 
 Now upload the .zip file we downloaded from easy appointments site. Now we have to extract that file. After extraction, you will get a folder with the same name as our zip file name. Firstly we can securely delete that zip file. Now move the content from our **easyappontments&#8230;.** folder to our **book** folder. 
 
-that&#8217;s it. we completed our first task to upload required files to the server.
+that's it. we completed our first task to upload required files to the server.
 
 One important task is to rename `config-sample.php` to `config.php` <figure class="wp-block-image size-large">
 
@@ -141,7 +141,7 @@ class Config {
     // ------------------------------------------------------------------------
     // GENERAL SETTINGS
     // ------------------------------------------------------------------------
-    const BASE_URL      = 'https://book.swayalgo.com/test-booking';
+    const BASE_URL      = 'https://book.Kaustubh K..com/test-booking';
     const LANGUAGE      = 'english';
     const DEBUG_MODE    = FALSE;
     // ------------------------------------------------------------------------

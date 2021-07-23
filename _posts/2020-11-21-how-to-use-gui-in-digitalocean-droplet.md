@@ -28,17 +28,17 @@ image: http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/installing-gui
 categories:
   - Digital Ocean
 ---
-Let&#8217;s see How To Use GUI in DigitalOcean Droplet? 
+Let's see How To Use GUI in DigitalOcean Droplet? 
 
 If you are looking for running <a aria-label="DigitalOcean  (opens in a new tab)" rel="noreferrer noopener sponsored" class="rank-math-link" href="https://m.do.co/c/253fdc8807b5" target="_blank">DigitalOcean </a>Ubuntu Droplet using GUI ( Graphical User Interface ) Then you are at right place. to Follow this tutorial you must have Droplet.
 
-If you don&#8217;t have your droplet then Create your first [DigitalOcean Droplet here](https://blog.kaustubh.codes/how-to-install-lamp-stack-on-digitalocean-ubuntu-20-04/#Creating_Droplet).
+If you don't have your droplet then Create your first [DigitalOcean Droplet here](https://blog.kaustubh.codes/how-to-install-lamp-stack-on-digitalocean-ubuntu-20-04/#Creating_Droplet).
 
 ## Access your Droplet
 
 To use install <a aria-label="GUI (Graphical User Interface) (opens in a new tab)" href="https://en.wikipedia.org/wiki/Graphical_user_interface" target="_blank" rel="noreferrer noopener nofollow" class="rank-math-link">GUI (Graphical User Interface)</a> on your droplet. You must have <a aria-label="root level access (opens in a new tab)" href="https://en.wikipedia.org/wiki/Superuser" target="_blank" rel="noreferrer noopener nofollow" class="rank-math-link">root level access</a> to your Droplet. 
 
-If you don&#8217;t know how access your DigitalOcean droplet. Please read <a aria-label=" this article. (opens in a new tab)" href="https://blog.kaustubh.codes/how-to-access-digital-ocean-droplet-the-best-way/" target="_blank" rel="noreferrer noopener" class="rank-math-link">this article.</a>
+If you don't know how access your DigitalOcean droplet. Please read <a aria-label=" this article. (opens in a new tab)" href="https://blog.kaustubh.codes/how-to-access-digital-ocean-droplet-the-best-way/" target="_blank" rel="noreferrer noopener" class="rank-math-link">this article.</a>
 
 ## Installing Required Packages
 
@@ -68,7 +68,7 @@ This will install desktop GUI. After installing we need to reboot droplet. To re
 
 After rebooting it will open, in GUI. 
 
-Now you will need to follow and complete the wizard. That&#8217;s it done! <figure class="wp-block-image size-large">
+Now you will need to follow and complete the wizard. That's it done! <figure class="wp-block-image size-large">
 
 <img loading="lazy" width="754" height="523" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-18.png" alt="How To Use GUI in DigitalOcean Droplet" class="wp-image-863" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-18.png 754w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-18-300x208.png 300w" sizes="(max-width: 754px) 100vw, 754px" /> 
 

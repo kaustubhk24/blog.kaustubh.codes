@@ -9,7 +9,7 @@ permalink: /program-to-find-largest-number-from-given-numbers-in-java/
 rank_math_internal_links_processed:
   - "1"
 blogger_blog:
-  - swayalgo.com
+  - Kaustubh K..com
 blogger_author:
   - Kaustubh Kulkarni
 blogger_permalink:

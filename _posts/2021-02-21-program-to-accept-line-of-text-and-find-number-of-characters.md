@@ -23,5 +23,5 @@ str1=str(input("Enter String : "))
 print(len(str1))</code></pre>
 
 <pre class="wp-block-code"><code>output:
-Enter String : SwayAlgo.com is best site for all programmers
+Enter String : Kaustubh K..com is best site for all programmers
 45</code></pre>

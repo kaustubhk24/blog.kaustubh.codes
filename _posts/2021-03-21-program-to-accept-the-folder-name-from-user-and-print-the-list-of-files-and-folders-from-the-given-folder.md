@@ -34,7 +34,7 @@ print("-----------------------------------------------")</code></pre>
 output:
 
 <pre class="wp-block-code"><code>
-Please copy paste path of folder : C:\Users\SwayAlgo\Downloads\Python\LAB 2
+Please copy paste path of folder : C:\Users\Kaustubh K.\Downloads\Python\LAB 2
 Following are the files in folder
 -----------------------------------------------
 File Number      File Names

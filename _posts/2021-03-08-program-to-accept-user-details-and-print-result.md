@@ -30,7 +30,7 @@ You have to write program to Accept student details Like Name, Marks ( Maths, Ch
 77 # Maths Marks
 </code></pre>
 
-This will output student result All subject&#8217;s marks and percent must be greater than equal to 35
+This will output student result All subject's marks and percent must be greater than equal to 35
 
 **Constraint**
 

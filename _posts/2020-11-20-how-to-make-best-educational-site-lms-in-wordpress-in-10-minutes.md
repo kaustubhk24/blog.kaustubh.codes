@@ -26,7 +26,7 @@ image: http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/Copy-of-how-to
 categories:
   - wordpress
 ---
-Let&#8217;s See Make Best Educational Site LMS In WordPress.
+Let's See Make Best Educational Site LMS In WordPress.
 
 # Installing SSL<figure class="wp-block-image size-large">
 
@@ -52,11 +52,11 @@ Once WordPress installed, Remove all the default, Post,Pages, themes etc. To cle
 
 <img loading="lazy" width="1024" height="349" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-14-1024x349.png" alt="Make Best Educational Site LMS In WordPress" class="wp-image-779" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-14-1024x349.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-14-300x102.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-14-768x262.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-14.png 1110w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
-To install theme we need to purchase <a href="http://swayalgo.com/eduma" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener sponsored" class="rank-math-link">Eduma theme</a>. Visit <a href="http://swayalgo.com/eduma" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener sponsored" class="rank-math-link">this Link to purchase</a> the theme at Lowest cost. After Purchase Open the Themes section and install the downloaded theme from site.
+To install theme we need to purchase <a href="http://Kaustubh K..com/eduma" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener sponsored" class="rank-math-link">Eduma theme</a>. Visit <a href="http://Kaustubh K..com/eduma" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener sponsored" class="rank-math-link">this Link to purchase</a> the theme at Lowest cost. After Purchase Open the Themes section and install the downloaded theme from site.
 
 # Steps
 
-Last step is to follow there wizard , and import demo. that&#8217;s it. You got site just in 10 minutes or less.
+Last step is to follow there wizard , and import demo. that's it. You got site just in 10 minutes or less.
 
 If facing difficulties [check this guide.](#video)<figure class="wp-block-image size-large">
 

@@ -24,7 +24,7 @@ tags:
 ---
  
 
-In this tutorial we will write a program , when you will double click on Python file it will show you Windows 10 notification and will show Today&#8217;s lecture Schedules
+In this tutorial we will write a program , when you will double click on Python file it will show you Windows 10 notification and will show Today's lecture Schedules
 
 To use this update your subject names and lecture times accordingly
 

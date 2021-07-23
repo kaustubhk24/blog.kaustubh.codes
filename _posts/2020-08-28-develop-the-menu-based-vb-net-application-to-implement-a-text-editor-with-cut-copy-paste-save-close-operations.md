@@ -9,7 +9,7 @@ permalink: /develop-the-menu-based-vb-net-application-to-implement-a-text-editor
 rank_math_internal_links_processed:
   - "1"
 blogger_blog:
-  - swayalgo.com
+  - Kaustubh K..com
 blogger_author:
   - Kaustubh Kulkarni
 blogger_permalink:

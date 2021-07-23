@@ -24,7 +24,7 @@ categories:
 ---
 How to Get Hosting at FREE / Cheap Price?
 
-We know all beginners search for FREE or cheap hosting plans. Let&#8217;s discuss how to get Cheap Price web hosting and know the reality of FREE web hosting.
+We know all beginners search for FREE or cheap hosting plans. Let's discuss how to get Cheap Price web hosting and know the reality of FREE web hosting.
 
 
 
@@ -57,13 +57,13 @@ So simply use FREE hosting for your testing or learning. But You may use paid ho
 
 
 
-## Let&#8217;s Find a Suitable Paid Plan for you.
+## Let's Find a Suitable Paid Plan for you.
 
 Now we will find which paid plan is suitable for you. 
 
 There are Multiple service providers as you know . I am NOT going to take any name here. (As I am NOT there affiliate).
 
-Everyone has there pro&#8217;s and cons.
+Everyone has there pro's and cons.
 
 Some of them are very cost effective , some of them with Good customer support. here choice is yours. But I am going to tell you best thing we can do for our hosting.
 
@@ -83,7 +83,7 @@ Like if VPS has 100GB storage they will divide that storage into 10 People. User
 
 And for these services, we pay an amount nearly similar to the cost of VPS.
 
-& if we pay amount same as VPS why don&#8217;t we use our own VPS?
+& if we pay amount same as VPS why don't we use our own VPS?
 
 ## Benifits of VPS
 

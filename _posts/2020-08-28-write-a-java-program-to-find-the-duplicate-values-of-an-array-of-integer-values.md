@@ -9,7 +9,7 @@ permalink: /write-a-java-program-to-find-the-duplicate-values-of-an-array-of-int
 rank_math_internal_links_processed:
   - "1"
 blogger_blog:
-  - swayalgo.com
+  - Kaustubh K..com
 blogger_author:
   - Kaustubh Kulkarni
 blogger_permalink:

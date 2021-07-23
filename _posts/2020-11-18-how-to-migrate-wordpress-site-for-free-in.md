@@ -22,7 +22,7 @@ categories:
 ---
 In this tutorial we will see How To Migrate WordPress Site?
 
-Let&#8217;s see.
+Let's see.
 
 # How To Migrate WordPress Site?
 
@@ -46,11 +46,11 @@ After Select option **Create Backup** & Click on **Create Backup** Button. Pleas
 
 Once Backup is completed you will see a link to download that backup. You can always download this backup and restore whenever you need that backup. But in this tutorial we are going to migrate to another domain / host.
 
-That&#8217;s why you will need to click on **Copy URL** button next to that generated link.<figure class="wp-block-image size-large">
+That's why you will need to click on **Copy URL** button next to that generated link.<figure class="wp-block-image size-large">
 
 <img loading="lazy" width="1024" height="300" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-9-1024x300.png" alt="How To Migrate WordPress Site" class="wp-image-717" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-9-1024x300.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-9-300x88.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-9-768x225.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-9.png 1128w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
-That&#8217;s it for your old site. Now we will work on our new site.
+That's it for your old site. Now we will work on our new site.
 
 ## Procedure on New Site.
 
@@ -64,7 +64,7 @@ You click on **I agree**, & then click on **Restore From URL**.
 
 It will prompt This may take few minutes.Proceed? click on **yes**. 
 
-Now sit back & relax, don&#8217;t click anything or refresh or close anything. This plugin will automatically download that .zip from old site & will automatically install.
+Now sit back & relax, don't click anything or refresh or close anything. This plugin will automatically download that .zip from old site & will automatically install.
 
 After installling it will show you the succes page. 
 

@@ -9,7 +9,7 @@ permalink: /write-html-and-css-code-to-design-a-web-page-divide-the-browser-scre
 rank_math_internal_links_processed:
   - "1"
 blogger_blog:
-  - swayalgo.com
+  - Kaustubh K..com
 blogger_author:
   - Kaustubh Kulkarni
 blogger_permalink:
@@ -272,8 +272,8 @@ Output:
 
 <pre><br /><br />&lt;html><br />&lt;head>&lt;title> &lt;/title>&lt;/head><br />&lt;body><br />&lt;a href="file1.html">FYBCA&lt;/a>&lt;br><br />&lt;a href="file2.html">SYBCA&lt;/a><br />&lt;/body><br />&lt;/html><br /><br /></pre>
 
-Output: [FYBCA](http://swayalgo.com/timetable_fy.html)  
-[SYBCA](http://swayalgo.com/timetable_sy.html) 
+Output: [FYBCA](http://Kaustubh K..com/timetable_fy.html)  
+[SYBCA](http://Kaustubh K..com/timetable_sy.html) 
 
 <pre>file4.html</pre>
 

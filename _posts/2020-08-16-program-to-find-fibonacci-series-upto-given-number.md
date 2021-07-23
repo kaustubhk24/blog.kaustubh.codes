@@ -9,7 +9,7 @@ permalink: /program-to-find-fibonacci-series-upto-given-number/
 rank_math_internal_links_processed:
   - "1"
 blogger_blog:
-  - swayalgo.com
+  - Kaustubh K..com
 blogger_author:
   - Kaustubh Kulkarni
 blogger_permalink:

@@ -7,7 +7,7 @@ layout: post
 guid: https://blog.kaustubh.codes/how-to-create-aws-account/
 permalink: /how-to-create-aws-account/
 blogger_blog:
-  - blog.swayalgo.com
+  - blog.Kaustubh K..com
 blogger_author:
   - Kaustubh Kulkarni
 blogger_permalink:
@@ -28,11 +28,11 @@ categories:
   - AWS
 ---
 
-To create AWS account please visit https://aws.amazon.com/ ,  Now click on &#8221; Create an AWS Account &#8221; in the top right corner.
+To create AWS account please visit https://aws.amazon.com/ ,  Now click on " Create an AWS Account " in the top right corner.
 
 ![Navbar AWS](/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-21-07-36-1024x198.png "Navbar")
 
- Now in the &#8220;Create an AWS account&#8221; form enter all of your details correctly.  Now Click on &#8220;Continue Button&#8221;
+ Now in the "Create an AWS account" form enter all of your details correctly.  Now Click on "Continue Button"
  ![AWS Signup form](/imgs/img/blog/aws-2.png "AWS Signup form")
 
  Now you need to complete remaining Details

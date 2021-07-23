@@ -1,6 +1,6 @@
 ---
 id: 1315
-title: 'Japanese Cities&#8217; Names'
+title: Japanese Cities Names
 date: 2021-03-04T07:48:57+00:00
 author: kaustubh
 layout: post

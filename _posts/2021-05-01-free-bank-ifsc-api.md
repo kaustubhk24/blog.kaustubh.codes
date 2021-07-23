@@ -30,11 +30,11 @@ categories:
   - Programming
   - Tech
 ---
-Free Bank IFSC API, If you are making app that is using IFSC code as input, then you must show bank details after user enter&#8217;s their details, So user can verify it, To do this you will need data of banks and it&#8217;s not easy to maintain data of around 3 Lakh bank branches in our country and there is no standard api yet provided by RBI ( Reserve Bank of India ) to do this,
+Free Bank IFSC API, If you are making app that is using IFSC code as input, then you must show bank details after user enter's their details, So user can verify it, To do this you will need data of banks and it's not easy to maintain data of around 3 Lakh bank branches in our country and there is no standard api yet provided by RBI ( Reserve Bank of India ) to do this,
 
-There are some api&#8217;s but they are paid, So you have to pay per request, they charge you because they also have to pay for their hosting&#8217;s , servers & maintenance etc.
+There are some api's but they are paid, So you have to pay per request, they charge you because they also have to pay for their hosting's , servers & maintenance etc.
 
-After searching for API&#8217;s for indian banks we found one GitHub repository, which offers free banking API, You don&#8217;t have to pay anything for using this,as it is open source you can always use this api without any worry, So In this tutorial we will guide you from beginning to end how to use this api.
+After searching for API's for indian banks we found one GitHub repository, which offers free banking API, You don't have to pay anything for using this,as it is open source you can always use this api without any worry, So In this tutorial we will guide you from beginning to end how to use this api.
 
 ## How to use Free Bank IFSC API
 
@@ -100,7 +100,7 @@ See Example<figure class="wp-block-image size-large">
 
 ## 2. API To Get Data By Selections
 
-This API useful if you don&#8217;t know the IFSC code of the bank but know it&#8217;s location, So as API as follows to Get Bank Data
+This API useful if you don't know the IFSC code of the bank but know it's location, So as API as follows to Get Bank Data
 
 ### [](https://github.com/kaustubhk24/Indian-Banks-Data/wiki/V1-Documentation#step-1-get-state-list)Step 1: Get State List  
 
@@ -157,13 +157,13 @@ Now In this Step, we will pass the STATE name in Request, this will return the d
 URL Format&nbsp;`https://bank-apis.justinclicks.com/API/V1/STATE/STATE_NAME/`&nbsp;,  
 Example&nbsp;`https://bank-apis.justinclicks.com/API/V1/STATE/MAHARASHTRA/`
 
-### [](https://github.com/kaustubhk24/Indian-Banks-Data/wiki/V1-Documentation#step-3-get-citys-list)Step 3: Get City&#8217;s List
+### [](https://github.com/kaustubhk24/Indian-Banks-Data/wiki/V1-Documentation#step-3-get-citys-list)Step 3: Get City's List
 
 To get city list  
 URL Format&nbsp;`https://bank-apis.justinclicks.com/API/V1/STATE/STATE_NAME/DISTRICT_NAME/`  
 Example&nbsp;`https://bank-apis.justinclicks.com/API/V1/STATE/MAHARASHTRA/PUNE/`
 
-### [](https://github.com/kaustubhk24/Indian-Banks-Data/wiki/V1-Documentation#step-4-get-centers-list)Step 4: Get Center&#8217;s List
+### [](https://github.com/kaustubhk24/Indian-Banks-Data/wiki/V1-Documentation#step-4-get-centers-list)Step 4: Get Center's List
 
 To get Center list  
 URL Format&nbsp;`https://bank-apis.justinclicks.com/API/V1/STATE/STATE_NAME/DISTRICT_NAME/CITY_NAME`  
@@ -229,7 +229,6 @@ see example
 
 <img loading="lazy" width="1024" height="369" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-2-1024x369.png" alt="Free Bank IFSC API" class="wp-image-1550" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-2-1024x369.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-2-300x108.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-2-768x277.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-2-1536x554.png 1536w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-2-1200x433.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-2.png 1623w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
-## Video Guide<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+## Video Guide
 
-<div class="wp-block-embed__wrapper">
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bPSj6YGMmH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

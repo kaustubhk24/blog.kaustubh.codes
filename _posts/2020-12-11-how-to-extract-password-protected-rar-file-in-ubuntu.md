@@ -39,4 +39,4 @@ IF your file is password protected it will prompt for password. if file is not p
 
 <pre class="wp-block-code"><code>Enter password (will not be echoed) for file.zip</code></pre>
 
-That&#8217;s it , I carried out this practical on Ubuntu 20.04 on 11/12/2020. If you are facing issues with your OS then just comment with os version. will help you in setup.
+That's it , I carried out this practical on Ubuntu 20.04 on 11/12/2020. If you are facing issues with your OS then just comment with os version. will help you in setup.

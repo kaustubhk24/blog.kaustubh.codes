@@ -43,7 +43,7 @@ Many times while working on static sites we need HTML forms to embeded on our si
 
 ## Making Your HTML Form
 
-Firstly you should have HTML form with you, if you don&#8217;t have any form now, then for example you can freely copy paste our form, see example **Registration-file.html** form.
+Firstly you should have HTML form with you, if you don't have any form now, then for example you can freely copy paste our form, see example **Registration-file.html** form.
 
 Registration-file.html
 
@@ -109,9 +109,9 @@ Make sure you have
 
 ## Setting Up Google Sheet To Submit HTML
 
-First create <a aria-label="Google Sheet  (opens in a new tab)" href="https://sheets.google.com" target="_blank" rel="noreferrer noopener" class="rank-math-link">Google Sheet </a>, if you don&#8217;t have one.
+First create <a aria-label="Google Sheet  (opens in a new tab)" href="https://sheets.google.com" target="_blank" rel="noreferrer noopener" class="rank-math-link">Google Sheet </a>, if you don't have one.
 
-Now let&#8217;s link google form to sheet, So that we can submit HTML Form To Google Sheet.
+Now let's link google form to sheet, So that we can submit HTML Form To Google Sheet.
 
 Click on **Script Editor**, Now it will open editor in next screen,<figure class="wp-block-image size-large">
 
@@ -183,7 +183,7 @@ function setup() {
 
 Click on Setup Button to start setup
 
-Once you start setup it will show you message that **Authorization Required**, Now let&#8217;s authorize it,
+Once you start setup it will show you message that **Authorization Required**, Now let's authorize it,
 
 It will ask you for some permissions , So simply **allow** all the permission , So that we can submit html form to google sheets,
 
@@ -209,7 +209,7 @@ From this window copy URL & keep it safe,
 
 ## Creating File To Submit Data
 
-In last step create file save-on-drive.html and just update url you copied from Google site, that&#8217;s it, Your app is ready, You can use,
+In last step create file save-on-drive.html and just update url you copied from Google site, that's it, Your app is ready, You can use,
 
 save-on-drive.html
 
@@ -245,24 +245,21 @@ request.send();
 &lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;</pre>
-
 ## Live Preview ( How it Works )
 
 Registration form
 
-## Video <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-
-<div class="wp-block-embed__wrapper">
-</div>
+## Video 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZldOKPSqZUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Download Complete Project
 
-This project example is now available for free, Get it while it&#8217;s free.
+This project example is now available for free, Get it while it's free.
 
-Downlaod complete source code from link below
+Download complete source code from link below
 
 <div class="wp-block-buttons">
   <div class="wp-block-button">
-    <a class="wp-block-button__link" href="https://blog.kaustubh.codes/product/html-form-submit-google-sheet-example/" target="_blank" rel="noreferrer noopener">Download Source Code</a>
+    <a class="wp-block-button__link" href="https://github.com/JustInClicks-com/static-cdn/raw/main/Downloads/html/html-form-submit-google-sheet-exmple.rar" target="_blank" rel="noreferrer noopener">Download Source Code</a>
   </div>
 </div>

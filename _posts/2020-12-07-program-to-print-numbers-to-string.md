@@ -21,7 +21,7 @@ categories:
 ---
 We are going to write Program to Print Numbers to String, which will print from 1 to 99,99,99,999.
 
-You can also increase it&#8217;s capacity by adding few cases in **startPrint()** method.
+You can also increase it's capacity by adding few cases in **startPrint()** method.
 
 <pre class="wp-block-code"><code>import java.util.ArrayList;
 import java.util.Scanner;

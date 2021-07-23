@@ -9,7 +9,7 @@ permalink: /write-a-vb-program-for-dental-payment-form-calculate-total-on-select
 rank_math_internal_links_processed:
   - "1"
 blogger_blog:
-  - swayalgo.com
+  - Kaustubh K..com
 blogger_author:
   - Kaustubh Kulkarni
 blogger_permalink:

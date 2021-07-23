@@ -62,7 +62,7 @@ categories:
 ---
  
 
-Many times we need Convert Number to Word, You don&#8217;t need to waste your time in Writing code for that. You can use below library to do that.
+Many times we need Convert Number to Word, You don't need to waste your time in Writing code for that. You can use below library to do that.
 
 <div class="wp-block-buttons">
   <div class="wp-block-button">
@@ -112,7 +112,7 @@ Now Open **build.gradle (Module**) file and paste implemention line there in dep
 <pre class="wp-block-code"><code>implementation 'com.github.kaustubhk24:NumberToWords-Library:c3880604dc'
 </code></pre>
 
-That&#8217;s it . Now you will see one notification that Gradle files have changed since last project sync. 
+That's it . Now you will see one notification that Gradle files have changed since last project sync. 
 
 You need to click on **Sync Now** Button.<figure class="wp-block-image size-large">
 

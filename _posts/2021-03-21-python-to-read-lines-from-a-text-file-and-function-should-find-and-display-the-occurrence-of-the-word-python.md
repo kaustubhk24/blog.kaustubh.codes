@@ -1,6 +1,6 @@
 ---
 id: 1445
-title: 'Python to read lines from a text file and function should find and display the occurrence of the word &#8220;Python&#8221;.'
+title: 'Python to read lines from a text file and function should find and display the occurrence of the word "Python".'
 date: 2021-03-21T06:09:01+00:00
 author: kaustubh
 layout: post

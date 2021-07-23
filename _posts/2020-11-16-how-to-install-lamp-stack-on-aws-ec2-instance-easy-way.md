@@ -30,7 +30,7 @@ In this tutorial we will see, How to Install LAMP Stack on AWS EC2 Instance?
 
 ## Create AWS Account
 
-If you don&#8217;t have AWS account previously, You can create your aws <a href="https://blog.kaustubh.codes/how-to-create-aws-account/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">account here</a>.
+If you don't have AWS account previously, You can create your aws <a href="https://blog.kaustubh.codes/how-to-create-aws-account/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">account here</a>.
 
 ## Creating Instance
 
@@ -38,7 +38,7 @@ We are going to create Ubuntu 20.04 EC2 instance . To <a href="https://blog.kaus
 
 ## Accessing Instance from your PC
 
-If you don&#8217;t know how to access VPS ( Virtual Private Server). Then please follow <a href="https://blog.kaustubh.codes/how-to-access-digital-ocean-droplet-the-best-way/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">this guide. </a>
+If you don't know how to access VPS ( Virtual Private Server). Then please follow <a href="https://blog.kaustubh.codes/how-to-access-digital-ocean-droplet-the-best-way/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">this guide. </a>
 
 _This is written for digital ocean, but it will work on ec2 too. Except method #1 [from console]_
 
@@ -87,7 +87,7 @@ First thing we have to do once logged in is, switching user to **root** from **u
 
 <pre class="wp-block-code"><code>$   sudo -i</code></pre>
 
-(You can just copy paste commmands, Just change them according to your requirements. While exectuing commands below if asked click &#8220;**y** &#8221; and hit enter)
+(You can just copy paste commmands, Just change them according to your requirements. While exectuing commands below if asked click "**y** " and hit enter)
 
 <pre class="wp-block-code"><code>$    apt update
 $    apt upgrade</code></pre>
@@ -106,7 +106,7 @@ Now fill complete details of user and once asked for confirmation type **y** and
 
 <img loading="lazy" width="840" height="369" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-5.png" alt="How to Install LAMP Stack on AWS EC2 Instance?" class="wp-image-687" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-5.png 840w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-5-300x132.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-5-768x337.png 768w" sizes="(max-width: 840px) 100vw, 840px" /> 
 
-Now we&#8217;re going to add sudo / root privileges to this user , So the user can do tasks by using word sudo. To do that
+Now we're going to add sudo / root privileges to this user , So the user can do tasks by using word sudo. To do that
 
 <pre class="wp-block-code"><code>$    usermod -aG sudo enter_username_here</code></pre>
 
@@ -136,7 +136,7 @@ $ ufw enable</code></pre>
 <pre class="wp-block-code"><code>$ apt install apache2
 $ service apache2 restart</code></pre>
 
-We need to update firewall rules again & need to add **&#8220;Apache&#8221;** to allowed list. To allow execute below commands.
+We need to update firewall rules again & need to add **"Apache"** to allowed list. To allow execute below commands.
 
 <pre class="wp-block-code"><code>$ ufw allow "Apache Full"</code></pre>
 
@@ -144,7 +144,7 @@ Once done visit your **EC2 IP address**, You will see success apache configurati
 
 <img loading="lazy" width="896" height="486" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-17.png" alt="How to Install LAMP Stack on AWS EC2 Instance?" class="wp-image-462" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-17.png 896w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-17-300x163.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-17-768x417.png 768w" sizes="(max-width: 896px) 100vw, 896px" /> 
 
-If you are unable to view above page, then that&#8217;s not issue, We can update some setting and you will be able to see this page. To do that,
+If you are unable to view above page, then that's not issue, We can update some setting and you will be able to see this page. To do that,
 
 visit <a href="http://console.aws.amazon.com" target="_blank" aria-label="console.aws.amazon.com (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">console.aws.amazon.com</a>
 
@@ -162,7 +162,7 @@ To install Mysql use below commands.
 
 <pre class="wp-block-code"><code>$ apt install mysql-server</code></pre>
 
-You can also install phpMyAdmin , if you need , but it&#8217;s not required. To install PhpMyAdmin use below commands,
+You can also install phpMyAdmin , if you need , but it's not required. To install PhpMyAdmin use below commands,
 
 <pre class="wp-block-code"><code>$ apt install phpmyadmin</code></pre>
 
@@ -170,11 +170,11 @@ You can access PhpMyAdmin at _your\_instance\_ip_address/phpmyadmin_. View Video
 
 ## Installing PHP
 
-Installing PHP is the last step, Let&#8217;s complete that too,
+Installing PHP is the last step, Let's complete that too,
 
 <pre class="wp-block-code"><code>$ apt install libapache2-mod-php php-mysql</code></pre>
 
-enter **y** when asked, That&#8217;s it. You just completed installation of LAMP Stack on your aws EC2 Ubuntu instance.
+enter **y** when asked, That's it. You just completed installation of LAMP Stack on your aws EC2 Ubuntu instance.
 
 
 

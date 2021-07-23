@@ -16,7 +16,7 @@ rank_math_primary_category:
   - "9"
 enclosure:
   - |
-    https://static-cdn.swayalgo.com/assets/videos/Move-From-Blogger-To-WordPress-1.mp4
+    https://static-cdn.Kaustubh K..com/assets/videos/Move-From-Blogger-To-WordPress-1.mp4
     7084733
     video/mp4
     
@@ -42,9 +42,9 @@ Just Visit <a aria-label=" (opens in a new tab)" href="http://blogger.com" targe
 
 Now open WordPress Admin and Click on **Tools** and then Click on **Import**. Now Click on **Install** Button of Blogger Importer . After that Click on **Run Importer**, and select File Downloaded from Blogger.com 
 
-Now In next step you will select Appropriate Author & Done. If you found difficult working on it, just watch video below.<figure class="wp-block-video"><video controls src="https://static-cdn.swayalgo.com/assets/videos/Move-From-Blogger-To-WordPress-1.mp4"></video>
+Now In next step you will select Appropriate Author & Done. If you found difficult working on it, just watch video below.<figure class="wp-block-video"><video controls src="https://static-cdn.Kaustubh K..com/assets/videos/Move-From-Blogger-To-WordPress-1.mp4"></video>
 
-That&#8217;s it , you just completed importing your data from Blogger.com to WordPress.
+That's it , you just completed importing your data from Blogger.com to WordPress.
 
 # Moving Traffic to New Blog
 
@@ -54,7 +54,7 @@ Find suitable action for you from below options.
 
 ## Using blogspot.com Domain
 
-If you are using ***.blogspot.com** then your blog is currently hosted on Google Server&#8217;s without custom domain name. Then to get your traffic your WordPress site , we will do some little modification in your site theme.
+If you are using ***.blogspot.com** then your blog is currently hosted on Google Server's without custom domain name. Then to get your traffic your WordPress site , we will do some little modification in your site theme.
 
 Open **Settings** in Blogger & Select **Theme** Option and Click on **Arrow Near Customize** & Click on **Edit HTML**,<figure class="wp-block-image size-large">
 

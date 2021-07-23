@@ -1,6 +1,6 @@
 ---
 id: 1453
-title: 'function to search and display details of student whose rollno is &#8217;11&#8217; from the binary file student.dat having structure [rollno, name, class and fees].'
+title: function to search and display details of student whose rollno is '11' from the binary file student.dat having structure [rollno, name, class and fees].
 date: 2021-03-21T06:16:21+00:00
 author: kaustubh
 layout: post

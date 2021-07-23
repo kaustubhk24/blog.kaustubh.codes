@@ -57,7 +57,7 @@ categories:
 ---
  
 
-Que > Write a program to read Name and age of person from file named &#8216;file.txt&#8217; and print if person is eligible for voting or not.
+Que > Write a program to read Name and age of person from file named &#8216;file.txt' and print if person is eligible for voting or not.
 
 file.txt
 

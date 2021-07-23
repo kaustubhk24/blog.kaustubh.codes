@@ -9,7 +9,7 @@ permalink: /write-a-vb-program-to-create-a-popup-menu-menu-are-color-sub-menu-re
 rank_math_internal_links_processed:
   - "1"
 blogger_blog:
-  - swayalgo.com
+  - Kaustubh K..com
 blogger_author:
   - Kaustubh Kulkarni
 blogger_permalink:

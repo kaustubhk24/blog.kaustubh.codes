@@ -36,7 +36,7 @@ tags:
 ---
  
 
-This tutorial is about Complete Guide To Free Blogger Blog, Now Let&#8217;s see How to Create Blog Step by Step
+This tutorial is about Complete Guide To Free Blogger Blog, Now Let's see How to Create Blog Step by Step
 
 ## Creating Blog
 
@@ -44,13 +44,13 @@ First Open <a aria-label=" (opens in a new tab)" href="https://blogger.com" targ
 
 <img loading="lazy" width="1024" height="576" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/Copy-of-Creating-Blogger-blog-1-1024x576.gif" alt="Complete Guide To Free Blogger Blog" class="wp-image-1572" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/Copy-of-Creating-Blogger-blog-1-1024x576.gif 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/Copy-of-Creating-Blogger-blog-1-300x169.gif 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/Copy-of-Creating-Blogger-blog-1-768x432.gif 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/Copy-of-Creating-Blogger-blog-1-1200x675.gif 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
-Congratulations! You made it, Your first blog is ready! Now Let&#8217;s see how to publish a post on your blogger blog.
+Congratulations! You made it, Your first blog is ready! Now Let's see how to publish a post on your blogger blog.
 
 ## Publish Your First Blog Post<figure class="wp-block-image size-large">
 
 <img loading="lazy" width="1024" height="369" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-3-1024x369.png" alt="Complete Guide To Free Blogger Blog" class="wp-image-1573" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-3-1024x369.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-3-300x108.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-3-768x276.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-3-1536x553.png 1536w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-3-1200x432.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-3.png 1706w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
-To Publish your first post click on **New Post** Button and You can see the above interface, Add Your post name and description at their place, Now Click on **Publish**, it will ask you for confirmation, Click on **confirm** & You just created the first post on Blogger.com, You are doing good so far, Now Let&#8217;s Change our blogger blog theme.
+To Publish your first post click on **New Post** Button and You can see the above interface, Add Your post name and description at their place, Now Click on **Publish**, it will ask you for confirmation, Click on **confirm** & You just created the first post on Blogger.com, You are doing good so far, Now Let's Change our blogger blog theme.
 
 ## Change Blogger Theme
 
@@ -60,15 +60,13 @@ To change theme Click on Theme Option on left side bar, select the theme looks g
 
 ## Connect Custom Domain
 
-Connecting Domain to Your Blogger blog is very easy Just Open Settings option from Left side menu, Now search for Custom Domain option & click on Add Custom Domain, after clicking save it will show you an error, Don&#8217;t worry about the reason behind the error is we need to add the given records in our DNS Records, and then You can connect your domain. DNS Propagation takes around 48 hours of time, Please wait until DNS propagates, Don&#8217;t get panic.<figure class="wp-block-image size-large">
+Connecting Domain to Your Blogger blog is very easy Just Open Settings option from Left side menu, Now search for Custom Domain option & click on Add Custom Domain, after clicking save it will show you an error, Don't worry about the reason behind the error is we need to add the given records in our DNS Records, and then You can connect your domain. DNS Propagation takes around 48 hours of time, Please wait until DNS propagates, Don't get panic.<figure class="wp-block-image size-large">
 
 <img loading="lazy" width="1024" height="583" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-5-1024x583.png" alt="Complete Guide To Free Blogger Blog" class="wp-image-1576" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-5-1024x583.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-5-300x171.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-5-768x438.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-5.png 1067w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 Once your DNS propogates, You can see site on your own domain.
 
-Want read more about Blogger? <a aria-label="Read here about blogger & it's Advantages & disadvantages.  (opens in a new tab)" href="https://blog.kaustubh.codes/how-to-make-completely-free-blog/#Blogger" target="_blank" rel="noreferrer noopener" class="rank-math-link">Read here about blogger & it&#8217;s Advantages & disadvantages. </a>
+Want read more about Blogger? <a aria-label="Read here about blogger & it's Advantages & disadvantages.  (opens in a new tab)" href="https://blog.kaustubh.codes/how-to-make-completely-free-blog/#Blogger" target="_blank" rel="noreferrer noopener" class="rank-math-link">Read here about blogger & it's Advantages & disadvantages. </a>
 
-## Video Guide<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-
-<div class="wp-block-embed__wrapper">
-</div>
+## Video Guide
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WZH-96CX3rY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

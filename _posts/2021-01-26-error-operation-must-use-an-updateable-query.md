@@ -40,19 +40,19 @@ This error mostly happen when our database is placed in <code data-enlighter-lan
 
 ### Way 1:
 
-Mostly when you are developing app. You are developing for specific client , then you can lock access database with password and place inside <code data-enlighter-language="generic" class="EnlighterJSRAW">C:/App-Name/database.mdb</code> , this is easiest way , in this you will not required to any privileges fixing. It will sort your issue. If it doesn&#8217;t , Then you may follow Way 2.
+Mostly when you are developing app. You are developing for specific client , then you can lock access database with password and place inside <code data-enlighter-language="generic" class="EnlighterJSRAW">C:/App-Name/database.mdb</code> , this is easiest way , in this you will not required to any privileges fixing. It will sort your issue. If it doesn't , Then you may follow Way 2.
 
 ### Way 2 :
 
-Firstly find your username ( if you don&#8217;t know).
+Firstly find your username ( if you don't know).
 
 To find Open command Prompt and type
 
-<code data-enlighter-language="generic" class="EnlighterJSRAW">C:\Users\SwayAlgo\ > whoami</code>
+<code data-enlighter-language="generic" class="EnlighterJSRAW">C:\Users\Kaustubh K.\ > whoami</code>
 
 This command will print your username like.
 
-<code data-enlighter-language="generic" class="EnlighterJSRAW">desktop-s-2sjjj\swayalgo</code>
+<code data-enlighter-language="generic" class="EnlighterJSRAW">desktop-s-2sjjj\Kaustubh K.</code>
 
 You need to remember that username.
 
@@ -60,13 +60,12 @@ Then right click on Database and **View Properties** & then click on **Security 
 
 <img loading="lazy" width="874" height="444" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-27.png" alt="error operation must use an updateable query" class="wp-image-1235" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-27.png 874w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-27-300x152.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-27-768x390.png 768w" sizes="(max-width: 874px) 100vw, 874px" /> 
 
-Select your name and allow all the rights, click **apply** and **ok**. That&#8217;s it. You can use your database now.
+Select your name and allow all the rights, click **apply** and **ok**. That's it. You can use your database now.
 
 If you still face any issue , you may view video Guide below. Let us know , if it works for you.<figure class="wp-block-image size-large">
 
 <img loading="lazy" width="820" height="427" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-28.png" alt="error operation must use an updateable query" class="wp-image-1236" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-28.png 820w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-28-300x156.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-28-768x400.png 768w" sizes="(max-width: 820px) 100vw, 820px" /> 
 
-## Video Guide<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+## Video Guide
 
-<div class="wp-block-embed__wrapper">
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HTi93cg_Z_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

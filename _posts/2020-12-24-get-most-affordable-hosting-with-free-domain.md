@@ -22,7 +22,7 @@ categories:
 ---
 You might be looking for Most Affordable Hosting With FREE Domain for business. We found way to get that. 
 
-**Let&#8217;s see features:**
+**Let's see features:**
 
   1. **FREE** Domain
   2. **FREE** SSL Certificate

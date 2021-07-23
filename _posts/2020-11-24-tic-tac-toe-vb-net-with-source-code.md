@@ -22,7 +22,7 @@ categories:
 ---
  
 
-Let&#8217;s see How to make Tic Tac Toe VB.NET With Source Code?
+Let's see How to make Tic Tac Toe VB.NET With Source Code?
 
 
 

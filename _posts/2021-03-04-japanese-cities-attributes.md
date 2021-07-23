@@ -1,6 +1,6 @@
 ---
 id: 1313
-title: 'Japanese Cities&#8217; Attributes'
+title: Japanese Cities Attributes
 date: 2021-03-04T07:47:51+00:00
 author: kaustubh
 layout: post
