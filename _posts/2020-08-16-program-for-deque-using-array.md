@@ -1,0 +1,24 @@
+---
+id: 599
+title: Program for Deque Using Array
+date: 2020-08-16T12:18:00+00:00
+author: kaustubh
+layout: post
+guid: https://swayalgo.com/program-for-deque-using-array/
+permalink: /program-for-deque-using-array/
+rank_math_internal_links_processed:
+  - "1"
+blogger_blog:
+  - swayalgo.com
+blogger_author:
+  - Kaustubh Kulkarni
+blogger_permalink:
+  - /2020/08/program-for-deque-using-array.html
+blogger_internal:
+  - /feeds/8126989156179907512/posts/default/1214579411234517178
+rank_math_analytic_object_id:
+  - "203"
+categories:
+  - CPP
+---
+<pre><br />#include&lt;iostream><br />using namespace std;<br />int front=-1;<br />int rear=-1;<br />int q[10];<br />int data;<br />bool isfull()<br />{<br />	if(rear==9)<br />	{<br />		return 1;<br />	}<br />	else <br />	{<br />		return 0;<br />	}<br />}<br />bool isempty()<br />{<br />	if(front==-1)<br />	{<br />		return 1;<br />	}<br />	else<br />	{<br />		return 0;<br />	}<br />}<br />int insert_front()<br />{<br />	if(isfull())<br />	{<br />		cout&lt;&lt;"Queue Overflow!"&lt;&lt;endl;<br />	}<br />	else<br />	{<br />		if(front==-1)<br />		{<br />			front=0;<br />			rear=0;<br />		}<br />		else if(front&lt;1)<br />		{<br />			cout&lt;&lt;"Cannot add Item"&lt;&lt;endl;<br />		}<br />		else<br />		{<br />			front=front-1;<br />		}<br />		cout&lt;&lt;"Enter Data:";<br />		cin>>data;<br />		q[front]=data;<br />	}<br />}<br />int insert_rear()<br />{<br />	if(isfull())<br />	{<br />		cout&lt;&lt;"Queue Overflow!"&lt;&lt;endl;<br />	}<br />	else<br />	{<br />		if(front==-1)<br />		{<br />			front=0;<br />			rear=0;<br />		}<br />		else<br />		{<br />			rear=rear+1;<br />		}<br />		cout&lt;&lt;"Enter Data:";<br />		cin>>data;<br />		q[rear]=data;<br />	}<br />}<br />int delete_front()<br />{<br />	if(isempty())<br />	{<br />		cout&lt;&lt;"Queue Underflow!"&lt;&lt;endl;<br />	}<br />	else<br />	{<br />		if(front==rear)<br />		{<br />			cout&lt;&lt;"Deleted element is "&lt;&lt;q[front];<br />			front=-1;<br />			rear=-1;<br />		}<br />		else<br />		{<br />			cout&lt;&lt;"Deleted element is "&lt;&lt;q[front];<br />			front=front+1;<br />		}<br />	}<br />}<br />int delete_rear()<br />{<br />	if(isempty())<br />	{<br />		cout&lt;&lt;"Queue Underflow!"&lt;&lt;endl;<br />	}<br />	else<br />	{<br />		if(front==rear)<br />		{<br />			cout&lt;&lt;"Deleted element is "&lt;&lt;q[front];<br />			front=-1;<br />			rear=-1;<br />		}<br />		else<br />		{<br />			cout&lt;&lt;"Deleted element is "&lt;&lt;q[rear];<br />			rear=rear-1;<br />		}<br />	}<br />}<br />int display()<br />{<br />	if(isempty())<br />	{<br />		cout&lt;&lt;"Queue Underflow!"&lt;&lt;endl;<br />	}<br />	else<br />	{<br />		cout&lt;&lt;"Queue elements are:"&lt;&lt;endl;<br />		for(int i=front;i&lt;=rear;i++)<br />		{<br />			cout&lt;&lt;q[i]&lt;&lt;"->";<br />		}<br />	}<br />}<br />int main()<br />{<br />	int ch,ch1,ch2;<br />	while(ch!=-1)<br />	{<br />		cout&lt;&lt;"n----Menu----"&lt;&lt;endl;<br />		cout&lt;&lt;"1.Input Restricted Queue"&lt;&lt;endl;<br />		cout&lt;&lt;"2.Output Restricted Queue"&lt;&lt;endl;<br />		cout&lt;&lt;"3.Exit"&lt;&lt;endl;<br />		cout&lt;&lt;"Enter a choice:";<br />		cin>>ch;<br />		switch(ch)<br />		{<br />			case 1:<br />				while(ch1!=-1)<br />				{<br />						cout&lt;&lt;"n--Input Restricted Queue--"&lt;&lt;endl;<br />						cout&lt;&lt;"1.Add at Rear."&lt;&lt;endl;<br />						cout&lt;&lt;"2.Delete from Front."&lt;&lt;endl;<br />						cout&lt;&lt;"3.Delete from Rear."&lt;&lt;endl;<br />						cout&lt;&lt;"4.Display"&lt;&lt;endl;<br />						cout&lt;&lt;"5.Exit"&lt;&lt;endl;<br />						cout&lt;&lt;"Enter a choice:";<br />						cin>>ch1;<br />						switch(ch1)<br />						{<br />							case 1:<br />								insert_rear();<br />								break;						<br />							case 2:<br />								delete_front();<br />								break;<br />							case 3:<br />								delete_rear();<br />								break;<br />							case 4:<br />								display();<br />								break;<br />							case 5:<br />								exit(0);<br />						}<br />				}<br />			case 2:<br />					while(ch2!=-1)<br />				{<br />						cout&lt;&lt;"n--Input Restricted Queue--"&lt;&lt;endl;<br />						cout&lt;&lt;"1.Add at Rear."&lt;&lt;endl;<br />						cout&lt;&lt;"2.Add at Front."&lt;&lt;endl;<br />						cout&lt;&lt;"3.Delete from Front."&lt;&lt;endl;<br />						cout&lt;&lt;"4.Display"&lt;&lt;endl;<br />						cout&lt;&lt;"5.Exit"&lt;&lt;endl;<br />						cout&lt;&lt;"Enter a choice:";<br />						cin>>ch2;<br />						switch(ch2)<br />						{<br />							case 1:<br />								insert_rear();<br />								break;						<br />							case 2:<br />								insert_front();<br />								break;<br />							case 3:<br />								delete_front();<br />								break;<br />							case 4:<br />								display();<br />								break;<br />							case 5:<br />								exit(0);<br />						}<br />				}<br />				case 3:<br />					exit(0);<br />		}<br />	}<br />}<br /><br /><br /></pre>
