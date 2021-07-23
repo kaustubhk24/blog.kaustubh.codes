@@ -23,7 +23,7 @@ title: Kaustubh K
 description: >- # this means to ignore newlines until "baseurl:"
  Copyright KaustubhK24 2018-2021
 domain: blog.kaustubh.codes 
-baseurl: "/blog.kaustubh.codes" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://kaustubhk24.github.io/blog.kaustubh.codes/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kaustubhk24
 github_username:  kaustubhk24
