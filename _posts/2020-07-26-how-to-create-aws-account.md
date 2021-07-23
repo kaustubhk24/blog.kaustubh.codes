@@ -33,11 +33,11 @@ To create AWS account please visit https://aws.amazon.com/ ,  Now click on &#822
 ![Navbar AWS](/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-21-07-36-1024x198.png "Navbar")
 
  Now in the &#8220;Create an AWS account&#8221; form enter all of your details correctly.  Now Click on &#8220;Continue Button&#8221;
- ![AWS Signup form](/imgs/blog/aws-2.png "AWS Signup form")
+ ![AWS Signup form](/imgs/img/blog/aws-2.png "AWS Signup form")
 
  Now you need to complete remaining Details
 in Contact Information
- ![AWS Signup form](/img/blog/aws-3.png "AWS Signup form")
+ ![AWS Signup form](/imgs/img/blog/aws-3.png "AWS Signup form")
 
  Now on next step add your Payment Details.
  
