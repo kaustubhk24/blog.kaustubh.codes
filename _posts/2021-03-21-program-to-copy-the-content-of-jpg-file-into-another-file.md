@@ -4,7 +4,7 @@ title: Program to copy the content of .jpg file into another file
 date: 2021-03-21T06:20:50+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1459
+guid: https://blog.kaustubh.codes/?p=1459
 permalink: /program-to-copy-the-content-of-jpg-file-into-another-file/
 rank_math_seo_score:
   - "50"

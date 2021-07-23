@@ -4,7 +4,7 @@ title: Write a program to traverse (or iterate) ArrayList?
 date: 2020-09-01T08:57:00+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/write-a-program-to-traverse-or-iterate-arraylist/
+guid: https://blog.kaustubh.codes/write-a-program-to-traverse-or-iterate-arraylist/
 permalink: /write-a-program-to-traverse-or-iterate-arraylist/
 rank_math_internal_links_processed:
   - "1"

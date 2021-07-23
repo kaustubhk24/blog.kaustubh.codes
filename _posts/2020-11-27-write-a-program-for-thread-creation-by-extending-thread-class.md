@@ -4,7 +4,7 @@ title: Write a program for Thread creation by extending Thread class
 date: 2020-11-27T18:15:56+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=918
+guid: https://blog.kaustubh.codes/?p=918
 permalink: /write-a-program-for-thread-creation-by-extending-thread-class/
 rank_math_seo_score:
   - "68"
@@ -45,4 +45,4 @@ Thread.currentThread().getName());
 
 Output:<figure class="wp-block-image size-large">
 
-<img src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-24.png" alt="" class="wp-image-919" /> </figure>
+<img src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-24.png" alt="" class="wp-image-919" /> 

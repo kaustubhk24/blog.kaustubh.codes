@@ -4,7 +4,7 @@ title: 'Program to demonstrate the Use of *args and **kwargs'
 date: 2021-05-22T01:40:47+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1679
+guid: https://blog.kaustubh.codes/?p=1679
 permalink: /program-to-demonstrate-the-use-of-args-and-kwargs/
 rank_math_primary_category:
   - "85"

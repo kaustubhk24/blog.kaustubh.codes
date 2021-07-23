@@ -4,7 +4,7 @@ title: 'Write a program to insert the specified element at the end of this list.
 date: 2020-09-01T08:40:00+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/write-a-program-to-insert-the-specified-element-at-the-end-of-this-list-tip-use-java-util-linkedlist-addlast/
+guid: https://blog.kaustubh.codes/write-a-program-to-insert-the-specified-element-at-the-end-of-this-list-tip-use-java-util-linkedlist-addlast/
 permalink: /write-a-program-to-insert-the-specified-element-at-the-end-of-this-list-tip-use-java-util-linkedlist-addlast/
 rank_math_internal_links_processed:
   - "1"

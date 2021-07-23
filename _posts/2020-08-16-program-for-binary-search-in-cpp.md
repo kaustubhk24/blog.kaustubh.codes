@@ -4,7 +4,7 @@ title: Program for Binary Search in CPP
 date: 2020-08-16T11:42:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/program-for-binary-search-in-cpp/
+guid: http://blog.kaustubh.codes/program-for-binary-search-in-cpp/
 permalink: /program-for-binary-search-in-cpp/
 rank_math_internal_links_processed:
   - "1"

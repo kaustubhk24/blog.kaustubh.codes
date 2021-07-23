@@ -4,7 +4,7 @@ title: Write a Vb.net program to add two TextBoxes, two Labels and one button at
 date: 2020-08-28T15:10:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-net-program-to-add-two-textboxes-two-labels-and-one-button-at-runtime-accept-two-numbers-in-textboxes-and-handle-dividebyzeroexception/
+guid: http://blog.kaustubh.codes/write-a-vb-net-program-to-add-two-textboxes-two-labels-and-one-button-at-runtime-accept-two-numbers-in-textboxes-and-handle-dividebyzeroexception/
 permalink: /write-a-vb-net-program-to-add-two-textboxes-two-labels-and-one-button-at-runtime-accept-two-numbers-in-textboxes-and-handle-dividebyzeroexception/
 rank_math_internal_links_processed:
   - "1"

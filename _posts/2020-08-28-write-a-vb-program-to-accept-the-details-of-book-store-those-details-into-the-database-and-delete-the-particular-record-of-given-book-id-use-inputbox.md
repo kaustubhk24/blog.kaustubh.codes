@@ -4,7 +4,7 @@ title: 'Write a VB program to accept the details of book, store those details in
 date: 2020-08-28T14:45:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-accept-the-details-of-book-store-those-details-into-the-database-and-delete-the-particular-record-of-given-book-id-use-inputbox/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-accept-the-details-of-book-store-those-details-into-the-database-and-delete-the-particular-record-of-given-book-id-use-inputbox/
 permalink: /write-a-vb-program-to-accept-the-details-of-book-store-those-details-into-the-database-and-delete-the-particular-record-of-given-book-id-use-inputbox/
 rank_math_internal_links_processed:
   - "1"

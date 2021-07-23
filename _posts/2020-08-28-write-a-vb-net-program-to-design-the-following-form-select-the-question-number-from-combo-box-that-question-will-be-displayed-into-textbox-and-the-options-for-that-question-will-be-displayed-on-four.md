@@ -4,7 +4,7 @@ title: Write a Vb.net program to design the following form, select the question 
 date: 2020-08-28T15:18:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-net-program-to-design-the-following-form-select-the-question-number-from-combo-box-that-question-will-be-displayed-into-textbox-and-the-options-for-that-question-will-be-displayed-on-four/
+guid: http://blog.kaustubh.codes/write-a-vb-net-program-to-design-the-following-form-select-the-question-number-from-combo-box-that-question-will-be-displayed-into-textbox-and-the-options-for-that-question-will-be-displayed-on-four/
 permalink: /write-a-vb-net-program-to-design-the-following-form-select-the-question-number-from-combo-box-that-question-will-be-displayed-into-textbox-and-the-options-for-that-question-will-be-displayed-on-four/
 rank_math_internal_links_processed:
   - "1"

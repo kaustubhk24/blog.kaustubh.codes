@@ -4,7 +4,7 @@ title: 'function to search and display details of student whose rollno is &#8217
 date: 2021-03-21T06:16:21+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1453
+guid: https://blog.kaustubh.codes/?p=1453
 permalink: /function-to-search-and-display-details-of-student-whose-rollno-is-11-from-the-binary-file-student-dat-having-structure-rollno-name-class-and-fees/
 rank_math_seo_score:
   - "49"

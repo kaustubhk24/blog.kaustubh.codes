@@ -4,7 +4,7 @@ title: Write a Vb.net program to accept a number from anuser through InputBox an
 date: 2020-08-28T15:08:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-net-program-to-accept-a-number-from-anuser-through-inputbox-and-display-its-multiplication-table-into-the-listbox/
+guid: http://blog.kaustubh.codes/write-a-vb-net-program-to-accept-a-number-from-anuser-through-inputbox-and-display-its-multiplication-table-into-the-listbox/
 permalink: /write-a-vb-net-program-to-accept-a-number-from-anuser-through-inputbox-and-display-its-multiplication-table-into-the-listbox/
 rank_math_internal_links_processed:
   - "1"

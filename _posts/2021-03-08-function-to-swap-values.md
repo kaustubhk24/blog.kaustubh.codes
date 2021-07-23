@@ -1,10 +1,10 @@
 ---
 id: 1398
-title: 'Write a Function To Swap Values &#8211; Python'
+title: 'Write a Function To Swap Values - Python'
 date: 2021-03-08T06:47:21+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1398
+guid: https://blog.kaustubh.codes/?p=1398
 permalink: /function-to-swap-values/
 rank_math_primary_category:
   - "85"

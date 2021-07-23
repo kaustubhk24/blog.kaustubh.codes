@@ -4,7 +4,7 @@ title: Write a Vb.net program to check whether entered string is palindrome or n
 date: 2020-08-28T15:06:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-net-program-to-check-whether-entered-string-is-palindrome-or-not/
+guid: http://blog.kaustubh.codes/write-a-vb-net-program-to-check-whether-entered-string-is-palindrome-or-not/
 permalink: /write-a-vb-net-program-to-check-whether-entered-string-is-palindrome-or-not/
 rank_math_internal_links_processed:
   - "1"

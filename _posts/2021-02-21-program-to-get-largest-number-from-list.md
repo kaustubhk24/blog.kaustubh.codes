@@ -4,7 +4,7 @@ title: Program To Get Largest Number From List
 date: 2021-02-21T06:06:04+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1263
+guid: https://blog.kaustubh.codes/?p=1263
 permalink: /program-to-get-largest-number-from-list/
 rank_math_primary_category:
   - "85"

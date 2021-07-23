@@ -4,7 +4,7 @@ title: Program for Linear Queue using Array in CPP
 date: 2020-08-16T12:16:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/program-for-linear-queue-using-array-in-cpp/
+guid: http://blog.kaustubh.codes/program-for-linear-queue-using-array-in-cpp/
 permalink: /program-for-linear-queue-using-array-in-cpp/
 rank_math_internal_links_processed:
   - "1"

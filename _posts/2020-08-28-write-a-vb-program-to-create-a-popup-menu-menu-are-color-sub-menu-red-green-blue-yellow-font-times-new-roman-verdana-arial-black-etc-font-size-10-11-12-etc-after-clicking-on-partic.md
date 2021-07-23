@@ -4,7 +4,7 @@ title: 'Write a VB Program to create a POPUP menu. Menu are Color (sub menu- red
 date: 2020-08-28T14:31:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-create-a-popup-menu-menu-are-color-sub-menu-red-green-blue-yellow-font-times-new-roman-verdana-arial-black-etc-font-size-10-11-12-etc-after-clicking-on-partic/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-create-a-popup-menu-menu-are-color-sub-menu-red-green-blue-yellow-font-times-new-roman-verdana-arial-black-etc-font-size-10-11-12-etc-after-clicking-on-partic/
 permalink: /write-a-vb-program-to-create-a-popup-menu-menu-are-color-sub-menu-red-green-blue-yellow-font-times-new-roman-verdana-arial-black-etc-font-size-10-11-12-etc-after-clicking-on-partic/
 rank_math_internal_links_processed:
   - "1"

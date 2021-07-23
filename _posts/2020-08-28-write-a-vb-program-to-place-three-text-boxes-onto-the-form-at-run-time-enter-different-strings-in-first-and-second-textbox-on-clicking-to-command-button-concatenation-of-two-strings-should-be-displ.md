@@ -4,7 +4,7 @@ title: Write a VB Program to place three text boxes onto the form at run time. E
 date: 2020-08-28T14:10:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-place-three-text-boxes-onto-the-form-at-run-time-enter-different-strings-in-first-and-second-textbox-on-clicking-to-command-button-concatenation-of-two-strings-should-be-displ/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-place-three-text-boxes-onto-the-form-at-run-time-enter-different-strings-in-first-and-second-textbox-on-clicking-to-command-button-concatenation-of-two-strings-should-be-displ/
 permalink: /write-a-vb-program-to-place-three-text-boxes-onto-the-form-at-run-time-enter-different-strings-in-first-and-second-textbox-on-clicking-to-command-button-concatenation-of-two-strings-should-be-displ/
 rank_math_internal_links_processed:
   - "1"

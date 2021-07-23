@@ -4,7 +4,7 @@ title: Mini Project in VB.NET Denomination With Source Code
 date: 2021-01-02T14:46:37+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1112
+guid: https://blog.kaustubh.codes/?p=1112
 permalink: /mini-project-in-vb-net-denomination/
 rank_math_seo_score:
   - "63"
@@ -35,7 +35,7 @@ In this tutorial we will make Mini Project VB.NET for denomination. User will en
 
 First you need to make UI, Now make UI like below, name textbox like t2000,t500,t200 upto t1.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="735" height="625" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-4.png" alt="Mini Project in VB.NET Denomination" class="wp-image-1113" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-4.png 735w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-4-300x255.png 300w" sizes="(max-width: 735px) 100vw, 735px" /> </figure> 
+<img loading="lazy" width="735" height="625" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-4.png" alt="Mini Project in VB.NET Denomination" class="wp-image-1113" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-4.png 735w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-4-300x255.png 300w" sizes="(max-width: 735px) 100vw, 735px" /> 
 
 ## Code
 
@@ -78,7 +78,7 @@ End Class
 ## Video Guide<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
 <div class="wp-block-embed__wrapper">
-</div></figure> 
+</div>
 
 ## Download
 
@@ -86,6 +86,6 @@ Download Project Source Code for FREE from here,
 
 <div class="wp-block-buttons">
   <div class="wp-block-button">
-    <a class="wp-block-button__link" href="https://www.swayalgo.com/product/mini-project-in-vb-net-denomination-with-source-code/" target="_blank" rel="noreferrer noopener">Download Source Code</a>
+    <a class="wp-block-button__link" href="https://github.com/JustInClicks-com/static-cdn/raw/main/Downloads/Desktop/Denomination.rar" target="_blank" rel="noreferrer noopener">Download Source Code</a>
   </div>
 </div>

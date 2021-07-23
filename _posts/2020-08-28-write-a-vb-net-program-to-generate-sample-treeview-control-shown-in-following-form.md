@@ -4,7 +4,7 @@ title: Write a Vb.net program to generate Sample TreeView control shown in follo
 date: 2020-08-28T15:18:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-net-program-to-generate-sample-treeview-control-shown-in-following-form/
+guid: http://blog.kaustubh.codes/write-a-vb-net-program-to-generate-sample-treeview-control-shown-in-following-form/
 permalink: /write-a-vb-net-program-to-generate-sample-treeview-control-shown-in-following-form/
 rank_math_internal_links_processed:
   - "1"

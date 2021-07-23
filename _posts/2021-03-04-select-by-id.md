@@ -4,7 +4,7 @@ title: Select By ID
 date: 2021-03-04T07:45:34+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1309
+guid: https://blog.kaustubh.codes/?p=1309
 permalink: /select-by-id/
 rank_math_primary_category:
   - "86"

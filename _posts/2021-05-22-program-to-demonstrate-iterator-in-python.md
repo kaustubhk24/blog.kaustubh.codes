@@ -4,7 +4,7 @@ title: Program to demonstrate Iterator in Python
 date: 2021-05-22T01:43:59+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1684
+guid: https://blog.kaustubh.codes/?p=1684
 permalink: /program-to-demonstrate-iterator-in-python/
 rank_math_seo_score:
   - "52"

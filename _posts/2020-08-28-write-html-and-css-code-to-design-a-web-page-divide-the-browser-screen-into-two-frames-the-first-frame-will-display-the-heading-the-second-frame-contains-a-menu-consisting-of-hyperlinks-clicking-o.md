@@ -4,7 +4,7 @@ title: Write HTML and CSS code to design a web page. Divide the browser screen i
 date: 2020-08-28T15:47:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-html-and-css-code-to-design-a-web-page-divide-the-browser-screen-into-two-frames-the-first-frame-will-display-the-heading-the-second-frame-contains-a-menu-consisting-of-hyperlinks-clicking-o/
+guid: http://blog.kaustubh.codes/write-html-and-css-code-to-design-a-web-page-divide-the-browser-screen-into-two-frames-the-first-frame-will-display-the-heading-the-second-frame-contains-a-menu-consisting-of-hyperlinks-clicking-o/
 permalink: /write-html-and-css-code-to-design-a-web-page-divide-the-browser-screen-into-two-frames-the-first-frame-will-display-the-heading-the-second-frame-contains-a-menu-consisting-of-hyperlinks-clicking-o/
 rank_math_internal_links_processed:
   - "1"

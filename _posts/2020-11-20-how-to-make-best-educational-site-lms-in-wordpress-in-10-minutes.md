@@ -4,7 +4,7 @@ title: How to Make Best Educational Site LMS In WordPress in 10 Minutes?
 date: 2020-11-20T06:06:50+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=770
+guid: https://blog.kaustubh.codes/?p=770
 permalink: /how-to-make-best-educational-site-lms-in-wordpress-in-10-minutes/
 rank_math_seo_score:
   - "80"
@@ -30,27 +30,27 @@ Let&#8217;s See Make Best Educational Site LMS In WordPress.
 
 # Installing SSL<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="460" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-11-1024x460.png" alt="Make Best Educational Site LMS In WordPress" class="wp-image-776" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-11-1024x460.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-11-300x135.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-11-768x345.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-11.png 1104w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="460" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-11-1024x460.png" alt="Make Best Educational Site LMS In WordPress" class="wp-image-776" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-11-1024x460.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-11-300x135.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-11-768x345.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-11.png 1104w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 In First we are going to install SSL on our Server. Visit <a aria-label="https://sslforfree.com (opens in a new tab)" href="https://sslforfree.com" target="_blank" rel="noreferrer noopener nofollow" class="rank-math-link">https://sslforfree.com</a>
 
-Enter Domain Name and Follow Steps. For More Details [Please Check this.](#video){.rank-math-link}
+Enter Domain Name and Follow Steps. For More Details [Please Check this.](#video)
 
 # Installing WordPress<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="648" height="255" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-12.png" alt="Make Best Educational Site LMS In WordPress" class="wp-image-777" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-12.png 648w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-12-300x118.png 300w" sizes="(max-width: 648px) 100vw, 648px" /> </figure> 
+<img loading="lazy" width="648" height="255" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-12.png" alt="Make Best Educational Site LMS In WordPress" class="wp-image-777" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-12.png 648w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-12-300x118.png 300w" sizes="(max-width: 648px) 100vw, 648px" /> 
 
 To install WordPress Open your <a aria-label="CPanel  (opens in a new tab)" href="https://en.wikipedia.org/wiki/CPANEL" rel="noreferrer noopener nofollow" target="_blank" class="rank-math-link">CPanel </a>& Navigate to <a aria-label="Installatron  (opens in a new tab)" href="https://en.wikipedia.org/wiki/Installatron" target="_blank" rel="noreferrer noopener nofollow" class="rank-math-link">Installatron </a>. Select WordPress and Click on Install. Then enter asked informtion.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="407" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-13-1024x407.png" alt="Make Best Educational Site LMS In WordPress" class="wp-image-778" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-13-1024x407.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-13-300x119.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-13-768x305.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-13.png 1112w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="407" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-13-1024x407.png" alt="Make Best Educational Site LMS In WordPress" class="wp-image-778" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-13-1024x407.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-13-300x119.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-13-768x305.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-13.png 1112w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 If you dont have <a rel="noreferrer noopener" href="https://en.wikipedia.org/wiki/Installatron" target="_blank">Installatron</a>, then you must have <a aria-label="Softaculos (opens in a new tab)" href="https://en.wikipedia.org/wiki/Softaculos" target="_blank" rel="noreferrer noopener nofollow" class="rank-math-link">Softaculos</a>.
 
-Once WordPress installed, Remove all the default, Post,Pages, themes etc. To clean our WordPress. [Check Guide](#video){.rank-math-link}
+Once WordPress installed, Remove all the default, Post,Pages, themes etc. To clean our WordPress. [Check Guide](#video)
 
 # Install Theme<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="349" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-14-1024x349.png" alt="Make Best Educational Site LMS In WordPress" class="wp-image-779" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-14-1024x349.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-14-300x102.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-14-768x262.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-14.png 1110w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="349" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-14-1024x349.png" alt="Make Best Educational Site LMS In WordPress" class="wp-image-779" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-14-1024x349.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-14-300x102.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-14-768x262.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-14.png 1110w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 To install theme we need to purchase <a href="http://swayalgo.com/eduma" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener sponsored" class="rank-math-link">Eduma theme</a>. Visit <a href="http://swayalgo.com/eduma" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener sponsored" class="rank-math-link">this Link to purchase</a> the theme at Lowest cost. After Purchase Open the Themes section and install the downloaded theme from site.
 
@@ -58,14 +58,12 @@ To install theme we need to purchase <a href="http://swayalgo.com/eduma" target=
 
 Last step is to follow there wizard , and import demo. that&#8217;s it. You got site just in 10 minutes or less.
 
-If facing difficulties [check this guide.](#video){.rank-math-link}<figure class="wp-block-image size-large">
+If facing difficulties [check this guide.](#video)<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="405" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-15-1024x405.png" alt="Make Best Educational Site LMS In WordPress" class="wp-image-780" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-15-1024x405.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-15-300x119.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-15-768x304.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-15.png 1118w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="405" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-15-1024x405.png" alt="Make Best Educational Site LMS In WordPress" class="wp-image-780" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-15-1024x405.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-15-300x119.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-15-768x304.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-15.png 1118w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
-# Video Version Make Best Educational Site LMS In WordPress {#video}<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-
-<div class="wp-block-embed__wrapper">
-</div></figure> 
+# Video Version Make Best Educational Site LMS In WordPress {#video}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H_0CrDBZApM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="wp-block-buttons">
   <div class="wp-block-button is-style-outline">

@@ -4,7 +4,7 @@ title: Write a VB Program to move a command button by using timer control.
 date: 2020-08-28T14:37:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-move-a-command-button-by-using-timer-control/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-move-a-command-button-by-using-timer-control/
 permalink: /write-a-vb-program-to-move-a-command-button-by-using-timer-control/
 rank_math_internal_links_processed:
   - "1"

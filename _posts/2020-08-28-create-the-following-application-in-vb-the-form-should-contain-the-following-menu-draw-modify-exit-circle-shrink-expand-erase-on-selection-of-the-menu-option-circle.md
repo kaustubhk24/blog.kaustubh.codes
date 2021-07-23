@@ -4,7 +4,7 @@ title: 'Create the following application in VB. The form should contain the foll
 date: 2020-08-28T14:05:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/create-the-following-application-in-vb-the-form-should-contain-the-following-menu-draw-modify-exit-circle-shrink-expand-erase-on-selection-of-the-menu-option-circle/
+guid: http://blog.kaustubh.codes/create-the-following-application-in-vb-the-form-should-contain-the-following-menu-draw-modify-exit-circle-shrink-expand-erase-on-selection-of-the-menu-option-circle/
 permalink: /create-the-following-application-in-vb-the-form-should-contain-the-following-menu-draw-modify-exit-circle-shrink-expand-erase-on-selection-of-the-menu-option-circle/
 rank_math_internal_links_processed:
   - "1"

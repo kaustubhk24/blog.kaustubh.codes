@@ -4,7 +4,7 @@ title: Write a program to perform CRUD operations using JDBC.
 date: 2020-10-08T05:35:00+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/write-a-program-to-perform-crud-operations-using-jdbc/
+guid: https://blog.kaustubh.codes/write-a-program-to-perform-crud-operations-using-jdbc/
 permalink: /write-a-program-to-perform-crud-operations-using-jdbc/
 rank_math_internal_links_processed:
   - "1"

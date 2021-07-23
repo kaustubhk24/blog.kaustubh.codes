@@ -4,7 +4,7 @@ title: Program To Perform Various Operatios Of String in Python
 date: 2021-02-21T06:50:35+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1273
+guid: https://blog.kaustubh.codes/?p=1273
 permalink: /program-to-perform-various-operatios-of-string-in-python/
 rank_math_primary_category:
   - "85"

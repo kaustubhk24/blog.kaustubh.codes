@@ -4,7 +4,7 @@ title: Program to read line number 4 from the following file
 date: 2021-03-21T06:18:29+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1455
+guid: https://blog.kaustubh.codes/?p=1455
 permalink: /program-to-read-line-number-4-from-the-following-file/
 rank_math_primary_category:
   - "85"

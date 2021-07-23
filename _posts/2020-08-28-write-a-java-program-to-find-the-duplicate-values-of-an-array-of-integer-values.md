@@ -4,7 +4,7 @@ title: Write a Java program to find the duplicate values of an array of integer 
 date: 2020-08-28T15:56:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-java-program-to-find-the-duplicate-values-of-an-array-of-integer-values/
+guid: http://blog.kaustubh.codes/write-a-java-program-to-find-the-duplicate-values-of-an-array-of-integer-values/
 permalink: /write-a-java-program-to-find-the-duplicate-values-of-an-array-of-integer-values/
 rank_math_internal_links_processed:
   - "1"

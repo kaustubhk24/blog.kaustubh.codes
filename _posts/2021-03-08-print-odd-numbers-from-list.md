@@ -4,7 +4,7 @@ title: Get List as Input And Print Odd Numbers from List
 date: 2021-03-08T06:36:19+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1396
+guid: https://blog.kaustubh.codes/?p=1396
 permalink: /print-odd-numbers-from-list/
 rank_math_primary_category:
   - "85"

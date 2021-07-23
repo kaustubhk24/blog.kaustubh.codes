@@ -4,7 +4,7 @@ title: Write a Vb.net program to design the following form, accept the numbers t
 date: 2020-08-28T15:15:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-net-program-to-design-the-following-form-accept-the-numbers-through-textbox-and-add-them-into-the-listboxe1by-clicking-on-add-button-when-user-click-on-prime-button-then-all-the-prime-num/
+guid: http://blog.kaustubh.codes/write-a-vb-net-program-to-design-the-following-form-accept-the-numbers-through-textbox-and-add-them-into-the-listboxe1by-clicking-on-add-button-when-user-click-on-prime-button-then-all-the-prime-num/
 permalink: /write-a-vb-net-program-to-design-the-following-form-accept-the-numbers-through-textbox-and-add-them-into-the-listboxe1by-clicking-on-add-button-when-user-click-on-prime-button-then-all-the-prime-num/
 rank_math_internal_links_processed:
   - "1"

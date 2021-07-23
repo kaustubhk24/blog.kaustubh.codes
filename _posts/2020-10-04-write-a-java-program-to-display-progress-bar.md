@@ -4,7 +4,7 @@ title: Write a java program to display Progress Bar.
 date: 2020-10-04T12:48:00+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/write-a-java-program-to-display-progress-bar/
+guid: https://blog.kaustubh.codes/write-a-java-program-to-display-progress-bar/
 permalink: /write-a-java-program-to-display-progress-bar/
 rank_math_internal_links_processed:
   - "1"

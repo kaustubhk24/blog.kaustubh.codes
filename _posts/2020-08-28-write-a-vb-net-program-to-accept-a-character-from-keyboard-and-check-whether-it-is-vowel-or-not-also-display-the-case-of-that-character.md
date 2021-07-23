@@ -4,7 +4,7 @@ title: Write a Vb.net program to accept a character from keyboard and check whet
 date: 2020-08-28T15:14:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-net-program-to-accept-a-character-from-keyboard-and-check-whether-it-is-vowel-or-not-also-display-the-case-of-that-character/
+guid: http://blog.kaustubh.codes/write-a-vb-net-program-to-accept-a-character-from-keyboard-and-check-whether-it-is-vowel-or-not-also-display-the-case-of-that-character/
 permalink: /write-a-vb-net-program-to-accept-a-character-from-keyboard-and-check-whether-it-is-vowel-or-not-also-display-the-case-of-that-character/
 rank_math_internal_links_processed:
   - "1"

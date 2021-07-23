@@ -4,7 +4,7 @@ title: 'Write a Java program to replace all the "d" characters with "f" characte
 date: 2020-08-28T15:57:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-java-program-to-replace-all-the-d-characters-with-f-characters-input-the-quick-brown-fox-jumps-over-the-lazy-dog/
+guid: http://blog.kaustubh.codes/write-a-java-program-to-replace-all-the-d-characters-with-f-characters-input-the-quick-brown-fox-jumps-over-the-lazy-dog/
 permalink: /write-a-java-program-to-replace-all-the-d-characters-with-f-characters-input-the-quick-brown-fox-jumps-over-the-lazy-dog/
 rank_math_internal_links_processed:
   - "1"

@@ -4,7 +4,7 @@ title: Fibonacci
 date: 2021-02-19T02:19:45+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1256
+guid: https://blog.kaustubh.codes/?p=1256
 permalink: /fibonacci/
 rank_math_seo_score:
   - "9"

@@ -4,7 +4,7 @@ title: Weather Observation Station 1
 date: 2021-03-04T07:50:22+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1317
+guid: https://blog.kaustubh.codes/?p=1317
 permalink: /weather-observation-station-1/
 rank_math_seo_score:
   - "9"
@@ -20,7 +20,7 @@ categories:
 Query a list of&nbsp;**CITY**&nbsp;and&nbsp;**STATE**&nbsp;from the&nbsp;**STATION**&nbsp;table.  
 The&nbsp;**STATION**&nbsp;table is described as follows:<figure class="wp-block-image">
 
-![](https://s3.amazonaws.com/hr-challenge-images/9336/1449345840-5f0a551030-Station.jpg "Station.jpg") </figure> 
+![](https://s3.amazonaws.com/hr-challenge-images/9336/1449345840-5f0a551030-Station.jpg "Station.jpg") 
 
 
 

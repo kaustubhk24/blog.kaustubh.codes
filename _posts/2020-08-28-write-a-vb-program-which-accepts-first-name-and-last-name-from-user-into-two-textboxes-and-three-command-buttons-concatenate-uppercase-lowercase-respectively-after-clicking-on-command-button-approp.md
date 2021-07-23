@@ -4,7 +4,7 @@ title: Write a VB program which accepts First name and last name from user into 
 date: 2020-08-28T14:38:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-which-accepts-first-name-and-last-name-from-user-into-two-textboxes-and-three-command-buttons-concatenate-uppercase-lowercase-respectively-after-clicking-on-command-button-approp/
+guid: http://blog.kaustubh.codes/write-a-vb-program-which-accepts-first-name-and-last-name-from-user-into-two-textboxes-and-three-command-buttons-concatenate-uppercase-lowercase-respectively-after-clicking-on-command-button-approp/
 permalink: /write-a-vb-program-which-accepts-first-name-and-last-name-from-user-into-two-textboxes-and-three-command-buttons-concatenate-uppercase-lowercase-respectively-after-clicking-on-command-button-approp/
 rank_math_internal_links_processed:
   - "1"

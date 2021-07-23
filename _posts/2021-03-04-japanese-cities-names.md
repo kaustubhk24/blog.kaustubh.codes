@@ -4,7 +4,7 @@ title: 'Japanese Cities&#8217; Names'
 date: 2021-03-04T07:48:57+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1315
+guid: https://blog.kaustubh.codes/?p=1315
 permalink: /japanese-cities-names/
 rank_math_seo_score:
   - "4"
@@ -20,7 +20,7 @@ categories:
 Query the names of all the Japanese cities in the&nbsp;**CITY**&nbsp;table. The&nbsp;**COUNTRYCODE**&nbsp;for Japan is&nbsp;`JPN`.  
 The&nbsp;**CITY**&nbsp;table is described as follows:<figure class="wp-block-image">
 
-![](https://s3.amazonaws.com/hr-challenge-images/8137/1449729804-f21d187d0f-CITY.jpg "CITY.jpg") </figure> 
+![](https://s3.amazonaws.com/hr-challenge-images/8137/1449729804-f21d187d0f-CITY.jpg "CITY.jpg") 
 
 Answer :
 

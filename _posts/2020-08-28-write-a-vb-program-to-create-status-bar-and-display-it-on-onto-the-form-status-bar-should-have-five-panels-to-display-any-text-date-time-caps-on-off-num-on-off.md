@@ -4,7 +4,7 @@ title: Write a VB Program to create status bar and display it on onto the form. 
 date: 2020-08-28T14:32:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-create-status-bar-and-display-it-on-onto-the-form-status-bar-should-have-five-panels-to-display-any-text-date-time-caps-on-off-num-on-off/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-create-status-bar-and-display-it-on-onto-the-form-status-bar-should-have-five-panels-to-display-any-text-date-time-caps-on-off-num-on-off/
 permalink: /write-a-vb-program-to-create-status-bar-and-display-it-on-onto-the-form-status-bar-should-have-five-panels-to-display-any-text-date-time-caps-on-off-num-on-off/
 rank_math_internal_links_processed:
   - "1"

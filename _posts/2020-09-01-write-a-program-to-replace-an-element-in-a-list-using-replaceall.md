@@ -4,7 +4,7 @@ title: Write a program to replace an element in a list using replaceAll()
 date: 2020-09-01T08:59:00+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/write-a-program-to-replace-an-element-in-a-list-using-replaceall/
+guid: https://blog.kaustubh.codes/write-a-program-to-replace-an-element-in-a-list-using-replaceall/
 permalink: /write-a-program-to-replace-an-element-in-a-list-using-replaceall/
 rank_math_internal_links_processed:
   - "1"

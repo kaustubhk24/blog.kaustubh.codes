@@ -4,7 +4,7 @@ title: 'Python to read lines from a text file and function should find and displ
 date: 2021-03-21T06:09:01+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1445
+guid: https://blog.kaustubh.codes/?p=1445
 permalink: /python-to-read-lines-from-a-text-file-and-function-should-find-and-display-the-occurrence-of-the-word-python/
 rank_math_seo_score:
   - "6"

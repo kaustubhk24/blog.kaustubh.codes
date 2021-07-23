@@ -4,7 +4,7 @@ title: Create Java AWT GUI Program to Swap strings
 date: 2020-09-14T05:06:00+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/create-java-awt-gui-program-to-swap-strings/
+guid: https://blog.kaustubh.codes/create-java-awt-gui-program-to-swap-strings/
 permalink: /create-java-awt-gui-program-to-swap-strings/
 rank_math_internal_links_processed:
   - "1"

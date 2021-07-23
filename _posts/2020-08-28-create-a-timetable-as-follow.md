@@ -4,7 +4,7 @@ title: Create a timetable as follow
 date: 2020-08-28T15:37:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/create-a-timetable-as-follow/
+guid: http://blog.kaustubh.codes/create-a-timetable-as-follow/
 permalink: /create-a-timetable-as-follow/
 rank_math_internal_links_processed:
   - "1"

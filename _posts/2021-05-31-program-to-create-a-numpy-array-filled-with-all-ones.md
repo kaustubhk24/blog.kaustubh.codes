@@ -4,7 +4,7 @@ title: Program to create a Numpy array filled with all ones
 date: 2021-05-31T07:41:24+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1794
+guid: https://blog.kaustubh.codes/?p=1794
 permalink: /program-to-create-a-numpy-array-filled-with-all-ones/
 rank_math_seo_score:
   - "49"

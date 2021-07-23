@@ -4,7 +4,7 @@ title: Write a VB Program to accept birth date through textbox from user and cal
 date: 2020-08-28T14:22:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-accept-birth-date-through-textbox-from-user-and-calculate-age-use-message-box-to-display-result/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-accept-birth-date-through-textbox-from-user-and-calculate-age-use-message-box-to-display-result/
 permalink: /write-a-vb-program-to-accept-birth-date-through-textbox-from-user-and-calculate-age-use-message-box-to-display-result/
 rank_math_internal_links_processed:
   - "1"

@@ -4,7 +4,7 @@ title: Program for Merge Sort in CPP
 date: 2020-08-16T12:06:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/program-for-merge-sort-in-cpp/
+guid: http://blog.kaustubh.codes/program-for-merge-sort-in-cpp/
 permalink: /program-for-merge-sort-in-cpp/
 rank_math_internal_links_processed:
   - "1"

@@ -4,7 +4,7 @@ title: Program to add column in to Dataframe
 date: 2021-05-31T07:47:07+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1800
+guid: https://blog.kaustubh.codes/?p=1800
 permalink: /program-to-add-column-in-to-dataframe/
 rank_math_seo_score:
   - "48"
@@ -186,4 +186,4 @@ New Output >
       Msc
     </td>
   </tr>
-</table></figure>
+</table>

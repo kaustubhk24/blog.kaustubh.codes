@@ -1,10 +1,10 @@
 ---
 id: 550
-title: 'Write a VB program to accept the details of students from user &amp; store details in to the   database. Using data environment create report. (Use standard ADODC controls)             Student (S_Rollno, S_Name, S_Class, S_Address )'
+title: 'Write a VB program to accept the details of students from user & store details in to the   database. Using data environment create report. (Use standard ADODC controls)             Student (S_Rollno, S_Name, S_Class, S_Address )'
 date: 2020-08-28T14:43:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-accept-the-details-of-students-from-user-store-details-in-to-the-database-using-data-environment-create-report-use-standard-adodc-controls-student-s_rollno/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-accept-the-details-of-students-from-user-store-details-in-to-the-database-using-data-environment-create-report-use-standard-adodc-controls-student-s_rollno/
 permalink: /write-a-vb-program-to-accept-the-details-of-students-from-user-store-details-in-to-the-database-using-data-environment-create-report-use-standard-adodc-controls-student-s_rollno/
 rank_math_internal_links_processed:
   - "1"

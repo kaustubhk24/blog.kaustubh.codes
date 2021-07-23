@@ -4,7 +4,7 @@ title: Video Forward-Reverse Controls in HTML
 date: 2020-08-16T12:25:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/video-forward-reverse-controls-in-html/
+guid: http://blog.kaustubh.codes/video-forward-reverse-controls-in-html/
 permalink: /video-forward-reverse-controls-in-html/
 rank_math_internal_links_processed:
   - "1"

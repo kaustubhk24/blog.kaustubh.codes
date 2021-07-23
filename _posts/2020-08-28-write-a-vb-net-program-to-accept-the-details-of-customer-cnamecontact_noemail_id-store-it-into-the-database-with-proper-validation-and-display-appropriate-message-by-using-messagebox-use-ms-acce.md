@@ -4,7 +4,7 @@ title: Write a VB.NET program to accept the details of customer (CName,Contact_N
 date: 2020-08-28T15:25:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-net-program-to-accept-the-details-of-customer-cnamecontact_noemail_id-store-it-into-the-database-with-proper-validation-and-display-appropriate-message-by-using-messagebox-use-ms-acce/
+guid: http://blog.kaustubh.codes/write-a-vb-net-program-to-accept-the-details-of-customer-cnamecontact_noemail_id-store-it-into-the-database-with-proper-validation-and-display-appropriate-message-by-using-messagebox-use-ms-acce/
 permalink: /write-a-vb-net-program-to-accept-the-details-of-customer-cnamecontact_noemail_id-store-it-into-the-database-with-proper-validation-and-display-appropriate-message-by-using-messagebox-use-ms-acce/
 rank_math_internal_links_processed:
   - "1"

@@ -4,7 +4,7 @@ title: Program to demonstrate the Scope of Variables
 date: 2021-05-22T01:37:23+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1672
+guid: https://blog.kaustubh.codes/?p=1672
 permalink: /program-to-demonstrate-the-scope-of-variables/
 rank_math_seo_score:
   - "52"

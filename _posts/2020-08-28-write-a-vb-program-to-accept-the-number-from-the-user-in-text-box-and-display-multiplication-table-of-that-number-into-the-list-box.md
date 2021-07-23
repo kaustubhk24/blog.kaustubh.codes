@@ -4,7 +4,7 @@ title: Write a VB Program to accept the number from the user in text box and dis
 date: 2020-08-28T14:25:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-accept-the-number-from-the-user-in-text-box-and-display-multiplication-table-of-that-number-into-the-list-box/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-accept-the-number-from-the-user-in-text-box-and-display-multiplication-table-of-that-number-into-the-list-box/
 permalink: /write-a-vb-program-to-accept-the-number-from-the-user-in-text-box-and-display-multiplication-table-of-that-number-into-the-list-box/
 rank_math_internal_links_processed:
   - "1"

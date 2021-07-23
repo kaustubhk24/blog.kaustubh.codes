@@ -1,10 +1,10 @@
 ---
 id: 885
-title: 'Create a Registration form using JSP &amp; Servlet which includes following'
+title: 'Create a Registration form using JSP & Servlet which includes following'
 date: 2020-11-23T17:11:33+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=885
+guid: https://blog.kaustubh.codes/?p=885
 permalink: /create-a-registration-form-using-jsp-servlet-which-includes-following/
 rank_math_internal_links_processed:
   - "1"
@@ -131,7 +131,8 @@ res.sendRedirect("Welcome.jsp");//open
 welcome page after success
 }
 }
-}</code></pre>
+}
+</code></pre>
 
 <pre class="wp-block-code"><code>welcome.jsp</code></pre>
 

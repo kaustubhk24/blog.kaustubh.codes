@@ -4,7 +4,7 @@ title: Calculator Example using JQuery
 date: 2020-08-16T12:27:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/calculator-example-using-jquery/
+guid: http://blog.kaustubh.codes/calculator-example-using-jquery/
 permalink: /calculator-example-using-jquery/
 rank_math_internal_links_processed:
   - "1"

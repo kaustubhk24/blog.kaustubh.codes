@@ -4,7 +4,7 @@ title: Lists In Python Interview Question
 date: 2021-04-17T04:22:04+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1489
+guid: https://blog.kaustubh.codes/?p=1489
 permalink: /lists-in-python-interview-question/
 rank_math_primary_category:
   - "85"
@@ -117,6 +117,6 @@ print
   </p>
   
   <p class="wp-block-coblocks-alert__text">
-    If you have any copyrights issues/complaints related to this article, you may send us mail at <a href="mailto:support@swayalgo.com" class="rank-math-link">support@swayalgo.com</a>, Also please refer to <a href="https://www.swayalgo.com/terms-conditions/" class="rank-math-link">Terms and Conditions</a> and <a href="https://www.swayalgo.com/privacy-policy/" class="rank-math-link">Privacy Policy.</a>
+    If you have any copyrights issues/complaints related to this article, you may send us mail at <a href="mailto:support@swayalgo.com" class="rank-math-link">support@swayalgo.com</a>, Also please refer to <a href="https://blog.kaustubh.codes/terms-conditions/" class="rank-math-link">Terms and Conditions</a> and <a href="https://blog.kaustubh.codes/privacy-policy/" class="rank-math-link">Privacy Policy.</a>
   </p>
 </div>

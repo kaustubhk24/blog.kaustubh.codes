@@ -4,7 +4,7 @@ title: Write a Vb.net program to design the following form, this program shows t
 date: 2020-08-28T15:20:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-net-program-to-design-the-following-form-this-program-shows-the-details-of-students-in-the-form-of-form-use-split-container-or-groupbox-control-to-separate-the-input-and-output-session/
+guid: http://blog.kaustubh.codes/write-a-vb-net-program-to-design-the-following-form-this-program-shows-the-details-of-students-in-the-form-of-form-use-split-container-or-groupbox-control-to-separate-the-input-and-output-session/
 permalink: /write-a-vb-net-program-to-design-the-following-form-this-program-shows-the-details-of-students-in-the-form-of-form-use-split-container-or-groupbox-control-to-separate-the-input-and-output-session/
 rank_math_internal_links_processed:
   - "1"

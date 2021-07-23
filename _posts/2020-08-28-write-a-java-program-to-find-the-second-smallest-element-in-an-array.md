@@ -4,7 +4,7 @@ title: Write a Java program to find the second smallest element in an array.
 date: 2020-08-28T15:57:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-java-program-to-find-the-second-smallest-element-in-an-array/
+guid: http://blog.kaustubh.codes/write-a-java-program-to-find-the-second-smallest-element-in-an-array/
 permalink: /write-a-java-program-to-find-the-second-smallest-element-in-an-array/
 rank_math_internal_links_processed:
   - "1"

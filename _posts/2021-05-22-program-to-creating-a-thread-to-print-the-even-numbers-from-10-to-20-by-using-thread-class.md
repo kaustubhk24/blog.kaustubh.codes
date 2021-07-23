@@ -4,7 +4,7 @@ title: 'Program to creating a thread to print the even numbers from 10 to 20  by
 date: 2021-05-22T01:53:18+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1700
+guid: https://blog.kaustubh.codes/?p=1700
 permalink: /program-to-creating-a-thread-to-print-the-even-numbers-from-10-to-20-by-using-thread-class/
 rank_math_seo_score:
   - "45"

@@ -4,7 +4,7 @@ title: Celsius to Fahrenheit
 date: 2021-02-15T07:37:58+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1248
+guid: https://blog.kaustubh.codes/?p=1248
 permalink: /celsius-to-fahrenheit/
 rank_math_seo_score:
   - "5"

@@ -4,7 +4,7 @@ title: Revising the Select Query I
 date: 2021-03-04T07:39:52+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1298
+guid: https://blog.kaustubh.codes/?p=1298
 permalink: /revising-the-select-query-i/
 rank_math_seo_score:
   - "8"
@@ -21,7 +21,7 @@ Query all columns for all American cities in the&nbsp;**CITY**&nbsp;table with p
 
 The **CITY** table is described as follows:<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="365" height="300" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/1449729804-f21d187d0f-CITY.jpg" alt="" class="wp-image-1299" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/03/1449729804-f21d187d0f-CITY.jpg 365w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/1449729804-f21d187d0f-CITY-300x247.jpg 300w" sizes="(max-width: 365px) 100vw, 365px" /> </figure> 
+<img loading="lazy" width="365" height="300" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/1449729804-f21d187d0f-CITY.jpg" alt="" class="wp-image-1299" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/1449729804-f21d187d0f-CITY.jpg 365w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/1449729804-f21d187d0f-CITY-300x247.jpg 300w" sizes="(max-width: 365px) 100vw, 365px" /> 
 
 
 

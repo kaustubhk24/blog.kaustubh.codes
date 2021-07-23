@@ -4,7 +4,7 @@ title: 'Write a menu driven program in VB for  i. Addition ii. Subtraction iii. 
 date: 2020-08-28T14:40:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-menu-driven-program-in-vb-for-i-addition-ii-subtraction-iii-multiplication-iv-division/
+guid: http://blog.kaustubh.codes/write-a-menu-driven-program-in-vb-for-i-addition-ii-subtraction-iii-multiplication-iv-division/
 permalink: /write-a-menu-driven-program-in-vb-for-i-addition-ii-subtraction-iii-multiplication-iv-division/
 rank_math_internal_links_processed:
   - "1"

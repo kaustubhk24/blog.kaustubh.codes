@@ -4,7 +4,7 @@ title: Write a VB.NET program to create a table Patient (Pid,PName,Contact_No, D
 date: 2020-08-28T15:23:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-net-program-to-create-a-table-patient-pidpnamecontact_no-disease-insert-records-into-table-and-display-appropriate-message-in-message-box-use-ms-access-to-create-db/
+guid: http://blog.kaustubh.codes/write-a-vb-net-program-to-create-a-table-patient-pidpnamecontact_no-disease-insert-records-into-table-and-display-appropriate-message-in-message-box-use-ms-access-to-create-db/
 permalink: /write-a-vb-net-program-to-create-a-table-patient-pidpnamecontact_no-disease-insert-records-into-table-and-display-appropriate-message-in-message-box-use-ms-access-to-create-db/
 rank_math_internal_links_processed:
   - "1"

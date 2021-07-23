@@ -4,7 +4,7 @@ title: Write a VB program to design Traffic signal using shape control.
 date: 2020-08-28T14:50:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-design-traffic-signal-using-shape-control/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-design-traffic-signal-using-shape-control/
 permalink: /write-a-vb-program-to-design-traffic-signal-using-shape-control/
 rank_math_internal_links_processed:
   - "1"

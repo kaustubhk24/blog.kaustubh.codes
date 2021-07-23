@@ -4,7 +4,7 @@ title: Program to demonstrate the Return of Multiple Values from a Function Defi
 date: 2021-05-22T01:34:32+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1668
+guid: https://blog.kaustubh.codes/?p=1668
 permalink: /program-to-demonstrate-the-return-of-multiple-values-from-a-function-definition/
 rank_math_seo_score:
   - "56"
@@ -63,4 +63,5 @@ Que > Program to demonstrate the Return of Multiple Values from a Function Defin
   return y,x
 print(swap(7,8))</code></pre>
 
-<pre class="wp-block-code"><code>(8, 7)</code></pre>
+<pre class="wp-block-code"><code>(8, 7)
+</code></pre>

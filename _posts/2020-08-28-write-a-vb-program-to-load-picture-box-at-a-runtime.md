@@ -4,7 +4,7 @@ title: Write a VB program to load picture box at a runtime
 date: 2020-08-28T14:42:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-load-picture-box-at-a-runtime/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-load-picture-box-at-a-runtime/
 permalink: /write-a-vb-program-to-load-picture-box-at-a-runtime/
 rank_math_internal_links_processed:
   - "1"

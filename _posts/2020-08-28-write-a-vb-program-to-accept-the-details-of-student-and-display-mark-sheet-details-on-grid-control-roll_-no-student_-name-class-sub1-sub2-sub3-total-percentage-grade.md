@@ -4,7 +4,7 @@ title: 'Write a VB program to accept the details of student and display mark she
 date: 2020-08-28T14:17:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-accept-the-details-of-student-and-display-mark-sheet-details-on-grid-control-roll_-no-student_-name-class-sub1-sub2-sub3-total-percentage-grade/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-accept-the-details-of-student-and-display-mark-sheet-details-on-grid-control-roll_-no-student_-name-class-sub1-sub2-sub3-total-percentage-grade/
 permalink: /write-a-vb-program-to-accept-the-details-of-student-and-display-mark-sheet-details-on-grid-control-roll_-no-student_-name-class-sub1-sub2-sub3-total-percentage-grade/
 rank_math_internal_links_processed:
   - "1"

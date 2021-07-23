@@ -4,7 +4,7 @@ title: 'Design an application in VB which has a Drivelistbox, Dirlistbox, Fileli
 date: 2020-08-28T14:15:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/design-an-application-in-vb-which-has-a-drivelistbox-dirlistbox-filelistbox-control-the-form-contains-the-following-command-buttons-all-drives-display-all-drives-in-computer/
+guid: http://blog.kaustubh.codes/design-an-application-in-vb-which-has-a-drivelistbox-dirlistbox-filelistbox-control-the-form-contains-the-following-command-buttons-all-drives-display-all-drives-in-computer/
 permalink: /design-an-application-in-vb-which-has-a-drivelistbox-dirlistbox-filelistbox-control-the-form-contains-the-following-command-buttons-all-drives-display-all-drives-in-computer/
 rank_math_internal_links_processed:
   - "1"

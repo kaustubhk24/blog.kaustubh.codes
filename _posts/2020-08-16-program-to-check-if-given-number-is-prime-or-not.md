@@ -4,7 +4,7 @@ title: Program to Check If Given Number is Prime or NOT
 date: 2020-08-16T11:30:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/program-to-check-if-given-number-is-prime-or-not/
+guid: http://blog.kaustubh.codes/program-to-check-if-given-number-is-prime-or-not/
 permalink: /program-to-check-if-given-number-is-prime-or-not/
 rank_math_internal_links_processed:
   - "1"

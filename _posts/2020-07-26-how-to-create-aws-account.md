@@ -4,7 +4,7 @@ title: How to Create AWS Account?
 date: 2020-07-26T11:52:00+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/how-to-create-aws-account/
+guid: https://blog.kaustubh.codes/how-to-create-aws-account/
 permalink: /how-to-create-aws-account/
 blogger_blog:
   - blog.swayalgo.com

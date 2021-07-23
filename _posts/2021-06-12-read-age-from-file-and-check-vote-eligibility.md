@@ -4,7 +4,7 @@ title: 'Read Age From File and check  vote eligibility'
 date: 2021-06-12T01:06:54+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1828
+guid: https://blog.kaustubh.codes/?p=1828
 permalink: /read-age-from-file-and-check-vote-eligibility/
 rank_math_seo_score:
   - "10"
@@ -77,4 +77,4 @@ checkAge(data&#91;0],data&#91;1])</code></pre>
 
 Output ><figure class="wp-block-image size-large">
 
-<img loading="lazy" width="827" height="114" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/06/image.png" alt="" class="wp-image-1829" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/06/image.png 827w, https://blog.kaustubh.codes/wp-content/uploads/2021/06/image-300x41.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/06/image-768x106.png 768w" sizes="(max-width: 827px) 100vw, 827px" /> </figure>
+<img loading="lazy" width="827" height="114" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/06/image.png" alt="" class="wp-image-1829" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/06/image.png 827w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/06/image-300x41.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/06/image-768x106.png 768w" sizes="(max-width: 827px) 100vw, 827px" /> 

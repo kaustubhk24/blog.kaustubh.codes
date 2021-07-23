@@ -4,7 +4,7 @@ title: 'Write a VB Program to display the reverse of a given number using functi
 date: 2020-08-28T14:13:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-display-the-reverse-of-a-given-number-using-function-accept-number-through-textbox-and-display-result-using-message-box/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-display-the-reverse-of-a-given-number-using-function-accept-number-through-textbox-and-display-result-using-message-box/
 permalink: /write-a-vb-program-to-display-the-reverse-of-a-given-number-using-function-accept-number-through-textbox-and-display-result-using-message-box/
 rank_math_internal_links_processed:
   - "1"

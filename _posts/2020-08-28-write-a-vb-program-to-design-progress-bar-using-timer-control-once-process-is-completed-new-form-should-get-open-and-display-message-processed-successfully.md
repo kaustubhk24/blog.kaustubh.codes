@@ -4,7 +4,7 @@ title: 'Write a VB program to design progress bar using Timer control. Once proc
 date: 2020-08-28T14:37:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-design-progress-bar-using-timer-control-once-process-is-completed-new-form-should-get-open-and-display-message-processed-successfully/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-design-progress-bar-using-timer-control-once-process-is-completed-new-form-should-get-open-and-display-message-processed-successfully/
 permalink: /write-a-vb-program-to-design-progress-bar-using-timer-control-once-process-is-completed-new-form-should-get-open-and-display-message-processed-successfully/
 rank_math_internal_links_processed:
   - "1"

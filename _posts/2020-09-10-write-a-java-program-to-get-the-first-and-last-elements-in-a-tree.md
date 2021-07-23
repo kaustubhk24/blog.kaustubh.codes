@@ -4,7 +4,7 @@ title: Write a Java program to get the first and last elements in a tree
 date: 2020-09-10T08:36:00+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/write-a-java-program-to-get-the-first-and-last-elements-in-a-tree/
+guid: https://blog.kaustubh.codes/write-a-java-program-to-get-the-first-and-last-elements-in-a-tree/
 permalink: /write-a-java-program-to-get-the-first-and-last-elements-in-a-tree/
 rank_math_internal_links_processed:
   - "1"

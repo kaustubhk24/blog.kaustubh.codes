@@ -4,7 +4,7 @@ title: Develop the menu based Vb.net application to implement a text editor with
 date: 2020-08-28T15:21:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/develop-the-menu-based-vb-net-application-to-implement-a-text-editor-with-cut-copy-paste-save-close-operations/
+guid: http://blog.kaustubh.codes/develop-the-menu-based-vb-net-application-to-implement-a-text-editor-with-cut-copy-paste-save-close-operations/
 permalink: /develop-the-menu-based-vb-net-application-to-implement-a-text-editor-with-cut-copy-paste-save-close-operations/
 rank_math_internal_links_processed:
   - "1"

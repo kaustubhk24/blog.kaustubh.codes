@@ -4,7 +4,7 @@ title: Program to Print Numbers to String in Javascript
 date: 2021-01-02T08:33:56+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1078
+guid: https://blog.kaustubh.codes/?p=1078
 permalink: /program-to-print-numbers-to-string-in-javascript/
 rank_math_seo_score:
   - "64"
@@ -110,4 +110,4 @@ Javascript Program to Print Numbers to String .
 
 Looking solution to use in Android ? <a aria-label="Checkout here (opens in a new tab)" href="https://github.com/kaustubhk24/NumberToWords-Library" target="_blank" rel="noreferrer noopener nofollow" class="rank-math-link">Checkout here</a>
 
-Same Program in Java <a aria-label=" (opens in a new tab)" href="https://www.swayalgo.com/program-to-print-numbers-to-string/" target="_blank" rel="noreferrer noopener" class="rank-math-link">Checkout here</a>
+Same Program in Java <a aria-label=" (opens in a new tab)" href="https://blog.kaustubh.codes/program-to-print-numbers-to-string/" target="_blank" rel="noreferrer noopener" class="rank-math-link">Checkout here</a>

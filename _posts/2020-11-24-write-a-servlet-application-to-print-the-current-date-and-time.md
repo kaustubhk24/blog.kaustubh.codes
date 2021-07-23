@@ -4,7 +4,7 @@ title: Write A Servlet Application To Print The Current Date And Time.
 date: 2020-11-24T10:51:35+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=908
+guid: https://blog.kaustubh.codes/?p=908
 permalink: /write-a-servlet-application-to-print-the-current-date-and-time/
 rank_math_primary_category:
   - "27"
@@ -23,7 +23,7 @@ Create New <a aria-label="Dynamic Web Project (opens in a new tab)" href="https:
 
 Make sure your file structure looks like image below.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="337" height="380" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-22.png" alt="" class="wp-image-909" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-22.png 337w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-22-266x300.png 266w" sizes="(max-width: 337px) 100vw, 337px" /> </figure> 
+<img loading="lazy" width="337" height="380" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-22.png" alt="" class="wp-image-909" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-22.png 337w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-22-266x300.png 266w" sizes="(max-width: 337px) 100vw, 337px" /> 
 
 **index.html**
 
@@ -77,4 +77,4 @@ public class Date1 extends HttpServlet{
 
 Output:<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="440" height="137" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-23.png" alt="" class="wp-image-910" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-23.png 440w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-23-300x93.png 300w" sizes="(max-width: 440px) 100vw, 440px" /> </figure>
+<img loading="lazy" width="440" height="137" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-23.png" alt="" class="wp-image-910" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-23.png 440w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-23-300x93.png 300w" sizes="(max-width: 440px) 100vw, 440px" /> 

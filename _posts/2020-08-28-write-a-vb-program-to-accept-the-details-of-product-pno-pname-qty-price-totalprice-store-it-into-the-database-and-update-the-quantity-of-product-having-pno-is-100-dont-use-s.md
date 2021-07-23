@@ -4,7 +4,7 @@ title: 'Write a VB program to accept the details of product (pno, pname, qty, pr
 date: 2020-08-28T14:31:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-accept-the-details-of-product-pno-pname-qty-price-totalprice-store-it-into-the-database-and-update-the-quantity-of-product-having-pno-is-100-dont-use-s/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-accept-the-details-of-product-pno-pname-qty-price-totalprice-store-it-into-the-database-and-update-the-quantity-of-product-having-pno-is-100-dont-use-s/
 permalink: /write-a-vb-program-to-accept-the-details-of-product-pno-pname-qty-price-totalprice-store-it-into-the-database-and-update-the-quantity-of-product-having-pno-is-100-dont-use-s/
 rank_math_internal_links_processed:
   - "1"

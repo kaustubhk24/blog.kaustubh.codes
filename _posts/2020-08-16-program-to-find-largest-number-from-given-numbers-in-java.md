@@ -4,7 +4,7 @@ title: Program to Find Largest Number from Given Numbers in Java
 date: 2020-08-16T12:30:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/program-to-find-largest-number-from-given-numbers-in-java/
+guid: http://blog.kaustubh.codes/program-to-find-largest-number-from-given-numbers-in-java/
 permalink: /program-to-find-largest-number-from-given-numbers-in-java/
 rank_math_internal_links_processed:
   - "1"

@@ -4,7 +4,7 @@ title: Write a Java program to compare two hash sets.
 date: 2020-09-10T08:35:00+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/write-a-java-program-to-compare-two-hash-sets/
+guid: https://blog.kaustubh.codes/write-a-java-program-to-compare-two-hash-sets/
 permalink: /write-a-java-program-to-compare-two-hash-sets/
 rank_math_internal_links_processed:
   - "1"

@@ -4,7 +4,7 @@ title: How to add QR Code containing URL on your website for FREE?
 date: 2020-10-04T13:02:00+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/how-to-add-qr-code-containing-url-on-your-website-for-free/
+guid: https://blog.kaustubh.codes/how-to-add-qr-code-containing-url-on-your-website-for-free/
 permalink: /how-to-add-qr-code-containing-url-on-your-website-for-free/
 rank_math_internal_links_processed:
   - "1"
@@ -36,7 +36,7 @@ Go to any part of your webpage, where you want to show the QR code of your page 
 
 &  Paste the following code there.
 
-<pre>&lt;script type="text/javascript" src="https://swayalgo.com/js/qr.js"&gt;&lt;/script&gt;</pre>
+<pre>&lt;script type="text/javascript" src="http://blog.kaustubh.codes/js/qr.js"&gt;&lt;/script&gt;</pre>
 
 and Done. You just added the QR code of URL of that page. Make sure you use the above code only inside
 

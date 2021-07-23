@@ -4,7 +4,7 @@ title: Program for Deque Using Array
 date: 2020-08-16T12:18:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/program-for-deque-using-array/
+guid: http://blog.kaustubh.codes/program-for-deque-using-array/
 permalink: /program-for-deque-using-array/
 rank_math_internal_links_processed:
   - "1"

@@ -4,7 +4,7 @@ title: Write a Vb.net program to design the following form, allow the user to se
 date: 2020-08-28T15:16:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-net-program-to-design-the-following-form-allow-the-user-to-select-radio-buttons-from-gender-and-agepanel-after-selection-appropriate-checkbox-from-right-panel-should-be-selected-automatic/
+guid: http://blog.kaustubh.codes/write-a-vb-net-program-to-design-the-following-form-allow-the-user-to-select-radio-buttons-from-gender-and-agepanel-after-selection-appropriate-checkbox-from-right-panel-should-be-selected-automatic/
 permalink: /write-a-vb-net-program-to-design-the-following-form-allow-the-user-to-select-radio-buttons-from-gender-and-agepanel-after-selection-appropriate-checkbox-from-right-panel-should-be-selected-automatic/
 rank_math_internal_links_processed:
   - "1"

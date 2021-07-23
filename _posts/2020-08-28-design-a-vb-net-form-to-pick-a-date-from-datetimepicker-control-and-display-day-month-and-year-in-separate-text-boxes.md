@@ -4,7 +4,7 @@ title: Design a Vb.net form to pick a date from DateTimePicker Control and displ
 date: 2020-08-28T15:13:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/design-a-vb-net-form-to-pick-a-date-from-datetimepicker-control-and-display-day-month-and-year-in-separate-text-boxes/
+guid: http://blog.kaustubh.codes/design-a-vb-net-form-to-pick-a-date-from-datetimepicker-control-and-display-day-month-and-year-in-separate-text-boxes/
 permalink: /design-a-vb-net-form-to-pick-a-date-from-datetimepicker-control-and-display-day-month-and-year-in-separate-text-boxes/
 rank_math_internal_links_processed:
   - "1"

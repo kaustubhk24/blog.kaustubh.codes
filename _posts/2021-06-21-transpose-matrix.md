@@ -4,7 +4,7 @@ title: Transpose Matrix
 date: 2021-06-21T15:18:31+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1834
+guid: https://blog.kaustubh.codes/?p=1834
 permalink: /transpose-matrix/
 rank_math_seo_score:
   - "53"

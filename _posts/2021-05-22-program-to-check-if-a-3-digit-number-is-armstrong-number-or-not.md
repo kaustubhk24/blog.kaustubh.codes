@@ -4,7 +4,7 @@ title: Program to Check If a 3 Digit Number Is Armstrong Number or Not
 date: 2021-05-22T01:36:19+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1670
+guid: https://blog.kaustubh.codes/?p=1670
 permalink: /program-to-check-if-a-3-digit-number-is-armstrong-number-or-not/
 rank_math_seo_score:
   - "59"

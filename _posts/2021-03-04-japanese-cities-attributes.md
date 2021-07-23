@@ -4,7 +4,7 @@ title: 'Japanese Cities&#8217; Attributes'
 date: 2021-03-04T07:47:51+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1313
+guid: https://blog.kaustubh.codes/?p=1313
 permalink: /japanese-cities-attributes/
 rank_math_primary_category:
   - "86"

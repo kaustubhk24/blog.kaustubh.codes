@@ -4,7 +4,7 @@ title: 'Write a VB Program to find sum of digit of a given number till it reduce
 date: 2020-08-28T14:06:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-find-sum-of-digit-of-a-given-number-till-it-reduces-to-single-digit-accept-input-through-textbox-and-display-the-output-in-message-box-using-function/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-find-sum-of-digit-of-a-given-number-till-it-reduces-to-single-digit-accept-input-through-textbox-and-display-the-output-in-message-box-using-function/
 permalink: /write-a-vb-program-to-find-sum-of-digit-of-a-given-number-till-it-reduces-to-single-digit-accept-input-through-textbox-and-display-the-output-in-message-box-using-function/
 rank_math_internal_links_processed:
   - "1"

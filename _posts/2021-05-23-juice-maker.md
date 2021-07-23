@@ -4,7 +4,7 @@ title: Juice Maker
 date: 2021-05-23T06:03:19+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1720
+guid: https://blog.kaustubh.codes/?p=1720
 permalink: /juice-maker/
 rank_math_seo_score:
   - "48"

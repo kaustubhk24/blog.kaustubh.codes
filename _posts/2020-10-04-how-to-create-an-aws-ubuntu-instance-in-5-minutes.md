@@ -4,7 +4,7 @@ title: How to Create an AWS Ubuntu Instance in 5 minutes?
 date: 2020-10-04T17:10:46+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/?p=306
+guid: http://blog.kaustubh.codes/?p=306
 permalink: /how-to-create-an-aws-ubuntu-instance-in-5-minutes/
 rank_math_seo_score:
   - "77"
@@ -44,17 +44,17 @@ tags:
 
 In this tutorial you are going to Learn , How to create an AWS Ubuntu instance in 5 minutes.
 
-To use any AWS service you must have your AWS account. <a rel="noreferrer noopener" href="https://swayalgo.com/how-to-create-aws-account/" data-type="post" data-id="292" target="_blank">Create your account here</a>.
+To use any AWS service you must have your AWS account. <a rel="noreferrer noopener" href="http://blog.kaustubh.codes/how-to-create-aws-account/" data-type="post" data-id="292" target="_blank">Create your account here</a>.
 
 Once account is created, visit <a href="https://console.aws.amazon.com/" data-type="URL" data-id="https://console.aws.amazon.com/">https://console.aws.amazon.com/</a>
 
 Now Click **Services** on Top left corner.You will see below screen .<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="576" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-15-45-1024x576.png" alt="How to Create an AWS Ubuntu Instance in 5 minutes?" class="wp-image-308" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-15-45-1024x576.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-15-45-300x169.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-15-45-768x432.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-15-45-1200x675.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-15-45.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption>Pic : AWS Console Home</figcaption></figure> 
+<img loading="lazy" width="1024" height="576" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-15-45-1024x576.png" alt="How to Create an AWS Ubuntu Instance in 5 minutes?" class="wp-image-308" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-15-45-1024x576.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-15-45-300x169.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-15-45-768x432.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-15-45-1200x675.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-15-45.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption>Pic : AWS Console Home</figcaption>
 
 Now to create an instance, we have to click on **EC2 (Elastic Compute Cloud)** . After clicking EC2, you have to scroll down till see below screen.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="576" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-15-58-1-1024x576.png" alt="How to Create an AWS Ubuntu Instance in 5 minutes?" class="wp-image-327" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-15-58-1-1024x576.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-15-58-1-300x169.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-15-58-1-768x432.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-15-58-1-1200x675.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-15-58-1.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="576" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-15-58-1-1024x576.png" alt="How to Create an AWS Ubuntu Instance in 5 minutes?" class="wp-image-327" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-15-58-1-1024x576.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-15-58-1-300x169.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-15-58-1-768x432.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-15-58-1-1200x675.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-15-58-1.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 
 
@@ -62,7 +62,7 @@ Now click on **Launch Instance** Button. Now we are going to configure our insta
 
 <figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="576" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-16-40-1024x576.png" alt="How to Create an AWS Ubuntu Instance in 5 minutes?" class="wp-image-310" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-16-40-1024x576.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-16-40-300x169.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-16-40-768x432.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-16-40-1200x675.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-16-40.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="576" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-16-40-1024x576.png" alt="How to Create an AWS Ubuntu Instance in 5 minutes?" class="wp-image-310" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-16-40-1024x576.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-16-40-300x169.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-16-40-768x432.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-16-40-1200x675.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-16-40.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 
 
@@ -72,13 +72,13 @@ Now click on **Launch Instance** Button. Now we are going to configure our insta
 
 In this step we have to select An Amazon Machine Image (AMI). we will simply click on &#8220;**FREE Tier Only** &#8221; button. So It will show only the FREE options to us.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="576" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-08-1024x576.png" alt="How to Create an AWS Ubuntu Instance in 5 minutes?" class="wp-image-311" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-08-1024x576.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-08-300x169.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-08-768x432.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-08-1200x675.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-08.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="576" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-08-1024x576.png" alt="How to Create an AWS Ubuntu Instance in 5 minutes?" class="wp-image-311" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-08-1024x576.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-08-300x169.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-08-768x432.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-08-1200x675.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-08.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 
 
-For this tutorial we are going to use **Ubuntu Server 20.04 LTS (HVM), SSD Volume Type&nbsp;&#8211; ami-0cda377a1b884a1bc (64-bit x86) / ami-086c142842468ba9d (64-bit Arm)**. Now click on **select** button as shown in image.<figure class="wp-block-image size-large">
+For this tutorial we are going to use **Ubuntu Server 20.04 LTS (HVM), SSD Volume Type&nbsp;- ami-0cda377a1b884a1bc (64-bit x86) / ami-086c142842468ba9d (64-bit Arm)**. Now click on **select** button as shown in image.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="576" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-38-1024x576.png" alt="How to Create an AWS Ubuntu Instance in 5 minutes?" class="wp-image-312" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-38-1024x576.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-38-300x169.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-38-768x432.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-38-1200x675.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-38.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="576" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-38-1024x576.png" alt="How to Create an AWS Ubuntu Instance in 5 minutes?" class="wp-image-312" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-38-1024x576.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-38-300x169.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-38-768x432.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-38-1200x675.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-38.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 
 
@@ -88,7 +88,7 @@ In this step we are going to select an Instance type. for this tutorial we will 
 
 Then we will click on **Next Configure Instance details.**<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="576" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-44-1024x576.png" alt="How to Create an AWS Ubuntu Instance in 5 minutes?" class="wp-image-313" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-44-1024x576.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-44-300x169.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-44-768x432.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-44-1200x675.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-44.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="576" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-44-1024x576.png" alt="How to Create an AWS Ubuntu Instance in 5 minutes?" class="wp-image-313" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-44-1024x576.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-44-300x169.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-44-768x432.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-44-1200x675.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-17-44.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 
 
@@ -96,7 +96,7 @@ Then we will click on **Next Configure Instance details.**<figure class="wp-bloc
 
 We will keep settings as it is. There is NO need to make changes here. Now click **Next: Add Storage**<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="576" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-04-1024x576.png" alt="How to Create an AWS Ubuntu Instance in 5 minutes?" class="wp-image-314" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-04-1024x576.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-04-300x169.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-04-768x432.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-04-1200x675.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-04.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="576" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-04-1024x576.png" alt="How to Create an AWS Ubuntu Instance in 5 minutes?" class="wp-image-314" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-04-1024x576.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-04-300x169.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-04-768x432.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-04-1200x675.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-04.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 ## **Step 4:** 
 
@@ -110,7 +110,7 @@ Now see option **Delete on Termination** . If you want delete your storage autom
 
 _Free tier eligible customers can get up to 30 GB of EBS General Purpose (SSD) or Magnetic storage.&nbsp;<a rel="noreferrer noopener" href="https://aws.amazon.com/free/" target="_blank">Learn more</a>&nbsp;about free usage tier eligibility and usage restrictions._<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="576" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-16-1024x576.png" alt="" class="wp-image-315" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-16-1024x576.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-16-300x169.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-16-768x432.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-16-1200x675.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-16.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="576" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-16-1024x576.png" alt="" class="wp-image-315" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-16-1024x576.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-16-300x169.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-16-768x432.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-16-1200x675.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-16.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 ## **Step 5 :** 
 
@@ -118,17 +118,17 @@ This step is completely option. In this step we add tags to our instance. Like t
 
 <span class="has-inline-color has-white-color">How to Create an AWS Ubuntu Instance in 5 minutes?</span><figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="576" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-42-1024x576.png" alt="" class="wp-image-316" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-42-1024x576.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-42-300x169.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-42-768x432.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-42-1200x675.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-42.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="576" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-42-1024x576.png" alt="" class="wp-image-316" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-42-1024x576.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-42-300x169.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-42-768x432.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-42-1200x675.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-42.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 ## **Step 6:** 
 
 This is major part of instance creation. In this step we setup security of instance. In this tutorial , I am keeping settings as it is. You may change according to your needs.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="263" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-1024x263.png" alt="" class="wp-image-331" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-1024x263.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-300x77.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-768x197.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-1200x308.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image.png 1336w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="263" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-1024x263.png" alt="" class="wp-image-331" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-1024x263.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-300x77.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-768x197.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-1200x308.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image.png 1336w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 These are some possible configurations, You may change them according to your need. You have to setup this correctly to keep your instance secure.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="576" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-44-1024x576.png" alt="" class="wp-image-317" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-44-1024x576.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-44-300x169.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-44-768x432.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-44-1200x675.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-44.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="576" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-44-1024x576.png" alt="" class="wp-image-317" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-44-1024x576.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-44-300x169.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-44-768x432.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-44-1200x675.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-44.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 ## **Step 7:**
 
@@ -136,7 +136,7 @@ In step 7 AWS shows us complete configuration we selected till now to review. Af
 
 <figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="576" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-58-1024x576.png" alt="" class="wp-image-319" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-58-1024x576.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-58-300x169.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-58-768x432.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-58-1200x675.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-58.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="576" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-58-1024x576.png" alt="" class="wp-image-319" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-58-1024x576.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-58-300x169.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-58-768x432.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-58-1200x675.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-18-58.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 
 
@@ -144,7 +144,7 @@ This is the last step. now just click on **Create a new key pair** and enter the
 
 I**mportant Note**: Keep the downloaded key safe. If you lost key, You will NOT be able to access your instance again.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="576" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-19-27-1024x576.png" alt="" class="wp-image-324" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-19-27-1024x576.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-19-27-300x169.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-19-27-768x432.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-19-27-1200x675.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-19-27.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="576" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-19-27-1024x576.png" alt="" class="wp-image-324" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-19-27-1024x576.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-19-27-300x169.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-19-27-768x432.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-19-27-1200x675.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-from-2020-10-04-22-19-27.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 Our Instance is **Pending** Now. In few seconds status will be changed to **running**.
 
@@ -158,15 +158,6 @@ I hope this tutorial helped you creating your first AWS Ubuntu instance.
 
 Not easy to understand? See below YouTube Video
 
-## **Video Format of Above Tutorial**<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+## **Video Format of Above Tutorial**
 
-<div class="wp-block-embed__wrapper">
-</div></figure> 
-
-
-
-Watch above YouTube Video . Please Like,Share & Subscribe our channel. If you still have questions. Kindly post below in comment. We will reply you in 24 Hours. 
-
-If you want we setup your aws ubuntu server please hire contact us.
-
-##
+<iframe width="560" height="315" src="https://www.youtube.com/embed/277bOs_etdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

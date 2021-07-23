@@ -4,7 +4,7 @@ title: Program to Find Fibonacci Series Upto Given Number
 date: 2020-08-16T11:28:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/program-to-find-fibonacci-series-upto-given-number/
+guid: http://blog.kaustubh.codes/program-to-find-fibonacci-series-upto-given-number/
 permalink: /program-to-find-fibonacci-series-upto-given-number/
 rank_math_internal_links_processed:
   - "1"

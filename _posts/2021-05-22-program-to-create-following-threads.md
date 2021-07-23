@@ -4,7 +4,7 @@ title: Program to create following threads
 date: 2021-05-22T01:54:51+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1702
+guid: https://blog.kaustubh.codes/?p=1702
 permalink: /program-to-create-following-threads/
 rank_math_seo_score:
   - "49"

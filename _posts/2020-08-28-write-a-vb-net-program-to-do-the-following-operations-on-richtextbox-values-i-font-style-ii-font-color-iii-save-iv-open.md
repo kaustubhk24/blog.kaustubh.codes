@@ -4,7 +4,7 @@ title: Write a VB.NET program to do the following operations on RichTextBox valu
 date: 2020-08-28T15:22:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-net-program-to-do-the-following-operations-on-richtextbox-values-i-font-style-ii-font-color-iii-save-iv-open/
+guid: http://blog.kaustubh.codes/write-a-vb-net-program-to-do-the-following-operations-on-richtextbox-values-i-font-style-ii-font-color-iii-save-iv-open/
 permalink: /write-a-vb-net-program-to-do-the-following-operations-on-richtextbox-values-i-font-style-ii-font-color-iii-save-iv-open/
 rank_math_internal_links_processed:
   - "1"

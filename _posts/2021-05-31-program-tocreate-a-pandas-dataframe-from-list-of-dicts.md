@@ -4,7 +4,7 @@ title: Program toCreate a Pandas DataFrame from List of Dicts
 date: 2021-05-31T07:43:43+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1796
+guid: https://blog.kaustubh.codes/?p=1796
 permalink: /program-tocreate-a-pandas-dataframe-from-list-of-dicts/
 rank_math_primary_category:
   - "85"

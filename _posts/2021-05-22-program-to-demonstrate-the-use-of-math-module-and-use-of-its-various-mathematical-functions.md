@@ -4,7 +4,7 @@ title: Program to demonstrate the use of math module and use of its various math
 date: 2021-05-22T01:47:09+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1690
+guid: https://blog.kaustubh.codes/?p=1690
 permalink: /program-to-demonstrate-the-use-of-math-module-and-use-of-its-various-mathematical-functions/
 rank_math_seo_score:
   - "49"

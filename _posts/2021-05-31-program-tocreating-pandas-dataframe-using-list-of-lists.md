@@ -4,7 +4,7 @@ title: Program toCreating Pandas dataframe using list of lists
 date: 2021-05-31T07:45:08+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1798
+guid: https://blog.kaustubh.codes/?p=1798
 permalink: /program-tocreating-pandas-dataframe-using-list-of-lists/
 rank_math_seo_score:
   - "44"

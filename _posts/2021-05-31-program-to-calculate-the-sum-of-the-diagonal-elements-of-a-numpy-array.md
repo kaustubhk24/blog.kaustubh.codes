@@ -4,7 +4,7 @@ title: Program to calculate the sum of the diagonal elements of a NumPy array
 date: 2021-05-31T07:40:01+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1792
+guid: https://blog.kaustubh.codes/?p=1792
 permalink: /program-to-calculate-the-sum-of-the-diagonal-elements-of-a-numpy-array/
 rank_math_primary_category:
   - "85"

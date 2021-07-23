@@ -4,7 +4,7 @@ title: Create a Python class named Rectangle constructed by a length and width a
 date: 2021-04-24T06:17:04+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1525
+guid: https://blog.kaustubh.codes/?p=1525
 permalink: /create-a-python-class-named-rectangle-constructed-by-a-length-and-width-and-a-method-that-will-compute-the-area-of-a-rectangle/
 rank_math_seo_score:
   - "50"

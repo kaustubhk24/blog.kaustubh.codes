@@ -4,7 +4,7 @@ title: Create a Python class named Circle constructed by a radius and two method
 date: 2021-04-24T06:15:33+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1523
+guid: https://blog.kaustubh.codes/?p=1523
 permalink: /create-a-python-class-named-circle-constructed-by-a-radius-and-two-methods-that-will-compute-the-area-and-the-perimeter-of-a-circle/
 rank_math_seo_score:
   - "45"

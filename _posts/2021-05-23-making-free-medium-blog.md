@@ -4,7 +4,7 @@ title: Making Free Medium Blog
 date: 2021-05-23T02:44:08+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1705
+guid: https://blog.kaustubh.codes/?p=1705
 permalink: /making-free-medium-blog/
 rank_math_seo_score:
   - "80"
@@ -66,13 +66,13 @@ First visit <a aria-label="medium.com (opens in a new tab)" href="http://medium.
 
 & if you don&#8217;t have a **medium** account, Create an account, Once the account is created login into your account, Once you are logged in to your medium account click on the profile picture in the top right and select the **Write Story** option.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="375" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-6-1024x375.png" alt="Making Free Medium Blog" class="wp-image-1708" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-6-1024x375.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-6-300x110.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-6-768x281.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-6-1200x439.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-6.png 1334w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="375" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-6-1024x375.png" alt="Making Free Medium Blog" class="wp-image-1708" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-6-1024x375.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-6-300x110.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-6-768x281.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-6-1200x439.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-6.png 1334w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 Once you click on write story you will see option to write post, In Story title add title for your blog post & below write content you can also import images, videos etc easily.
 
 See Screenshot below<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="266" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-7-1024x266.png" alt="Making Free Medium Blog" class="wp-image-1709" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-7-1024x266.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-7-300x78.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-7-768x199.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-7-1200x311.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-7.png 1342w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="266" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-7-1024x266.png" alt="Making Free Medium Blog" class="wp-image-1709" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-7-1024x266.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-7-300x78.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-7-768x199.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-7-1200x311.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-7.png 1342w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 After writing story click on Publish button in top right corner, Medium will ask for more post details, Let&#8217;s see
 
@@ -80,27 +80,27 @@ Story Preview : In story preview you have to put featured image for your story, 
 
 Tags: In tags you can add some words to get more traffic from search results. Do not do keyword stuffig here.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="414" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-8-1024x414.png" alt="Making Free Medium Blog" class="wp-image-1710" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-8-1024x414.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-8-300x121.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-8-768x310.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-8-1200x485.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-8.png 1391w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="414" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-8-1024x414.png" alt="Making Free Medium Blog" class="wp-image-1710" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-8-1024x414.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-8-300x121.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-8-768x310.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-8-1200x485.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-8.png 1391w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 Once your story is published you will get a confirmation dialog box about that your story is published,
 
 If this was your first post medium will ask you to complete your profile,<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="629" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-9-1024x629.png" alt="Making Free Medium Blog" class="wp-image-1711" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-9-1024x629.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-9-300x184.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-9-768x472.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-9.png 1090w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="629" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-9-1024x629.png" alt="Making Free Medium Blog" class="wp-image-1711" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-9-1024x629.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-9-300x184.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-9-768x472.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-9.png 1090w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 You will be asked to provide full name, your bio and profile photo, add those details, if don&#8217;t want to add now just click on **continue**. ( you can always change these setting later)
 
 Now in next step we can claim url<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="806" height="516" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-10.png" alt="Making Free Medium Blog" class="wp-image-1712" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-10.png 806w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-10-300x192.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-10-768x492.png 768w" sizes="(max-width: 806px) 100vw, 806px" /> </figure> 
+<img loading="lazy" width="806" height="516" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-10.png" alt="Making Free Medium Blog" class="wp-image-1712" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-10.png 806w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-10-300x192.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-10-768x492.png 768w" sizes="(max-width: 806px) 100vw, 806px" /> 
 
 You can claim as you want, after that click on claim URL, Make sure that once you claim URL, do not change URL, that will affect your site ranking
 
 That&#8217;s it , done, Keep in mind You can not run ads here, they have there own partner program please read about it in profile section.
 
-If you want to read more about <a href="https://www.swayalgo.com/how-to-make-completely-free-blog/#Medium" target="_blank" aria-label="Advantages and disadvantages of medium you can read here (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">Advantages and disadvantages of medium you can read here</a>
+If you want to read more about <a href="https://blog.kaustubh.codes/how-to-make-completely-free-blog/#Medium" target="_blank" aria-label="Advantages and disadvantages of medium you can read here (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">Advantages and disadvantages of medium you can read here</a>
 
 ## Video Guide<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
 <div class="wp-block-embed__wrapper">
-</div></figure>
+</div>

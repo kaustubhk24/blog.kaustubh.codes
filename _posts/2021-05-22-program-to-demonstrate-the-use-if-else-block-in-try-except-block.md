@@ -4,7 +4,7 @@ title: Program to demonstrate the use if else block in Try Except block
 date: 2021-05-22T01:52:11+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1698
+guid: https://blog.kaustubh.codes/?p=1698
 permalink: /program-to-demonstrate-the-use-if-else-block-in-try-except-block/
 rank_math_seo_score:
   - "53"

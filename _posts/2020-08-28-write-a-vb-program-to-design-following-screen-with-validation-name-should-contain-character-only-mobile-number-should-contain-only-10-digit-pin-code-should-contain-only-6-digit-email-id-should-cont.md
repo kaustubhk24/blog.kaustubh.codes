@@ -4,7 +4,7 @@ title: Write a VB program to design following screen with validation name should
 date: 2020-08-28T14:30:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-design-following-screen-with-validation-name-should-contain-character-only-mobile-number-should-contain-only-10-digit-pin-code-should-contain-only-6-digit-email-id-should-cont/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-design-following-screen-with-validation-name-should-contain-character-only-mobile-number-should-contain-only-10-digit-pin-code-should-contain-only-6-digit-email-id-should-cont/
 permalink: /write-a-vb-program-to-design-following-screen-with-validation-name-should-contain-character-only-mobile-number-should-contain-only-10-digit-pin-code-should-contain-only-6-digit-email-id-should-cont/
 rank_math_internal_links_processed:
   - "1"

@@ -4,7 +4,7 @@ title: 'Write a VB program to enter two positive numbers, calculate the sum of t
 date: 2020-08-28T14:36:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-enter-two-positive-numbers-calculate-the-sum-of-the-products-of-each-pair-of-digits-occupying-the-same-position-in-the-two-numbers-display-the-result-on/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-enter-two-positive-numbers-calculate-the-sum-of-the-products-of-each-pair-of-digits-occupying-the-same-position-in-the-two-numbers-display-the-result-on/
 permalink: /write-a-vb-program-to-enter-two-positive-numbers-calculate-the-sum-of-the-products-of-each-pair-of-digits-occupying-the-same-position-in-the-two-numbers-display-the-result-on/
 rank_math_internal_links_processed:
   - "1"

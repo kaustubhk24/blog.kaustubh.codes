@@ -4,7 +4,7 @@ title: function in python to read the content from a text file line by line and 
 date: 2021-03-21T06:06:06+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1441
+guid: https://blog.kaustubh.codes/?p=1441
 permalink: /function-in-python-to-read-the-content-from-a-text-file-line-by-line-and-display-the-same-on-screen/
 rank_math_seo_score:
   - "58"

@@ -4,7 +4,7 @@ title: Print Function
 date: 2021-02-27T03:16:06+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1284
+guid: https://blog.kaustubh.codes/?p=1284
 permalink: /print-function/
 rank_math_seo_score:
   - "9"

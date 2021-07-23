@@ -4,7 +4,7 @@ title: Write a Vb.net program to accept n numbers through InputBox and count the
 date: 2020-08-28T15:10:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-net-program-to-accept-n-numbers-through-inputbox-and-count-the-number-of-armstrong-and-perfect-numbers-among-them-and-display-their-count-by-using-messagebox/
+guid: http://blog.kaustubh.codes/write-a-vb-net-program-to-accept-n-numbers-through-inputbox-and-count-the-number-of-armstrong-and-perfect-numbers-among-them-and-display-their-count-by-using-messagebox/
 permalink: /write-a-vb-net-program-to-accept-n-numbers-through-inputbox-and-count-the-number-of-armstrong-and-perfect-numbers-among-them-and-display-their-count-by-using-messagebox/
 rank_math_internal_links_processed:
   - "1"

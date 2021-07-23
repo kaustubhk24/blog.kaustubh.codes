@@ -4,7 +4,7 @@ title: Longest Word
 date: 2021-02-18T13:01:08+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1253
+guid: https://blog.kaustubh.codes/?p=1253
 permalink: /longest-word/
 rank_math_seo_score:
   - "9"

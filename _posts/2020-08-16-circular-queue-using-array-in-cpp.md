@@ -4,7 +4,7 @@ title: Circular Queue Using Array in CPP
 date: 2020-08-16T12:17:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/circular-queue-using-array-in-cpp/
+guid: http://blog.kaustubh.codes/circular-queue-using-array-in-cpp/
 permalink: /circular-queue-using-array-in-cpp/
 rank_math_internal_links_processed:
   - "1"

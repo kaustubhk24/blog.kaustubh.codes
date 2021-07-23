@@ -4,7 +4,7 @@ title: Write a Vb.net program to accept number from user into the TextBox.Calcul
 date: 2020-08-28T15:12:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-net-program-to-accept-number-from-user-into-the-textbox-calculate-the-square-root-of-that-number-also-convert-the-entered-number-into-binary-number-and-display-result-into-the-message-box/
+guid: http://blog.kaustubh.codes/write-a-vb-net-program-to-accept-number-from-user-into-the-textbox-calculate-the-square-root-of-that-number-also-convert-the-entered-number-into-binary-number-and-display-result-into-the-message-box/
 permalink: /write-a-vb-net-program-to-accept-number-from-user-into-the-textbox-calculate-the-square-root-of-that-number-also-convert-the-entered-number-into-binary-number-and-display-result-into-the-message-box/
 rank_math_internal_links_processed:
   - "1"

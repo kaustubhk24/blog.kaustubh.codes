@@ -4,7 +4,7 @@ title: 'Write a VB program for dragging and dropping multiple objects. (Take two
 date: 2020-08-28T14:50:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-for-dragging-and-dropping-multiple-objects-take-two-command-buttons-reset-and-exit-and-four-image-controls-when-user-click-on-reset-button-then-all-images-will-go-to-origin/
+guid: http://blog.kaustubh.codes/write-a-vb-program-for-dragging-and-dropping-multiple-objects-take-two-command-buttons-reset-and-exit-and-four-image-controls-when-user-click-on-reset-button-then-all-images-will-go-to-origin/
 permalink: /write-a-vb-program-for-dragging-and-dropping-multiple-objects-take-two-command-buttons-reset-and-exit-and-four-image-controls-when-user-click-on-reset-button-then-all-images-will-go-to-origin/
 rank_math_internal_links_processed:
   - "1"

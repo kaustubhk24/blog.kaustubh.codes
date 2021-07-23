@@ -4,7 +4,7 @@ title: Python If-Else
 date: 2021-02-27T02:44:09+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1278
+guid: https://blog.kaustubh.codes/?p=1278
 permalink: /python-if-else/
 rank_math_seo_score:
   - "9"

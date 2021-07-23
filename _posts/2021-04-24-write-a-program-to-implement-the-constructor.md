@@ -4,7 +4,7 @@ title: Write a program to implement the constructor.
 date: 2021-04-24T06:18:23+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1527
+guid: https://blog.kaustubh.codes/?p=1527
 permalink: /write-a-program-to-implement-the-constructor/
 rank_math_seo_score:
   - "44"

@@ -4,7 +4,7 @@ title: Write a Java program to search an element in an array list.
 date: 2020-09-10T08:33:00+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/write-a-java-program-to-search-an-element-in-an-array-list/
+guid: https://blog.kaustubh.codes/write-a-java-program-to-search-an-element-in-an-array-list/
 permalink: /write-a-java-program-to-search-an-element-in-an-array-list/
 rank_math_internal_links_processed:
   - "1"

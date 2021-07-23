@@ -4,7 +4,7 @@ title: Write a Java program to set the priority of a thread.
 date: 2020-09-01T09:00:00+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/write-a-java-program-to-set-the-priority-of-a-thread/
+guid: https://blog.kaustubh.codes/write-a-java-program-to-set-the-priority-of-a-thread/
 permalink: /write-a-java-program-to-set-the-priority-of-a-thread/
 rank_math_internal_links_processed:
   - "1"

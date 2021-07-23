@@ -4,7 +4,7 @@ title: Data Types in VB.NET
 date: 2021-01-04T05:06:46+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1131
+guid: https://blog.kaustubh.codes/?p=1131
 permalink: /data-types-in-vb-net/
 rank_math_primary_category:
   - "8"
@@ -95,7 +95,7 @@ These are most commonly used data types in Visual Basic .NET
 
 <figure class="wp-block-image size-large">
 
-<img loading="lazy" width="787" height="234" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-6.png" alt="Data Types in VB.NET" class="wp-image-1135" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-6.png 787w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-6-300x89.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-6-768x228.png 768w" sizes="(max-width: 787px) 100vw, 787px" /> </figure> 
+<img loading="lazy" width="787" height="234" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-6.png" alt="Data Types in VB.NET" class="wp-image-1135" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-6.png 787w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-6-300x89.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-6-768x228.png 768w" sizes="(max-width: 787px) 100vw, 787px" /> 
 
 
 
@@ -113,4 +113,4 @@ End Class</code></pre>
 
 
 
-<a href="https://www.swayalgo.com/index-complete-visual-basic-net-series/" target="_blank" aria-label="Visit Index  (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">Visit Index </a>
+<a href="https://blog.kaustubh.codes/index-complete-visual-basic-net-series/" target="_blank" aria-label="Visit Index  (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">Visit Index </a>

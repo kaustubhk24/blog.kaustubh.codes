@@ -4,7 +4,7 @@ title: 'Write a VB program that takes a set of ten numbers and converts them int
 date: 2020-08-28T14:46:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-that-takes-a-set-of-ten-numbers-and-converts-them-into-either-a-bar-chart-or-pie-chart-using-appropriate-button/
+guid: http://blog.kaustubh.codes/write-a-vb-program-that-takes-a-set-of-ten-numbers-and-converts-them-into-either-a-bar-chart-or-pie-chart-using-appropriate-button/
 permalink: /write-a-vb-program-that-takes-a-set-of-ten-numbers-and-converts-them-into-either-a-bar-chart-or-pie-chart-using-appropriate-button/
 rank_math_internal_links_processed:
   - "1"

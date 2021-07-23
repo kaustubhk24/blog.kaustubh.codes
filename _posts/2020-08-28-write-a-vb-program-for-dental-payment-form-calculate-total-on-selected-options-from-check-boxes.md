@@ -4,7 +4,7 @@ title: Write a VB Program for Dental Payment Form. Calculate total on selected o
 date: 2020-08-28T14:09:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-for-dental-payment-form-calculate-total-on-selected-options-from-check-boxes/
+guid: http://blog.kaustubh.codes/write-a-vb-program-for-dental-payment-form-calculate-total-on-selected-options-from-check-boxes/
 permalink: /write-a-vb-program-for-dental-payment-form-calculate-total-on-selected-options-from-check-boxes/
 rank_math_internal_links_processed:
   - "1"

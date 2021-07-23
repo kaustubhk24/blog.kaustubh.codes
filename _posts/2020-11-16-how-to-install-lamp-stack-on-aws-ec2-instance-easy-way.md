@@ -4,7 +4,7 @@ title: How to Install LAMP Stack on AWS EC2 Instance Easy Way?
 date: 2020-11-16T08:31:23+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=673
+guid: https://blog.kaustubh.codes/?p=673
 permalink: /how-to-install-lamp-stack-on-aws-ec2-instance-easy-way/
 rank_math_seo_score:
   - "84"
@@ -15,7 +15,7 @@ rank_math_internal_links_processed:
 rank_math_description:
   - |
     How to Install LAMP Stack on AWS EC2 Instance?
-    The easiest way to install  LAMP ( Linux, Apache , MySql, Php)  Stack&amp; Host website.
+    The easiest way to install  LAMP ( Linux, Apache , MySql, Php)  Stack& Host website.
 rank_math_focus_keyword:
   - How to Install LAMP Stack on AWS EC2 Instance
 rank_math_analytic_object_id:
@@ -30,15 +30,15 @@ In this tutorial we will see, How to Install LAMP Stack on AWS EC2 Instance?
 
 ## Create AWS Account
 
-If you don&#8217;t have AWS account previously, You can create your aws <a href="https://www.swayalgo.com/how-to-create-aws-account/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">account here</a>.
+If you don&#8217;t have AWS account previously, You can create your aws <a href="https://blog.kaustubh.codes/how-to-create-aws-account/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">account here</a>.
 
 ## Creating Instance
 
-We are going to create Ubuntu 20.04 EC2 instance . To <a href="https://www.swayalgo.com/how-to-create-an-aws-ubuntu-instance-in-5-minutes/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">create EC2 instance click here.</a>
+We are going to create Ubuntu 20.04 EC2 instance . To <a href="https://blog.kaustubh.codes/how-to-create-an-aws-ubuntu-instance-in-5-minutes/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">create EC2 instance click here.</a>
 
 ## Accessing Instance from your PC
 
-If you don&#8217;t know how to access VPS ( Virtual Private Server). Then please follow <a href="https://www.swayalgo.com/how-to-access-digital-ocean-droplet-the-best-way/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">this guide. </a>
+If you don&#8217;t know how to access VPS ( Virtual Private Server). Then please follow <a href="https://blog.kaustubh.codes/how-to-access-digital-ocean-droplet-the-best-way/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">this guide. </a>
 
 _This is written for digital ocean, but it will work on ec2 too. Except method #1 [from console]_
 
@@ -53,7 +53,7 @@ To connect , first we will need to generate Private Key (.ppk) from PuttyGen. _(
 Now click on **Save private key** . save it as (.ppk) file.<figure class="wp-block-image size-large">
 
 <img loading="lazy" width="465" height="455" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-2.png" alt="How to Install LAMP Stack on AWS EC2 Instance?
-" class="wp-image-684" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-2.png 465w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-2-300x294.png 300w" sizes="(max-width: 465px) 100vw, 465px" /> </figure> 
+" class="wp-image-684" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-2.png 465w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-2-300x294.png 300w" sizes="(max-width: 465px) 100vw, 465px" /> 
 
 Now open **Putty** App, fill below fields as per instructions.
 
@@ -69,13 +69,13 @@ Now from left menu , select Connection -> SSH -> Auth
 
 Check for option **Private Key for file authentication** & select the file we generated in last step & Click on Open Button.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="434" height="423" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-3.png" alt="How to Install LAMP Stack on AWS EC2 Instance?" class="wp-image-685" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-3.png 434w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-3-300x292.png 300w" sizes="(max-width: 434px) 100vw, 434px" /> </figure> 
+<img loading="lazy" width="434" height="423" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-3.png" alt="How to Install LAMP Stack on AWS EC2 Instance?" class="wp-image-685" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-3.png 434w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-3-300x292.png 300w" sizes="(max-width: 434px) 100vw, 434px" /> 
 
 Once everything added , Go to session windows again & in saved session add this session, So next time, you will not require do this stuff again. Now Click on **Open** button.
 
 SSH will go you warning click on **Allow** / **OK**.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="445" height="428" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-4.png" alt="How to Install LAMP Stack on AWS EC2 Instance?" class="wp-image-686" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-4.png 445w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-4-300x289.png 300w" sizes="(max-width: 445px) 100vw, 445px" /> </figure> 
+<img loading="lazy" width="445" height="428" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-4.png" alt="How to Install LAMP Stack on AWS EC2 Instance?" class="wp-image-686" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-4.png 445w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-4-300x289.png 300w" sizes="(max-width: 445px) 100vw, 445px" /> 
 
 Now you have access to your SSH.
 
@@ -98,13 +98,13 @@ Above 2 commands will update all the apps in our EC2 Ubuntu instance.
 
 It will remove all the non-required packages.
 
-### Setting Up Sudo &#8211; User
+### Setting Up Sudo - User
 
 <pre class="wp-block-code"><code>$    adduser enter_username_here</code></pre>
 
 Now fill complete details of user and once asked for confirmation type **y** and hit enter.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="840" height="369" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-5.png" alt="How to Install LAMP Stack on AWS EC2 Instance?" class="wp-image-687" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-5.png 840w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-5-300x132.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-5-768x337.png 768w" sizes="(max-width: 840px) 100vw, 840px" /> </figure> 
+<img loading="lazy" width="840" height="369" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-5.png" alt="How to Install LAMP Stack on AWS EC2 Instance?" class="wp-image-687" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-5.png 840w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-5-300x132.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-5-768x337.png 768w" sizes="(max-width: 840px) 100vw, 840px" /> 
 
 Now we&#8217;re going to add sudo / root privileges to this user , So the user can do tasks by using word sudo. To do that
 
@@ -142,7 +142,7 @@ We need to update firewall rules again & need to add **&#8220;Apache&#8221;** to
 
 Once done visit your **EC2 IP address**, You will see success apache configuration success page. as shown below,<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="896" height="486" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-17.png" alt="How to Install LAMP Stack on AWS EC2 Instance?" class="wp-image-462" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-17.png 896w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-17-300x163.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-17-768x417.png 768w" sizes="(max-width: 896px) 100vw, 896px" /> </figure> 
+<img loading="lazy" width="896" height="486" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-17.png" alt="How to Install LAMP Stack on AWS EC2 Instance?" class="wp-image-462" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-17.png 896w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-17-300x163.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-17-768x417.png 768w" sizes="(max-width: 896px) 100vw, 896px" /> 
 
 If you are unable to view above page, then that&#8217;s not issue, We can update some setting and you will be able to see this page. To do that,
 
@@ -152,9 +152,9 @@ Click on the **services** in top corner -> **EC2**, after click on **Security Gr
 
 Now make all the settings as shown in this image.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="307" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-6-1024x307.png" alt="How to Install LAMP Stack on AWS EC2 Instance?" class="wp-image-694" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-6-1024x307.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-6-300x90.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-6-768x230.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-6.png 1050w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="307" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-6-1024x307.png" alt="How to Install LAMP Stack on AWS EC2 Instance?" class="wp-image-694" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-6-1024x307.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-6-300x90.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-6-768x230.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-6.png 1050w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
-Once rules updated you can visit your IP address and you can see that confirmationg page.
+Once rules updated you can visit your IP address and you can see that confirmation page.
 
 ## Installing MySQL
 
@@ -178,21 +178,16 @@ enter **y** when asked, That&#8217;s it. You just completed installation of LAMP
 
 
 
-# Video Version of Above Tutorial<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-
-<div class="wp-block-embed__wrapper">
-</div></figure> 
-
-
+# Video Version of Above Tutorial
+<iframe width="560" height="315" src="https://www.youtube.com/embed/60cdSuxpzkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Looking for Alternative of EC2? 
 
-Read <a aria-label="Digital Ocean Articles here. (opens in a new tab)" rel="noreferrer noopener" href="https://www.swayalgo.com/category/cloud/digital-ocean/" target="_blank" class="rank-math-link">Digital Ocean Articles here.</a>
 
 Get the $100 free credits by Digital Ocean for free. You can get $100 by clicking below button.
 
 <div class="wp-block-buttons">
   <div class="wp-block-button">
-    <a class="wp-block-button__link has-vivid-cyan-blue-to-vivid-purple-gradient-background has-background" href="https://www.swayalgo.com/digitalocean" target="_blank" rel="noreferrer noopener">Try DigitalOcean & Get $100 Credits for FREE</a>
+    <a class="wp-block-button__link has-vivid-cyan-blue-to-vivid-purple-gradient-background has-background" href="https://m.do.co/c/253fdc8807b5" target="_blank" rel="noreferrer noopener">Try DigitalOcean & Get $100 Credits for FREE</a>
   </div>
 </div>

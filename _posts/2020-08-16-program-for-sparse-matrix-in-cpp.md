@@ -4,7 +4,7 @@ title: Program for Sparse Matrix in CPP
 date: 2020-08-16T12:13:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/program-for-sparse-matrix-in-cpp/
+guid: http://blog.kaustubh.codes/program-for-sparse-matrix-in-cpp/
 permalink: /program-for-sparse-matrix-in-cpp/
 rank_math_internal_links_processed:
   - "1"

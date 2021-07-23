@@ -4,7 +4,7 @@ title: Write a Java program to get the number of elements in a hash set.
 date: 2020-09-10T08:38:00+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/write-a-java-program-to-get-the-number-of-elements-in-a-hash-set/
+guid: https://blog.kaustubh.codes/write-a-java-program-to-get-the-number-of-elements-in-a-hash-set/
 permalink: /write-a-java-program-to-get-the-number-of-elements-in-a-hash-set/
 rank_math_internal_links_processed:
   - "1"

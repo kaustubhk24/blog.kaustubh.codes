@@ -4,7 +4,7 @@ title: Program To Reverse String Using Python
 date: 2021-03-08T06:55:46+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1402
+guid: https://blog.kaustubh.codes/?p=1402
 permalink: /program-to-reverse-string-using-python/
 rank_math_primary_category:
   - "85"

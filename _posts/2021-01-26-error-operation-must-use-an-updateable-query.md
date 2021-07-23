@@ -4,7 +4,7 @@ title: Error Operation Must Use an Updateable Query
 date: 2021-01-26T01:48:52+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1230
+guid: https://blog.kaustubh.codes/?p=1230
 permalink: /error-operation-must-use-an-updateable-query/
 rank_math_seo_score:
   - "78"
@@ -24,11 +24,11 @@ image: http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/error-operatio
 categories:
   - VB.NET
 ---
-Almost everyone face Error Operation Must Use an Updateable Query , when they make first <a aria-label="setup (opens in a new tab)" href="https://www.swayalgo.com/how-to-make-setup-file-in-vb-net/" target="_blank" rel="noreferrer noopener" class="rank-math-link">setup</a> of there .NET project.
+Almost everyone face Error Operation Must Use an Updateable Query , when they make first <a aria-label="setup (opens in a new tab)" href="https://blog.kaustubh.codes/how-to-make-setup-file-in-vb-net/" target="_blank" rel="noreferrer noopener" class="rank-math-link">setup</a> of there .NET project.
 
 ## Error Images<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="683" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/error-operation-must-use-an-updateable-query-1024x683.png" alt="" class="wp-image-1233" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/error-operation-must-use-an-updateable-query-1024x683.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/error-operation-must-use-an-updateable-query-300x200.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/error-operation-must-use-an-updateable-query-768x512.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/error-operation-must-use-an-updateable-query.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="683" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/error-operation-must-use-an-updateable-query-1024x683.png" alt="" class="wp-image-1233" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/error-operation-must-use-an-updateable-query-1024x683.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/error-operation-must-use-an-updateable-query-300x200.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/error-operation-must-use-an-updateable-query-768x512.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/error-operation-must-use-an-updateable-query.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 If you have use try catch block and printed exception then you will get error from image 1 else you will get image 2 error.
 
@@ -58,15 +58,15 @@ You need to remember that username.
 
 Then right click on Database and **View Properties** & then click on **Security Tab** & Click on **Edit** Button refer screenshot below.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="874" height="444" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-27.png" alt="error operation must use an updateable query" class="wp-image-1235" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-27.png 874w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-27-300x152.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-27-768x390.png 768w" sizes="(max-width: 874px) 100vw, 874px" /> </figure> 
+<img loading="lazy" width="874" height="444" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-27.png" alt="error operation must use an updateable query" class="wp-image-1235" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-27.png 874w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-27-300x152.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-27-768x390.png 768w" sizes="(max-width: 874px) 100vw, 874px" /> 
 
 Select your name and allow all the rights, click **apply** and **ok**. That&#8217;s it. You can use your database now.
 
 If you still face any issue , you may view video Guide below. Let us know , if it works for you.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="820" height="427" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-28.png" alt="error operation must use an updateable query" class="wp-image-1236" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-28.png 820w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-28-300x156.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-28-768x400.png 768w" sizes="(max-width: 820px) 100vw, 820px" /> </figure> 
+<img loading="lazy" width="820" height="427" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-28.png" alt="error operation must use an updateable query" class="wp-image-1236" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-28.png 820w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-28-300x156.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-28-768x400.png 768w" sizes="(max-width: 820px) 100vw, 820px" /> 
 
 ## Video Guide<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
 <div class="wp-block-embed__wrapper">
-</div></figure>
+</div>

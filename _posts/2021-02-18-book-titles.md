@@ -4,7 +4,7 @@ title: Book Titles
 date: 2021-02-18T07:41:06+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1250
+guid: https://blog.kaustubh.codes/?p=1250
 permalink: /book-titles/
 rank_math_seo_score:
   - "9"

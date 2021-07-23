@@ -4,7 +4,7 @@ title: Write VB program to design following form
 date: 2020-08-28T14:41:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-vb-program-to-design-following-form/
+guid: http://blog.kaustubh.codes/write-vb-program-to-design-following-form/
 permalink: /write-vb-program-to-design-following-form/
 rank_math_internal_links_processed:
   - "1"

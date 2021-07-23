@@ -4,7 +4,7 @@ title: 'Program To Read Person&#8217;s Age From Keyboard And Display Whether Is 
 date: 2021-02-21T06:38:45+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1271
+guid: https://blog.kaustubh.codes/?p=1271
 permalink: /program-to-read-persons-age-from-keyboard-and-display-whether-is-eligible-for-voting-or-not/
 rank_math_seo_score:
   - "5"

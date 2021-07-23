@@ -4,7 +4,7 @@ title: Write a VB Program to display all even and odd numbers from an array
 date: 2020-08-28T14:27:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-display-all-even-and-odd-numbers-from-an-array/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-display-all-even-and-odd-numbers-from-an-array/
 permalink: /write-a-vb-program-to-display-all-even-and-odd-numbers-from-an-array/
 rank_math_internal_links_processed:
   - "1"

@@ -4,7 +4,7 @@ title: Write a Vb.net program to accept sentences in text box and count the numb
 date: 2020-08-28T15:14:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-net-program-to-accept-sentences-in-text-box-and-count-the-number-of-words-and-display-the-count-in-message-box/
+guid: http://blog.kaustubh.codes/write-a-vb-net-program-to-accept-sentences-in-text-box-and-count-the-number-of-words-and-display-the-count-in-message-box/
 permalink: /write-a-vb-net-program-to-accept-sentences-in-text-box-and-count-the-number-of-words-and-display-the-count-in-message-box/
 rank_math_internal_links_processed:
   - "1"

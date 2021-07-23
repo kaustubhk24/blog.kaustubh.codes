@@ -1,10 +1,10 @@
 ---
 id: 1428
-title: 'Fixed &#8211; Visual Studio Blurry App'
+title: 'Fixed - Visual Studio Blurry App'
 date: 2021-03-15T07:31:56+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1428
+guid: https://blog.kaustubh.codes/?p=1428
 permalink: /visual-studio-blurry-app/
 rank_math_seo_score:
   - "75"
@@ -38,11 +38,11 @@ Are you facing issues with Visual Studio Blurry App? Like you made app , while d
 
 First Open your Solution & then Click on **Project** Menu , Then last option in Project Menu will be your `<strong><span class="has-inline-color has-luminous-vivid-amber-color">Project Name</span> Properties</strong>`, click on that , option as shown in image below,<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="659" height="766" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/Visual-Studio-Blurry-1.png" alt="Visual Studio Blurry App" class="wp-image-1431" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/03/Visual-Studio-Blurry-1.png 659w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/Visual-Studio-Blurry-1-258x300.png 258w" sizes="(max-width: 659px) 100vw, 659px" /> </figure> 
+<img loading="lazy" width="659" height="766" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/Visual-Studio-Blurry-1.png" alt="Visual Studio Blurry App" class="wp-image-1431" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/Visual-Studio-Blurry-1.png 659w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/Visual-Studio-Blurry-1-258x300.png 258w" sizes="(max-width: 659px) 100vw, 659px" /> 
 
 In next step we will find our **app.manifest file** and we will make some necessary modifications, Now Click on **Application** tab and then we will click on **View Windows** Settings option, You don&#8217;t have to make any changes in this step, you just have to follow along<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="480" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/Visual-Studio-Blurry-2-1024x480.png" alt="Visual Studio Blurry App" class="wp-image-1432" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/03/Visual-Studio-Blurry-2-1024x480.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/Visual-Studio-Blurry-2-300x141.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/Visual-Studio-Blurry-2-768x360.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/Visual-Studio-Blurry-2.png 1060w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="480" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/Visual-Studio-Blurry-2-1024x480.png" alt="Visual Studio Blurry App" class="wp-image-1432" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/Visual-Studio-Blurry-2-1024x480.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/Visual-Studio-Blurry-2-300x141.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/Visual-Studio-Blurry-2-768x360.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/Visual-Studio-Blurry-2.png 1060w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 Now when you will click View Windows Settings , your editor will open **app.manifest** file, Some modifications are required in this , we will make modifications and we&#8217;re good to go,
 
@@ -81,4 +81,4 @@ Also Watch Video Guide if you face any issues,
 ## Video Guide<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
 <div class="wp-block-embed__wrapper">
-</div></figure>
+</div>

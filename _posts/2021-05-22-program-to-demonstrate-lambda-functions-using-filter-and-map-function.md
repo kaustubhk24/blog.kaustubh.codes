@@ -4,7 +4,7 @@ title: Program to demonstrate lambda functions using filter() and map() function
 date: 2021-05-22T01:46:06+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1688
+guid: https://blog.kaustubh.codes/?p=1688
 permalink: /program-to-demonstrate-lambda-functions-using-filter-and-map-function/
 rank_math_seo_score:
   - "49"

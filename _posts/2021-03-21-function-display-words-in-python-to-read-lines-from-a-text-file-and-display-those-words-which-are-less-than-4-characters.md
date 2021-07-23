@@ -4,7 +4,7 @@ title: Function display_words() in python to read lines from a text file, and di
 date: 2021-03-21T06:12:41+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1449
+guid: https://blog.kaustubh.codes/?p=1449
 permalink: /function-display-words-in-python-to-read-lines-from-a-text-file-and-display-those-words-which-are-less-than-4-characters/
 rank_math_seo_score:
   - "51"

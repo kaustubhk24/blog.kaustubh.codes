@@ -4,7 +4,7 @@ title: Write a Vb.Net program to move the Text “SwayAlgo.com” continuously f
 date: 2020-08-28T15:08:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-net-program-to-move-the-text-justinclicks-com-continuously-from-left-to-right/
+guid: http://blog.kaustubh.codes/write-a-vb-net-program-to-move-the-text-justinclicks-com-continuously-from-left-to-right/
 permalink: /write-a-vb-net-program-to-move-the-text-justinclicks-com-continuously-from-left-to-right/
 rank_math_internal_links_processed:
   - "1"

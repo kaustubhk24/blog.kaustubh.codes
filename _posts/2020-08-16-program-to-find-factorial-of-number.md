@@ -4,7 +4,7 @@ title: Program to Find Factorial of Number
 date: 2020-08-16T11:24:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/program-to-find-factorial-of-number/
+guid: http://blog.kaustubh.codes/program-to-find-factorial-of-number/
 permalink: /program-to-find-factorial-of-number/
 rank_math_internal_links_processed:
   - "1"

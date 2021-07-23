@@ -4,7 +4,7 @@ title: Search Engine
 date: 2021-02-15T07:02:46+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1246
+guid: https://blog.kaustubh.codes/?p=1246
 permalink: /search-engine/
 rank_math_seo_score:
   - "5"

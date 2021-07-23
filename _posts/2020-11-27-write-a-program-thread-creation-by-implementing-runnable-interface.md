@@ -4,7 +4,7 @@ title: Write a program Thread creation by implementing Runnable Interface
 date: 2020-11-27T18:18:10+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=922
+guid: https://blog.kaustubh.codes/?p=922
 permalink: /write-a-program-thread-creation-by-implementing-runnable-interface/
 rank_math_seo_score:
   - "68"
@@ -47,4 +47,4 @@ Thread.currentThread().getName());
 
 Output:<figure class="wp-block-image size-large">
 
-<img src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-25.png" alt="" class="wp-image-923" /> </figure>
+<img src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-25.png" alt="" class="wp-image-923" /> 

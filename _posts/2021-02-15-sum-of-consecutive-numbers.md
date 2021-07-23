@@ -4,7 +4,7 @@ title: Sum of Consecutive Numbers
 date: 2021-02-15T06:40:29+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1244
+guid: https://blog.kaustubh.codes/?p=1244
 permalink: /sum-of-consecutive-numbers/
 rank_math_seo_score:
   - "5"

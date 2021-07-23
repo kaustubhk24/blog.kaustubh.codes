@@ -4,7 +4,7 @@ title: Program to select the elements from a given matrix
 date: 2021-05-31T07:37:31+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1788
+guid: https://blog.kaustubh.codes/?p=1788
 permalink: /program-to-select-the-elements-from-a-given-matrix/
 rank_math_seo_score:
   - "44"

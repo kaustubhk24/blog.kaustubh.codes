@@ -4,7 +4,7 @@ title: Write a program in VB for Login screen validation.(use ADODC Control)
 date: 2020-08-28T14:52:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-program-in-vb-for-login-screen-validation-use-adodc-control/
+guid: http://blog.kaustubh.codes/write-a-program-in-vb-for-login-screen-validation-use-adodc-control/
 permalink: /write-a-program-in-vb-for-login-screen-validation-use-adodc-control/
 rank_math_internal_links_processed:
   - "1"

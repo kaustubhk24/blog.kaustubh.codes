@@ -4,7 +4,7 @@ title: 'Write a program to demonstrate Java Swing components such as  JPasswordF
 date: 2020-10-04T12:46:00+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/write-a-program-to-demonstrate-java-swing-components-such-as-jpasswordfield-jcheckbox-jtextfield-jlist-jradiobutton/
+guid: https://blog.kaustubh.codes/write-a-program-to-demonstrate-java-swing-components-such-as-jpasswordfield-jcheckbox-jtextfield-jlist-jradiobutton/
 permalink: /write-a-program-to-demonstrate-java-swing-components-such-as-jpasswordfield-jcheckbox-jtextfield-jlist-jradiobutton/
 rank_math_internal_links_processed:
   - "1"

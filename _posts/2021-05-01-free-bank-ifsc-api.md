@@ -4,7 +4,7 @@ title: Free Bank IFSC API
 date: 2021-05-01T02:56:37+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1544
+guid: https://blog.kaustubh.codes/?p=1544
 permalink: /free-bank-ifsc-api/
 rank_math_seo_score:
   - "82"
@@ -38,7 +38,7 @@ After searching for API&#8217;s for indian banks we found one GitHub repository,
 
 ## How to use Free Bank IFSC API
 
-Use API Base URL as : <https://bank-apis.justinclicks.com/API/>{.rank-math-link}
+Use API Base URL as : <https://bank-apis.justinclicks.com/API/>
 
 This guide is for API version : V1 
 
@@ -96,7 +96,7 @@ You will be get response in JSON , for example
 
 See Example<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="408" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-1024x408.png" alt="Free Bank IFSC API" class="wp-image-1548" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-1024x408.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-300x120.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-768x306.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-1536x612.png 1536w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-1200x478.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image.png 1570w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="408" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-1024x408.png" alt="Free Bank IFSC API" class="wp-image-1548" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-1024x408.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-300x120.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-768x306.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-1536x612.png 1536w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-1200x478.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image.png 1570w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 ## 2. API To Get Data By Selections
 
@@ -203,7 +203,7 @@ This will send a response of bank details in JSON format, for example
 
 See example<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="372" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-1-1024x372.png" alt="Free Bank IFSC API" class="wp-image-1549" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-1-1024x372.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-1-300x109.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-1-768x279.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-1-1536x558.png 1536w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-1-1200x436.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-1.png 1615w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="372" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-1-1024x372.png" alt="Free Bank IFSC API" class="wp-image-1549" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-1-1024x372.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-1-300x109.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-1-768x279.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-1-1536x558.png 1536w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-1-1200x436.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-1.png 1615w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 ## 3 . Get Excel File of Any Bank
 
@@ -227,9 +227,9 @@ see example
 
 <figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="369" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-2-1024x369.png" alt="Free Bank IFSC API" class="wp-image-1550" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-2-1024x369.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-2-300x108.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-2-768x277.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-2-1536x554.png 1536w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-2-1200x433.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/image-2.png 1623w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="369" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-2-1024x369.png" alt="Free Bank IFSC API" class="wp-image-1550" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-2-1024x369.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-2-300x108.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-2-768x277.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-2-1536x554.png 1536w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-2-1200x433.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/image-2.png 1623w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 ## Video Guide<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
 <div class="wp-block-embed__wrapper">
-</div></figure>
+</div>

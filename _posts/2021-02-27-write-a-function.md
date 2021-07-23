@@ -4,7 +4,7 @@ title: Write a function
 date: 2021-02-27T03:06:36+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1282
+guid: https://blog.kaustubh.codes/?p=1282
 permalink: /write-a-function/
 rank_math_primary_category:
   - "85"

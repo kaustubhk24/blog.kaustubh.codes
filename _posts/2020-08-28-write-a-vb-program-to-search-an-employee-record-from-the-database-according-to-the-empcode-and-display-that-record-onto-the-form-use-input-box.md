@@ -4,7 +4,7 @@ title: 'Write a VB program to search an employee record from the database accord
 date: 2020-08-28T14:28:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-search-an-employee-record-from-the-database-according-to-the-empcode-and-display-that-record-onto-the-form-use-input-box/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-search-an-employee-record-from-the-database-according-to-the-empcode-and-display-that-record-onto-the-form-use-input-box/
 permalink: /write-a-vb-program-to-search-an-employee-record-from-the-database-according-to-the-empcode-and-display-that-record-onto-the-form-use-input-box/
 rank_math_internal_links_processed:
   - "1"

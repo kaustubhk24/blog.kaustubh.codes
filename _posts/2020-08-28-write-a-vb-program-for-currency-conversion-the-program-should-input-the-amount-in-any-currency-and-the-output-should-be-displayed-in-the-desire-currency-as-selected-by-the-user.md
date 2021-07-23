@@ -4,7 +4,7 @@ title: 'Write a VB program for currency conversion. The program should input the
 date: 2020-08-28T14:25:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-for-currency-conversion-the-program-should-input-the-amount-in-any-currency-and-the-output-should-be-displayed-in-the-desire-currency-as-selected-by-the-user/
+guid: http://blog.kaustubh.codes/write-a-vb-program-for-currency-conversion-the-program-should-input-the-amount-in-any-currency-and-the-output-should-be-displayed-in-the-desire-currency-as-selected-by-the-user/
 permalink: /write-a-vb-program-for-currency-conversion-the-program-should-input-the-amount-in-any-currency-and-the-output-should-be-displayed-in-the-desire-currency-as-selected-by-the-user/
 rank_math_internal_links_processed:
   - "1"

@@ -4,7 +4,7 @@ title: 'Write a VB.NET program to create a table student (RollNo,SName, Class). 
 date: 2020-08-28T15:24:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-net-program-to-create-a-table-student-rollnosname-class-insert-the-records-max-5-update-class-of-students-to-tybca-whose-class-is-sybca-and-disp/
+guid: http://blog.kaustubh.codes/write-a-vb-net-program-to-create-a-table-student-rollnosname-class-insert-the-records-max-5-update-class-of-students-to-tybca-whose-class-is-sybca-and-disp/
 permalink: /write-a-vb-net-program-to-create-a-table-student-rollnosname-class-insert-the-records-max-5-update-class-of-students-to-tybca-whose-class-is-sybca-and-disp/
 rank_math_internal_links_processed:
   - "1"

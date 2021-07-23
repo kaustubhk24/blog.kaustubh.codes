@@ -4,7 +4,7 @@ title: 'How To Make Fastest Blog in WordPress  5 Easy Steps ?'
 date: 2021-01-08T06:04:06+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1185
+guid: https://blog.kaustubh.codes/?p=1185
 permalink: /how-to-make-fastest-blog-in-wordpress/
 rank_math_seo_score:
   - "88"
@@ -53,11 +53,11 @@ Let us see How To Make Fastest Blog in WordPress,
 
 The most important part is buying reliable / suitable domain and hosting, we have already covered those parts, So we are not going cover it here, Please read details from link below,
 
-<a href="https://www.swayalgo.com/get-most-affordable-hosting-with-free-domain/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">Get Most Affordable Hosting With FREE Domain</a>
+<a href="https://blog.kaustubh.codes/get-most-affordable-hosting-with-free-domain/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">Get Most Affordable Hosting With FREE Domain</a>
 
-<a href="https://www.swayalgo.com/how-to-get-hosting-at-free-cheap-price/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">How to Get Hosting at FREE / Cheap Price?</a>
+<a href="https://blog.kaustubh.codes/how-to-get-hosting-at-free-cheap-price/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">How to Get Hosting at FREE / Cheap Price?</a>
 
-<a href="https://www.swayalgo.com/how-to-create-an-aws-ubuntu-instance-in-5-minutes/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">How to Create an AWS Ubuntu Instance in 5 minutes?</a>
+<a href="https://blog.kaustubh.codes/how-to-create-an-aws-ubuntu-instance-in-5-minutes/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">How to Create an AWS Ubuntu Instance in 5 minutes?</a>
 
 ## Installing FREE SSL
 
@@ -65,11 +65,11 @@ In this step we will install , FREE SSL certificate, to move our site from http 
 
 visit <a aria-label="sslforfree.com (opens in a new tab)" href="https://www.sslforfree.com/" target="_blank" rel="noreferrer noopener" class="rank-math-link">sslforfree.com</a> enter your domain name , now it will prompt for **Login/Register**, If you don&#8217;t have account there, you can **Register**, after that you will see screen below,<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="526" height="305" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-18.png" alt="How To Make Fastest Blog in WordPress" class="wp-image-1187" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-18.png 526w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-18-300x174.png 300w" sizes="(max-width: 526px) 100vw, 526px" /> </figure> 
+<img loading="lazy" width="526" height="305" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-18.png" alt="How To Make Fastest Blog in WordPress" class="wp-image-1187" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-18.png 526w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-18-300x174.png 300w" sizes="(max-width: 526px) 100vw, 526px" /> 
 
 Click on **Next Step**, Now we need to **verify** our domain , we can do same using 3 methods, but we will be using **http file upload** method. First create folder _.well-known_ then create folder _pki-validation_ inside that and upload the downloaded file there & click on **verify** button . Now you&#8217;ll see confirmation screen below<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="545" height="207" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-19.png" alt="How To Make Fastest Blog in WordPress" class="wp-image-1188" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-19.png 545w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-19-300x114.png 300w" sizes="(max-width: 545px) 100vw, 545px" /> </figure> 
+<img loading="lazy" width="545" height="207" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-19.png" alt="How To Make Fastest Blog in WordPress" class="wp-image-1188" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-19.png 545w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-19-300x114.png 300w" sizes="(max-width: 545px) 100vw, 545px" /> 
 
 You can download this **.zip** file, Now open your **CPanel**, Search for **SSL / TLS** option -> **Install and Manage SSL for your site**, extract and copy paste files on correct location,
 
@@ -77,7 +77,7 @@ You can download this **.zip** file, Now open your **CPanel**, Search for **SSL 
  "<span class="has-inline-color has-vivid-red-color">site_name\</span>ca_bundle.crt"   to   ca bundle box
  "<span class="has-inline-color has-vivid-red-color">site_name\</span>certificate.crt"    to   Certificate [crt ] box</pre>
 
-Last step click on **Install** , You just completed Installing FREE SSL for 90 days, You need to renew this certificate, every 90 days. If you faced any issue while installing SSL please [watch Video Guide](#video-guide){.rank-math-link}
+Last step click on **Install** , You just completed Installing FREE SSL for 90 days, You need to renew this certificate, every 90 days. If you faced any issue while installing SSL please [watch Video Guide](#video-guide)
 
 ## Installing WordPress
 
@@ -89,21 +89,21 @@ In this tutorial we are using godaddy hosting with CPanel, it contains installtr
 
 enter username, email, password and click on install button, It will automatically create database for you and will install complete WordPress automatically,<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="757" height="224" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-20.png" alt="How To Make Fastest Blog in WordPress" class="wp-image-1192" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-20.png 757w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-20-300x89.png 300w" sizes="(max-width: 757px) 100vw, 757px" /> </figure> 
+<img loading="lazy" width="757" height="224" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-20.png" alt="How To Make Fastest Blog in WordPress" class="wp-image-1192" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-20.png 757w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-20-300x89.png 300w" sizes="(max-width: 757px) 100vw, 757px" /> 
 
-After installation is done, you can see **wp-admin** link, click on it, GoDaddy will show there setup option we will not be using in this tutorial, So use default wordpress. & click **yes I&#8217;m sure** then, You are now at **WordPress Dashboard**. Let&#8217;s remove non-required things, please [watch Video Guide](https://www.swayalgo.com/wp-admin/post.php?post=1185&action=edit#video-guide).
+After installation is done, you can see **wp-admin** link, click on it, GoDaddy will show there setup option we will not be using in this tutorial, So use default wordpress. & click **yes I&#8217;m sure** then, You are now at **WordPress Dashboard**. Let&#8217;s remove non-required things, please [watch Video Guide](https://blog.kaustubh.codes/wp-admin/post.php?post=1185&action=edit#video-guide).
 
 ## Removing Non-Required Things
 
-We will remove all the Non-required Plugins, Posts, Pages, Themes that are previously installed , move to trash and delete from that trash too. please [watch Video Guide](https://www.swayalgo.com/wp-admin/post.php?post=1185&action=edit#video-guide).<figure class="wp-block-image size-large">
+We will remove all the Non-required Plugins, Posts, Pages, Themes that are previously installed , move to trash and delete from that trash too. please [watch Video Guide](https://blog.kaustubh.codes/wp-admin/post.php?post=1185&action=edit#video-guide).<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="710" height="197" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-21.png" alt="How To Make Fastest Blog in WordPress" class="wp-image-1195" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-21.png 710w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-21-300x83.png 300w" sizes="(max-width: 710px) 100vw, 710px" /> </figure> 
+<img loading="lazy" width="710" height="197" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-21.png" alt="How To Make Fastest Blog in WordPress" class="wp-image-1195" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-21.png 710w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-21-300x83.png 300w" sizes="(max-width: 710px) 100vw, 710px" /> 
 
 ## Installing Theme
 
 We will install <a aria-label="GeneratePress  (opens in a new tab)" href="https://wordpress.org/themes/generatepress/" target="_blank" rel="noreferrer noopener" class="rank-math-link">GeneratePress </a>theme here, Currently this is fastest theme available. Open **WordPress Dashboard**, -> **Appearance** -> **Themes** and in searchbox type **GeneratePress** and Click **install** then **Activate**.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="842" height="308" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-22.png" alt="How To Make Fastest Blog in WordPress" class="wp-image-1196" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-22.png 842w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-22-300x110.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-22-768x281.png 768w" sizes="(max-width: 842px) 100vw, 842px" /> </figure> 
+<img loading="lazy" width="842" height="308" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-22.png" alt="How To Make Fastest Blog in WordPress" class="wp-image-1196" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-22.png 842w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-22-300x110.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-22-768x281.png 768w" sizes="(max-width: 842px) 100vw, 842px" /> 
 
 you just installed and activated theme. You can use this theme completely **FREE**. But we want some features that are NOT available in FREE version, So we&#8217;re buying Premium here, If you don&#8217;t want to invest money now, simply use this theme, But if you can , I will definitely suggest to go for Pro version.
 
@@ -113,7 +113,7 @@ You can visit generatepress.com/premium to purchase pro. It will cost you around
 
 <div class="wp-block-buttons">
   <div class="wp-block-button">
-    <a class="wp-block-button__link" href="https://www.swayalgo.com/product/gpl-generatepress/" target="_blank" rel="noreferrer noopener">Get GPL GeneratePress</a>
+    <a class="wp-block-button__link" href="https://blog.kaustubh.codes/product/gpl-generatepress/" target="_blank" rel="noreferrer noopener">Get GPL GeneratePress</a>
   </div>
 </div>
 
@@ -123,23 +123,23 @@ _[ **NOTE** : GPL is GNU general public license and its legal to use. Read more 
 
 Now we assume that you have GeneratePress copy. Now Open **Plugins** , Click on **Add New** then **Upload plugin**, and upload the file we just purchased.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="678" height="168" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-23.png" alt="How To Make Fastest Blog in WordPress" class="wp-image-1202" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-23.png 678w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-23-300x74.png 300w" sizes="(max-width: 678px) 100vw, 678px" /> </figure> 
+<img loading="lazy" width="678" height="168" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-23.png" alt="How To Make Fastest Blog in WordPress" class="wp-image-1202" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-23.png 678w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-23-300x74.png 300w" sizes="(max-width: 678px) 100vw, 678px" /> 
 
 After installing Plugin we need to **activate** plugins inside Select all plugins and Click **activate**
 
 Once all plugins activated you can see option **Site Library**, will be used for importing Ready Made site.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="801" height="276" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-24.png" alt="How To Make Fastest Blog in WordPress" class="wp-image-1203" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-24.png 801w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-24-300x103.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-24-768x265.png 768w" sizes="(max-width: 801px) 100vw, 801px" /> </figure> 
+<img loading="lazy" width="801" height="276" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-24.png" alt="How To Make Fastest Blog in WordPress" class="wp-image-1203" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-24.png 801w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-24-300x103.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-24-768x265.png 768w" sizes="(max-width: 801px) 100vw, 801px" /> 
 
 Click on **Site Library** and Select site you like, In this tutorial we will be importing **Marketer** site, Click on **Import** Button and After import you will see option **Visit Site**<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="714" height="314" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-25.png" alt="How To Make Fastest Blog in WordPress" class="wp-image-1204" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-25.png 714w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-25-300x132.png 300w" sizes="(max-width: 714px) 100vw, 714px" /> </figure> 
+<img loading="lazy" width="714" height="314" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-25.png" alt="How To Make Fastest Blog in WordPress" class="wp-image-1204" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-25.png 714w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-25-300x132.png 300w" sizes="(max-width: 714px) 100vw, 714px" /> 
 
 ## Removing Copyrights
 
 To remove copyright , activation of copyright plugin is required, it will be automatically disabled , if you imported above site, Go to Appearance -> GeneratePress and activate that plugin, Next click Appearance -> Customize <figure class="wp-block-image size-large">
 
-<img loading="lazy" width="800" height="188" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-26.png" alt="" class="wp-image-1205" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-26.png 800w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-26-300x71.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-26-768x180.png 768w" sizes="(max-width: 800px) 100vw, 800px" /> </figure> 
+<img loading="lazy" width="800" height="188" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-26.png" alt="" class="wp-image-1205" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-26.png 800w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-26-300x71.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-26-768x180.png 768w" sizes="(max-width: 800px) 100vw, 800px" /> 
 
 tap that blue button and write copyright you want. You may use **%copy%** to print **©** symbol and **%current_year%** will print **current yea**r.
 

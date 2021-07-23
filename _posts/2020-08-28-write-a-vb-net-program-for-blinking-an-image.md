@@ -4,7 +4,7 @@ title: Write a Vb.net program for blinking an image
 date: 2020-08-28T15:07:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-net-program-for-blinking-an-image/
+guid: http://blog.kaustubh.codes/write-a-vb-net-program-for-blinking-an-image/
 permalink: /write-a-vb-net-program-for-blinking-an-image/
 rank_math_internal_links_processed:
   - "1"

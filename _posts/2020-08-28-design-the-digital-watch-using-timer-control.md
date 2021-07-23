@@ -4,7 +4,7 @@ title: Design the digital watch using Timer Control.
 date: 2020-08-28T14:34:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/design-the-digital-watch-using-timer-control/
+guid: http://blog.kaustubh.codes/design-the-digital-watch-using-timer-control/
 permalink: /design-the-digital-watch-using-timer-control/
 rank_math_internal_links_processed:
   - "1"

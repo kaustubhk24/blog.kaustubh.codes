@@ -4,7 +4,7 @@ title: Design an application that contains one Label and two combo boxes, one co
 date: 2020-08-28T14:19:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/design-an-application-that-contains-one-label-and-two-combo-boxes-one-combo-box-contains-any-text-and-second-combo-box-contains-color-names-write-a-vb-program-to-set-caption-and-background-color-to/
+guid: http://blog.kaustubh.codes/design-an-application-that-contains-one-label-and-two-combo-boxes-one-combo-box-contains-any-text-and-second-combo-box-contains-color-names-write-a-vb-program-to-set-caption-and-background-color-to/
 permalink: /design-an-application-that-contains-one-label-and-two-combo-boxes-one-combo-box-contains-any-text-and-second-combo-box-contains-color-names-write-a-vb-program-to-set-caption-and-background-color-to/
 rank_math_internal_links_processed:
   - "1"

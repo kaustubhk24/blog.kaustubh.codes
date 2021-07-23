@@ -4,7 +4,7 @@ title: Write a VB program to create screen saver on the form.
 date: 2020-08-28T14:44:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-create-screen-saver-on-the-form/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-create-screen-saver-on-the-form/
 permalink: /write-a-vb-program-to-create-screen-saver-on-the-form/
 rank_math_internal_links_processed:
   - "1"

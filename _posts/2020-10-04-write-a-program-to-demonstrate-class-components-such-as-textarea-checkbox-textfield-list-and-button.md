@@ -4,7 +4,7 @@ title: Write a program to demonstrate class components such as TextArea, Checkbo
 date: 2020-10-04T12:52:00+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/write-a-program-to-demonstrate-class-components-such-as-textarea-checkbox-textfield-list-and-button/
+guid: https://blog.kaustubh.codes/write-a-program-to-demonstrate-class-components-such-as-textarea-checkbox-textfield-list-and-button/
 permalink: /write-a-program-to-demonstrate-class-components-such-as-textarea-checkbox-textfield-list-and-button/
 rank_math_internal_links_processed:
   - "1"

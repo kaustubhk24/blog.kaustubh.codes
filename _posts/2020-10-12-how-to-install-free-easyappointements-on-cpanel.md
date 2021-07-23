@@ -4,7 +4,7 @@ title: How to Install FREE EasyAppointements on CPanel in 5 minutes?
 date: 2020-10-12T11:14:02+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/?p=372
+guid: http://blog.kaustubh.codes/?p=372
 permalink: /how-to-install-free-easyappointements-on-cpanel/
 rank_math_seo_score:
   - "75"
@@ -64,7 +64,7 @@ Once you accessed your CPanel we will be moving to upload our files on CPanel Ac
 
 To upload click on **File Manager** and Go to **Public_html** folder and create desired folder.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1014" height="359" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-2.png" alt="How to Install FREE EasyAppointements on CPanel in 5 minutes? " class="wp-image-379" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-2.png 1014w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-2-300x106.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-2-768x272.png 768w" sizes="(max-width: 1014px) 100vw, 1014px" /> </figure> 
+<img loading="lazy" width="1014" height="359" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-2.png" alt="How to Install FREE EasyAppointements on CPanel in 5 minutes? " class="wp-image-379" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-2.png 1014w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-2-300x106.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-2-768x272.png 768w" sizes="(max-width: 1014px) 100vw, 1014px" /> 
 
 Suppose you want to add your software at **example.com/book** then create a folder **book** inside your **public_html** folder.
 
@@ -74,7 +74,7 @@ that&#8217;s it. we completed our first task to upload required files to the ser
 
 One important task is to rename `config-sample.php` to `config.php` <figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="386" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-1-1024x386.png" alt="How to Install FREE EasyAppointements on CPanel in 5 minutes? " class="wp-image-378" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-1-1024x386.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-1-300x113.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-1-768x289.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-1-1200x452.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-1.png 1362w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="386" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-1-1024x386.png" alt="How to Install FREE EasyAppointements on CPanel in 5 minutes? " class="wp-image-378" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-1-1024x386.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-1-300x113.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-1-768x289.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-1-1200x452.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-1.png 1362w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 ### Database Part
 
@@ -82,27 +82,27 @@ One important task is to rename `config-sample.php` to `config.php` <figure clas
 
 To create database click on **MySQL Databases**. see image below. option 1 to be selected.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1020" height="290" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-3.png" alt="How to Install FREE EasyAppointements on CPanel in 5 minutes? " class="wp-image-380" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-3.png 1020w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-3-300x85.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-3-768x218.png 768w" sizes="(max-width: 1020px) 100vw, 1020px" /> </figure> 
+<img loading="lazy" width="1020" height="290" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-3.png" alt="How to Install FREE EasyAppointements on CPanel in 5 minutes? " class="wp-image-380" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-3.png 1020w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-3-300x85.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-3-768x218.png 768w" sizes="(max-width: 1020px) 100vw, 1020px" /> 
 
 Once you click you will be redirected to page where it will ask you the name of database. You have to enter database name you want to use. Keep Good & understandable database name & click on **Create Database**.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="708" height="174" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-4.png" alt="How to Install FREE EasyAppointements on CPanel in 5 minutes? " class="wp-image-381" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-4.png 708w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-4-300x74.png 300w" sizes="(max-width: 708px) 100vw, 708px" /> </figure> 
+<img loading="lazy" width="708" height="174" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-4.png" alt="How to Install FREE EasyAppointements on CPanel in 5 minutes? " class="wp-image-381" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-4.png 708w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-4-300x74.png 300w" sizes="(max-width: 708px) 100vw, 708px" /> 
 
 ### Creating A User
 
 Once the database is created. we have to create a user to access the database we just created. To create users just scroll down. You will get the option to **Add New User**. Create a username & you can use a password generator to generate passwords. Keep all this data safe and secure. we need all this data while setting up your app.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="962" height="442" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-5.png" alt="How to Install FREE EasyAppointements on CPanel in 5 minutes? " class="wp-image-382" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-5.png 962w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-5-300x138.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-5-768x353.png 768w" sizes="(max-width: 962px) 100vw, 962px" /> </figure> 
+<img loading="lazy" width="962" height="442" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-5.png" alt="How to Install FREE EasyAppointements on CPanel in 5 minutes? " class="wp-image-382" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-5.png 962w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-5-300x138.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-5-768x353.png 768w" sizes="(max-width: 962px) 100vw, 962px" /> 
 
 ### Authorising the user to use database
 
 The last step & important step is to authorize user to use our database. Just scroll more you will find  **Add User to Database** option.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="776" height="261" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-7.png" alt="How to Install FREE EasyAppointements on CPanel in 5 minutes? " class="wp-image-384" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-7.png 776w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-7-300x101.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-7-768x258.png 768w" sizes="(max-width: 776px) 100vw, 776px" /> </figure> 
+<img loading="lazy" width="776" height="261" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-7.png" alt="How to Install FREE EasyAppointements on CPanel in 5 minutes? " class="wp-image-384" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-7.png 776w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-7-300x101.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-7-768x258.png 768w" sizes="(max-width: 776px) 100vw, 776px" /> 
 
 Now select the user and appropriate database and click on **Add** button. Now you will be redirected to another page. Where you are required to select the rights to users on the database. simply select **ALL PRIVILEGES**.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="524" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-8-1024x524.png" alt="How to Install FREE EasyAppointements on CPanel in 5 minutes? " class="wp-image-385" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-8-1024x524.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-8-300x153.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-8-768x393.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-8.png 1064w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="524" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-8-1024x524.png" alt="How to Install FREE EasyAppointements on CPanel in 5 minutes? " class="wp-image-385" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-8-1024x524.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-8-300x153.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-8-768x393.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-8.png 1064w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 Now click on **Make Changes** . Done, we have done database part too.
 
@@ -205,13 +205,13 @@ for example: <a href="http://example.com" target="_blank" aria-label="example.co
 
 You will see below screen <figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="438" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-9-1024x438.png" alt="How to Install FREE EasyAppointements on CPanel in 5 minutes? " class="wp-image-387" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-9-1024x438.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-9-300x128.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-9-768x329.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-9-1200x513.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-9.png 1344w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="438" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-9-1024x438.png" alt="How to Install FREE EasyAppointements on CPanel in 5 minutes? " class="wp-image-387" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-9-1024x438.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-9-300x128.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-9-768x329.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-9-1200x513.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-9.png 1344w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 Enter all data correctly and click on **Install EasyAppointments.**
 
 Done you have completed installation process. To access admin panel of application we just installed click on Login section button. <figure class="wp-block-image size-large">
 
-<img loading="lazy" width="857" height="185" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-10.png" alt="" class="wp-image-388" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-10.png 857w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-10-300x65.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-10-768x166.png 768w" sizes="(max-width: 857px) 100vw, 857px" /> </figure> 
+<img loading="lazy" width="857" height="185" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-10.png" alt="" class="wp-image-388" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-10.png 857w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-10-300x65.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-10-768x166.png 768w" sizes="(max-width: 857px) 100vw, 857px" /> 
 
 Enter credentials we just setup and Login. You can customise everything now. Update setup with your business data and logics . You have completed setup for FREE & Open-source booking System.
 
@@ -298,7 +298,7 @@ Booking system Pro is provided by <a href="http://justinclicks.com/appointment-b
     </td>
     
     <td>
-      <a href="https://swayalgo.com/booking-app/index.html" target="_blank" aria-label="JustInClicks.com (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">JustInClicks.com</a> Pay for both
+      <a href="http://blog.kaustubh.codes/booking-app/index.html" target="_blank" aria-label="JustInClicks.com (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">JustInClicks.com</a> Pay for both
     </td>
   </tr>
   
@@ -381,13 +381,11 @@ Booking system Pro is provided by <a href="http://justinclicks.com/appointment-b
       Web Hosting
     </td>
   </tr>
-</table></figure> 
-
-For more information please visit [Ju](https://swayalgo.com/booking-app/index.html){.rank-math-link}[s](http://justinclicks.com/appointment-booking-system/){.rank-math-link}[tInClicks.com](https://swayalgo.com/booking-app/index.html){.rank-math-link}
+</table>
 
 
 
-## YouTube Video Version of Above Tutorial<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
-<div class="wp-block-embed__wrapper">
-</div></figure>
+
+## YouTube Video Version of Above Tutorial
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_UI7ihEWk6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

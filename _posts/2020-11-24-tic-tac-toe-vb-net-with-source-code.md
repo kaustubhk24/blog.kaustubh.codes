@@ -4,7 +4,7 @@ title: 'Creating Tic  Tac Toe VB.NET With Source Code'
 date: 2020-11-24T05:05:33+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=895
+guid: https://blog.kaustubh.codes/?p=895
 permalink: /tic-tac-toe-vb-net-with-source-code/
 rank_math_internal_links_processed:
   - "1"
@@ -30,7 +30,7 @@ Let&#8217;s see How to make Tic Tac Toe VB.NET With Source Code?
 
 First Create a Project and make design like below<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="315" height="183" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-21.png" alt="Tic  Tac Toe VB.NET With Source Code" class="wp-image-896" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-21.png 315w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-21-300x174.png 300w" sizes="(max-width: 315px) 100vw, 315px" /> </figure> 
+<img loading="lazy" width="315" height="183" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-21.png" alt="Tic  Tac Toe VB.NET With Source Code" class="wp-image-896" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-21.png 315w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-21-300x174.png 300w" sizes="(max-width: 315px) 100vw, 315px" /> 
 
 Enter code below 
 
@@ -217,15 +217,13 @@ Enter code below
         End If
     End Sub
     Private Sub LinkLabel1_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles LinkLabel1.LinkClicked
-        Process.Start("https://www.swayalgo.com")
+        Process.Start("https://blog.kaustubh.codes")
     End Sub
 End Class
 </code></pre>
 
-# Output:<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-
-<div class="wp-block-embed__wrapper">
-</div></figure> 
+# Output:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HuHevUAhmQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Download Source
 
@@ -233,6 +231,6 @@ Download complete source code from below link
 
 <div class="wp-block-buttons">
   <div class="wp-block-button">
-    <a class="wp-block-button__link has-white-color has-text-color" href="https://www.swayalgo.com/product/tic-tac-toe-vb-net-source-code/" target="_blank" rel="noreferrer noopener">Download Now </a>
+    <a class="wp-block-button__link has-white-color has-text-color" href="https://github.com/JustInClicks-com/static-cdn/raw/main/Downloads/Desktop/Tic%20Tac%20Toe.rar" target="_blank" rel="noreferrer noopener">Download Now </a>
   </div>
 </div>

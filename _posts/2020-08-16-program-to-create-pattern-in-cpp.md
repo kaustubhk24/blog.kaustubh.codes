@@ -4,7 +4,7 @@ title: 'Program to create * pattern in CPP'
 date: 2020-08-16T11:44:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/program-to-create-pattern-in-cpp/
+guid: http://blog.kaustubh.codes/program-to-create-pattern-in-cpp/
 permalink: /program-to-create-pattern-in-cpp/
 rank_math_internal_links_processed:
   - "1"

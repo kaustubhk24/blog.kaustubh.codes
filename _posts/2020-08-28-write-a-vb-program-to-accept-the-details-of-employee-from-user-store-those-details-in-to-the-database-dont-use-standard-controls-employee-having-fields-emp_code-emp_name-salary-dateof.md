@@ -1,10 +1,10 @@
 ---
 id: 577
-title: 'Write a VB Program to accept the details of employee from user &amp; store those details in to the database. (Don’t use Standard controls) Employee having fields emp_code, emp_name, salary, dateofjoining.'
+title: 'Write a VB Program to accept the details of employee from user & store those details in to the database. (Don’t use Standard controls) Employee having fields emp_code, emp_name, salary, dateofjoining.'
 date: 2020-08-28T14:20:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-accept-the-details-of-employee-from-user-store-those-details-in-to-the-database-dont-use-standard-controls-employee-having-fields-emp_code-emp_name-salary-dateof/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-accept-the-details-of-employee-from-user-store-those-details-in-to-the-database-dont-use-standard-controls-employee-having-fields-emp_code-emp_name-salary-dateof/
 permalink: /write-a-vb-program-to-accept-the-details-of-employee-from-user-store-those-details-in-to-the-database-dont-use-standard-controls-employee-having-fields-emp_code-emp_name-salary-dateof/
 rank_math_internal_links_processed:
   - "1"

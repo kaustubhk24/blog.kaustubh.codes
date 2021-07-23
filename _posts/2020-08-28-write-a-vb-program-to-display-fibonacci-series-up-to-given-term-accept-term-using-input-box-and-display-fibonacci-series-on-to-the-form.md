@@ -4,7 +4,7 @@ title: 'Write a VB Program to display Fibonacci series up to given term (Accept 
 date: 2020-08-28T14:15:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-display-fibonacci-series-up-to-given-term-accept-term-using-input-box-and-display-fibonacci-series-on-to-the-form/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-display-fibonacci-series-up-to-given-term-accept-term-using-input-box-and-display-fibonacci-series-on-to-the-form/
 permalink: /write-a-vb-program-to-display-fibonacci-series-up-to-given-term-accept-term-using-input-box-and-display-fibonacci-series-on-to-the-form/
 rank_math_internal_links_processed:
   - "1"

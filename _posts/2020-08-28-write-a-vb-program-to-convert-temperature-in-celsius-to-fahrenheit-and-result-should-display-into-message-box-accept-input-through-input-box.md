@@ -4,7 +4,7 @@ title: 'Write a VB program to convert temperature in Celsius to Fahrenheit and r
 date: 2020-08-28T14:24:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-convert-temperature-in-celsius-to-fahrenheit-and-result-should-display-into-message-box-accept-input-through-input-box/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-convert-temperature-in-celsius-to-fahrenheit-and-result-should-display-into-message-box-accept-input-through-input-box/
 permalink: /write-a-vb-program-to-convert-temperature-in-celsius-to-fahrenheit-and-result-should-display-into-message-box-accept-input-through-input-box/
 rank_math_internal_links_processed:
   - "1"

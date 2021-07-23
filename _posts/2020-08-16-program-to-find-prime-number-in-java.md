@@ -4,7 +4,7 @@ title: Program to Find Prime Number in Java
 date: 2020-08-16T12:32:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/program-to-find-prime-number-in-java/
+guid: http://blog.kaustubh.codes/program-to-find-prime-number-in-java/
 permalink: /program-to-find-prime-number-in-java/
 rank_math_internal_links_processed:
   - "1"

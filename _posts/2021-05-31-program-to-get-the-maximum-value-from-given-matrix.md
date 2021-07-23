@@ -4,7 +4,7 @@ title: Program to get the maximum value from given matrix
 date: 2021-05-31T07:36:11+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1786
+guid: https://blog.kaustubh.codes/?p=1786
 permalink: /program-to-get-the-maximum-value-from-given-matrix/
 rank_math_seo_score:
   - "49"

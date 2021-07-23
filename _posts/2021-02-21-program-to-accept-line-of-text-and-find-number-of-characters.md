@@ -4,7 +4,7 @@ title: Program To Accept Line Of Text And Find Number Of Characters
 date: 2021-02-21T06:53:22+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1275
+guid: https://blog.kaustubh.codes/?p=1275
 permalink: /program-to-accept-line-of-text-and-find-number-of-characters/
 rank_math_seo_score:
   - "10"

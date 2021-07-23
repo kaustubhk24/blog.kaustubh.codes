@@ -4,7 +4,7 @@ title: Program to for all type of file Errors occurred in opening a file input b
 date: 2021-05-22T01:51:06+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1696
+guid: https://blog.kaustubh.codes/?p=1696
 permalink: /program-to-for-all-type-of-file-errors-occurred-in-opening-a-file-input-by-user-and-perform-operation-like-read-write-and-append-on-file-close-the-file-in-finally-block/
 rank_math_primary_category:
   - "85"

@@ -4,7 +4,7 @@ title: Program To Find Biggest Number Among 3
 date: 2021-02-21T06:34:09+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1269
+guid: https://blog.kaustubh.codes/?p=1269
 permalink: /program-to-find-biggest-number-among-3/
 rank_math_primary_category:
   - "85"

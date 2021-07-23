@@ -4,7 +4,7 @@ title: Program to print Given Highest position element from the array
 date: 2021-06-22T16:27:23+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1836
+guid: https://blog.kaustubh.codes/?p=1836
 permalink: /program-to-print-given-highest-position-element-from-the-array/
 rank_math_seo_score:
   - "50"

@@ -4,7 +4,7 @@ title: 'Design a form in VB with two List boxes. Set the style property of both 
 date: 2020-08-28T14:12:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/design-a-form-in-vb-with-two-list-boxes-set-the-style-property-of-both-to-0-and-2-multi-select-respectively-one-with-the-left-arrow-and-one-with-the-right-arrow-on-pressing-the-left-arrow-the-se/
+guid: http://blog.kaustubh.codes/design-a-form-in-vb-with-two-list-boxes-set-the-style-property-of-both-to-0-and-2-multi-select-respectively-one-with-the-left-arrow-and-one-with-the-right-arrow-on-pressing-the-left-arrow-the-se/
 permalink: /design-a-form-in-vb-with-two-list-boxes-set-the-style-property-of-both-to-0-and-2-multi-select-respectively-one-with-the-left-arrow-and-one-with-the-right-arrow-on-pressing-the-left-arrow-the-se/
 rank_math_internal_links_processed:
   - "1"

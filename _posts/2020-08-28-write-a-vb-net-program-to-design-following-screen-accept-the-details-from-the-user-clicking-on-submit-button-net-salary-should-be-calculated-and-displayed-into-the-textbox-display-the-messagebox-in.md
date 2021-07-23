@@ -4,7 +4,7 @@ title: Write a Vb.net program to design following screen, accept the details fro
 date: 2020-08-28T15:12:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-net-program-to-design-following-screen-accept-the-details-from-the-user-clicking-on-submit-button-net-salary-should-be-calculated-and-displayed-into-the-textbox-display-the-messagebox-in/
+guid: http://blog.kaustubh.codes/write-a-vb-net-program-to-design-following-screen-accept-the-details-from-the-user-clicking-on-submit-button-net-salary-should-be-calculated-and-displayed-into-the-textbox-display-the-messagebox-in/
 permalink: /write-a-vb-net-program-to-design-following-screen-accept-the-details-from-the-user-clicking-on-submit-button-net-salary-should-be-calculated-and-displayed-into-the-textbox-display-the-messagebox-in/
 rank_math_internal_links_processed:
   - "1"

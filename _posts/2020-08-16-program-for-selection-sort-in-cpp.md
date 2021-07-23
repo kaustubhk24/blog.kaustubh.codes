@@ -4,7 +4,7 @@ title: Program for Selection Sort in CPP
 date: 2020-08-16T11:51:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/program-for-selection-sort-in-cpp/
+guid: http://blog.kaustubh.codes/program-for-selection-sort-in-cpp/
 permalink: /program-for-selection-sort-in-cpp/
 rank_math_internal_links_processed:
   - "1"

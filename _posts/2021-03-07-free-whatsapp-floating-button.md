@@ -4,12 +4,12 @@ title: Add FREE WhatsApp Floating Button on Your Website
 date: 2021-03-07T04:26:48+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1376
+guid: https://blog.kaustubh.codes/?p=1376
 permalink: /free-whatsapp-floating-button/
 rank_math_seo_score:
   - "73"
 rank_math_description:
-  - "In This Tutorial We Will See How To Add FREE WhatsApp Floating Button On Your Website In Just 5 Minutes, Only Copy Paste &amp; It's Completely FREE, No Hidden Charges"
+  - "In This Tutorial We Will See How To Add FREE WhatsApp Floating Button On Your Website In Just 5 Minutes, Only Copy Paste & It's Completely FREE, No Hidden Charges"
 rank_math_focus_keyword:
   - FREE WhatsApp Floating Button
 rank_math_internal_links_processed:
@@ -38,11 +38,11 @@ tags:
 ---
 To increase leads on your website you might be looking to add FREE WhataApp Floating Button on your website, It&#8217;s too easy to add, Let&#8217;s see ,
 
-First Visit <a aria-label="SwayAlgo Tools (opens in a new tab)" href="https://www.swayalgo.com/qpjy" target="_blank" rel="noreferrer noopener" class="rank-math-link">SwayAlgo Tools</a>,
+First Visit <a aria-label="SwayAlgo Tools (opens in a new tab)" href="https://blog.kaustubh.codes/qpjy" target="_blank" rel="noreferrer noopener" class="rank-math-link">SwayAlgo Tools</a>,
 
 You will see interface like screenshot below,<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="460" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-8-1024x460.png" alt="FREE WhatsApp Floating Button" class="wp-image-1382" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-8-1024x460.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-8-300x135.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-8-768x345.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-8-1536x690.png 1536w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-8-1200x539.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-8.png 1881w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="460" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-8-1024x460.png" alt="FREE WhatsApp Floating Button" class="wp-image-1382" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-8-1024x460.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-8-300x135.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-8-768x345.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-8-1536x690.png 1536w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-8-1200x539.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-8.png 1881w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 **Contents:**
 
@@ -60,17 +60,17 @@ For Example,
 
 You want to get **&#8220;Hello There&#8221;** message then add this text in message box <figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="328" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-9-1024x328.png" alt="FREE WhatsApp Floating Button" class="wp-image-1384" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-9-1024x328.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-9-300x96.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-9-768x246.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-9-1200x384.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-9.png 1358w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="328" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-9-1024x328.png" alt="FREE WhatsApp Floating Button" class="wp-image-1384" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-9-1024x328.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-9-300x96.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-9-768x246.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-9-1200x384.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-9.png 1358w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 Last step is to click on Generate Button, This will generate one WhatsApp api link and one whatsapp widget code , You send links to any one directly or can embed for any button on your site, <figure class="wp-block-image size-large">
 
-<img loading="lazy" width="82" height="104" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-10-edited.png" alt="FREE WhatsApp Floating Button" class="wp-image-1392" /> </figure> 
+<img loading="lazy" width="82" height="104" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-10-edited.png" alt="FREE WhatsApp Floating Button" class="wp-image-1392" /> 
 
 To add this floating button you have to copy complete code from site and paste inside your site&#8217;s body tag. in last line before `</body>`.
 
 ## Example Output Screen<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="539" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-11-1024x539.png" alt="FREE WhatsApp Floating Button" class="wp-image-1387" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-11-1024x539.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-11-300x158.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-11-768x404.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-11.png 1109w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="539" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-11-1024x539.png" alt="FREE WhatsApp Floating Button" class="wp-image-1387" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-11-1024x539.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-11-300x158.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-11-768x404.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-11.png 1109w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 ## Live Preview
 
@@ -101,6 +101,6 @@ Live Preview is already added for this page , you can check right bottom corner 
 ## Video<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
 <div class="wp-block-embed__wrapper">
-</div></figure> 
+</div>
 
-[NOTE : This tool is not from WhatsApp , we are using there API , For copyrights claim please [contact us](https://www.swayalgo.com/contact/){.rank-math-link}]
+[NOTE : This tool is not from WhatsApp , we are using there API , For copyrights claim please [contact us](https://blog.kaustubh.codes/contact/)]

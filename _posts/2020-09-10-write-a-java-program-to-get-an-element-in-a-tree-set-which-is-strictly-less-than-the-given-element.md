@@ -4,7 +4,7 @@ title: Write a Java program to get an element in a tree set which is strictly le
 date: 2020-09-10T08:37:00+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/write-a-java-program-to-get-an-element-in-a-tree-set-which-is-strictly-less-than-the-given-element/
+guid: https://blog.kaustubh.codes/write-a-java-program-to-get-an-element-in-a-tree-set-which-is-strictly-less-than-the-given-element/
 permalink: /write-a-java-program-to-get-an-element-in-a-tree-set-which-is-strictly-less-than-the-given-element/
 rank_math_internal_links_processed:
   - "1"

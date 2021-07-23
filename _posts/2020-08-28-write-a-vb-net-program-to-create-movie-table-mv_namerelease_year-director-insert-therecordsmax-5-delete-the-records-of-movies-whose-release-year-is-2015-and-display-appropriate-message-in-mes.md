@@ -4,7 +4,7 @@ title: 'Write a VB.NET program to create movie table (Mv_Name,Release_year, Dire
 date: 2020-08-28T15:25:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-net-program-to-create-movie-table-mv_namerelease_year-director-insert-therecordsmax-5-delete-the-records-of-movies-whose-release-year-is-2015-and-display-appropriate-message-in-mes/
+guid: http://blog.kaustubh.codes/write-a-vb-net-program-to-create-movie-table-mv_namerelease_year-director-insert-therecordsmax-5-delete-the-records-of-movies-whose-release-year-is-2015-and-display-appropriate-message-in-mes/
 permalink: /write-a-vb-net-program-to-create-movie-table-mv_namerelease_year-director-insert-therecordsmax-5-delete-the-records-of-movies-whose-release-year-is-2015-and-display-appropriate-message-in-mes/
 rank_math_internal_links_processed:
   - "1"

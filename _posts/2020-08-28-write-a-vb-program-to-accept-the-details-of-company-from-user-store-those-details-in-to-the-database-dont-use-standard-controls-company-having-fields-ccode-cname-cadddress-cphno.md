@@ -1,10 +1,10 @@
 ---
 id: 574
-title: 'Write a VB Program to accept the details of Company from user &amp; store those details in to the database. (Don’t use Standard controls) Company having fields ccode, cname, cadddress, cphno'
+title: 'Write a VB Program to accept the details of Company from user & store those details in to the database. (Don’t use Standard controls) Company having fields ccode, cname, cadddress, cphno'
 date: 2020-08-28T14:22:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-accept-the-details-of-company-from-user-store-those-details-in-to-the-database-dont-use-standard-controls-company-having-fields-ccode-cname-cadddress-cphno/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-accept-the-details-of-company-from-user-store-those-details-in-to-the-database-dont-use-standard-controls-company-having-fields-ccode-cname-cadddress-cphno/
 permalink: /write-a-vb-program-to-accept-the-details-of-company-from-user-store-those-details-in-to-the-database-dont-use-standard-controls-company-having-fields-ccode-cname-cadddress-cphno/
 rank_math_internal_links_processed:
   - "1"

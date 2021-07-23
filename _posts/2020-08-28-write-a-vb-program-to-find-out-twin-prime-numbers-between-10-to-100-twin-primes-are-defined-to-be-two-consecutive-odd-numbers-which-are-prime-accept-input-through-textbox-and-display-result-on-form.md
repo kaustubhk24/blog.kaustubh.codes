@@ -4,7 +4,7 @@ title: 'Write a VB program to find out twin prime numbers between 10 to 100. Twi
 date: 2020-08-28T14:03:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-find-out-twin-prime-numbers-between-10-to-100-twin-primes-are-defined-to-be-two-consecutive-odd-numbers-which-are-prime-accept-input-through-textbox-and-display-result-on-form/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-find-out-twin-prime-numbers-between-10-to-100-twin-primes-are-defined-to-be-two-consecutive-odd-numbers-which-are-prime-accept-input-through-textbox-and-display-result-on-form/
 permalink: /write-a-vb-program-to-find-out-twin-prime-numbers-between-10-to-100-twin-primes-are-defined-to-be-two-consecutive-odd-numbers-which-are-prime-accept-input-through-textbox-and-display-result-on-form/
 rank_math_internal_links_processed:
   - "1"

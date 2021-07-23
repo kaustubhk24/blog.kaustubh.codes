@@ -4,7 +4,7 @@ title: 'Program To  Display Reversal Of Number'
 date: 2021-02-21T06:25:31+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1267
+guid: https://blog.kaustubh.codes/?p=1267
 permalink: /program-to-display-reversal-of-number/
 rank_math_seo_score:
   - "5"

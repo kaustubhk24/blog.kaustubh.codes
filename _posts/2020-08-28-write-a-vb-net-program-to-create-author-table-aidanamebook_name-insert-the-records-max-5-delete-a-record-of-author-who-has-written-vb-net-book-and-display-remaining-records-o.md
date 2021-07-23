@@ -4,7 +4,7 @@ title: Write a VB.NET program to create Author table (aid,aname,book_name). Inse
 date: 2020-08-28T15:27:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-net-program-to-create-author-table-aidanamebook_name-insert-the-records-max-5-delete-a-record-of-author-who-has-written-vb-net-book-and-display-remaining-records-o/
+guid: http://blog.kaustubh.codes/write-a-vb-net-program-to-create-author-table-aidanamebook_name-insert-the-records-max-5-delete-a-record-of-author-who-has-written-vb-net-book-and-display-remaining-records-o/
 permalink: /write-a-vb-net-program-to-create-author-table-aidanamebook_name-insert-the-records-max-5-delete-a-record-of-author-who-has-written-vb-net-book-and-display-remaining-records-o/
 rank_math_internal_links_processed:
   - "1"

@@ -4,7 +4,7 @@ title: BMI Calculator
 date: 2021-02-15T06:11:11+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1242
+guid: https://blog.kaustubh.codes/?p=1242
 permalink: /bmi-calculator/
 rank_math_primary_category:
   - "85"

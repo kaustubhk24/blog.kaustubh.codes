@@ -4,7 +4,7 @@ title: Jquery Find and Highlight Child
 date: 2020-08-16T12:31:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/jquery-find-and-highlight-child/
+guid: http://blog.kaustubh.codes/jquery-find-and-highlight-child/
 permalink: /jquery-find-and-highlight-child/
 rank_math_internal_links_processed:
   - "1"

@@ -4,7 +4,7 @@ title: Program To Accept User Details And Print Result
 date: 2021-03-08T08:37:15+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1404
+guid: https://blog.kaustubh.codes/?p=1404
 permalink: /program-to-accept-user-details-and-print-result/
 rank_math_seo_score:
   - "60"
@@ -45,7 +45,7 @@ Percent &gt;= To Pass</code></pre>
 
 **Output (Expected )**<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="243" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-12-1024x243.png" alt="Program To Accept User Details And Print Result" class="wp-image-1405" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-12-1024x243.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-12-300x71.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-12-768x183.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-12-1200x285.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-12.png 1296w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="243" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-12-1024x243.png" alt="Program To Accept User Details And Print Result" class="wp-image-1405" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-12-1024x243.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-12-300x71.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-12-768x183.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-12-1200x285.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-12.png 1296w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 
 
@@ -122,4 +122,4 @@ Enter math Marks :98
 Data added successfully !!!
 </code></pre><figure class="wp-block-image">
 
-<img alt="" /> </figure> <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="243" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-12-1024x243.png" alt="Program To Accept User Details And Print Result" class="wp-image-1405" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-12-1024x243.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-12-300x71.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-12-768x183.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-12-1200x285.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-12.png 1296w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<img alt="" /> <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="243" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-12-1024x243.png" alt="Program To Accept User Details And Print Result" class="wp-image-1405" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-12-1024x243.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-12-300x71.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-12-768x183.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-12-1200x285.png 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-12.png 1296w" sizes="(max-width: 1024px) 100vw, 1024px" />

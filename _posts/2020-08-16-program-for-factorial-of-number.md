@@ -4,7 +4,7 @@ title: Program for factorial of Number
 date: 2020-08-16T11:56:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/program-for-factorial-of-number/
+guid: http://blog.kaustubh.codes/program-for-factorial-of-number/
 permalink: /program-for-factorial-of-number/
 rank_math_internal_links_processed:
   - "1"

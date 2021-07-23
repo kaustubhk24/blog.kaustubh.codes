@@ -4,7 +4,7 @@ title: Calculate and Add the Surface Area of Two Cubes. Use Nested Functions
 date: 2021-05-22T01:38:23+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1674
+guid: https://blog.kaustubh.codes/?p=1674
 permalink: /calculate-and-add-the-surface-area-of-two-cubes-use-nested-functions/
 rank_math_seo_score:
   - "55"

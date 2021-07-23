@@ -4,7 +4,7 @@ title: User Audio Playlist using HTML
 date: 2020-08-16T12:24:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/user-audio-playlist-using-html/
+guid: http://blog.kaustubh.codes/user-audio-playlist-using-html/
 permalink: /user-audio-playlist-using-html/
 rank_math_internal_links_processed:
   - "1"

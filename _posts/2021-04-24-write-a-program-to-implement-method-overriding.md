@@ -4,7 +4,7 @@ title: Write a program to implement method overriding.
 date: 2021-04-24T06:21:54+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1533
+guid: https://blog.kaustubh.codes/?p=1533
 permalink: /write-a-program-to-implement-method-overriding/
 rank_math_seo_score:
   - "48"

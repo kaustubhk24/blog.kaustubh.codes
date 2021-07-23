@@ -4,7 +4,7 @@ title: Program to find the sum of values in a matrix
 date: 2021-05-31T07:38:56+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1790
+guid: https://blog.kaustubh.codes/?p=1790
 permalink: /program-to-find-the-sum-of-values-in-a-matrix/
 rank_math_primary_category:
   - "85"

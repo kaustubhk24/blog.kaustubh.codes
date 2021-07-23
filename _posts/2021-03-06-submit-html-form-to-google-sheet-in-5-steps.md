@@ -4,7 +4,7 @@ title: '[Updated] Submit HTML Form To Google Sheet in 5 Steps'
 date: 2021-03-06T09:20:10+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1347
+guid: https://blog.kaustubh.codes/?p=1347
 permalink: /submit-html-form-to-google-sheet-in-5-steps/
 rank_math_seo_score:
   - "83"
@@ -115,13 +115,13 @@ Now let&#8217;s link google form to sheet, So that we can submit HTML Form To Go
 
 Click on **Script Editor**, Now it will open editor in next screen,<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="747" height="308" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image.png" alt="Submit HTML Form To Google Sheet" class="wp-image-1354" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/03/image.png 747w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-300x124.png 300w" sizes="(max-width: 747px) 100vw, 747px" /> </figure> 
+<img loading="lazy" width="747" height="308" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image.png" alt="Submit HTML Form To Google Sheet" class="wp-image-1354" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image.png 747w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-300x124.png 300w" sizes="(max-width: 747px) 100vw, 747px" /> 
 
 
 
 Now we will rename Our project , To rename just click on Untitled Project & in popup enter new project name and click **rename.**<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="435" height="304" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-1.png" alt="Submit HTML Form To Google Sheet" class="wp-image-1355" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-1.png 435w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-1-300x210.png 300w" sizes="(max-width: 435px) 100vw, 435px" /> </figure> 
+<img loading="lazy" width="435" height="304" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-1.png" alt="Submit HTML Form To Google Sheet" class="wp-image-1355" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-1.png 435w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-1-300x210.png 300w" sizes="(max-width: 435px) 100vw, 435px" /> 
 
 Now remove firstly written function from there and copy paste code below there, and click on **save button icon** , Once saved we will move forward for **initial setup**, For initial setup,
 
@@ -179,7 +179,7 @@ function setup() {
 
 <figure class="wp-block-image size-large">
 
-<img loading="lazy" width="985" height="417" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-3.png" alt="" class="wp-image-1357" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-3.png 985w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-3-300x127.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-3-768x325.png 768w" sizes="(max-width: 985px) 100vw, 985px" /> </figure> 
+<img loading="lazy" width="985" height="417" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-3.png" alt="" class="wp-image-1357" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-3.png 985w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-3-300x127.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-3-768x325.png 768w" sizes="(max-width: 985px) 100vw, 985px" /> 
 
 Click on Setup Button to start setup
 
@@ -189,13 +189,13 @@ It will ask you for some permissions , So simply **allow** all the permission , 
 
 Next step will be deployment, <figure class="wp-block-image size-large">
 
-<img loading="lazy" width="968" height="409" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-4.png" alt="Submit HTML Form To Google Sheet" class="wp-image-1358" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-4.png 968w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-4-300x127.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-4-768x324.png 768w" sizes="(max-width: 968px) 100vw, 968px" /> </figure> 
+<img loading="lazy" width="968" height="409" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-4.png" alt="Submit HTML Form To Google Sheet" class="wp-image-1358" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-4.png 968w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-4-300x127.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-4-768x324.png 768w" sizes="(max-width: 968px) 100vw, 968px" /> 
 
 Click on **Deploy** button and Select option **New deployment**
 
 In Select Type select option **Web app** from list, this is last step on Google sheet site,<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="731" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-6-1024x731.png" alt="Submit HTML Form To Google Sheet" class="wp-image-1360" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-6-1024x731.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-6-300x214.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-6-768x548.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-6.png 1141w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="731" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-6-1024x731.png" alt="Submit HTML Form To Google Sheet" class="wp-image-1360" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-6-1024x731.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-6-300x214.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-6-768x548.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-6.png 1141w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 In **configuration** in **Description**, enter description of project ( Not required ) , this is not compulsory
 
@@ -203,7 +203,7 @@ In next box in **Execute** as box you will see **your email** , keep as it is,
 
 In last **Who has access** select option **Anyone**, & Click on Deploy <figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="730" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-7-1024x730.png" alt="Submit HTML Form To Google Sheet" class="wp-image-1361" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-7-1024x730.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-7-300x214.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-7-768x548.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-7.png 1146w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="730" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-7-1024x730.png" alt="Submit HTML Form To Google Sheet" class="wp-image-1361" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-7-1024x730.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-7-300x214.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-7-768x548.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-7.png 1146w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 From this window copy URL & keep it safe,
 
@@ -253,7 +253,7 @@ Registration form
 ## Video <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
 <div class="wp-block-embed__wrapper">
-</div></figure> 
+</div>
 
 ## Download Complete Project
 
@@ -263,6 +263,6 @@ Downlaod complete source code from link below
 
 <div class="wp-block-buttons">
   <div class="wp-block-button">
-    <a class="wp-block-button__link" href="https://www.swayalgo.com/product/html-form-submit-google-sheet-example/" target="_blank" rel="noreferrer noopener">Download Source Code</a>
+    <a class="wp-block-button__link" href="https://blog.kaustubh.codes/product/html-form-submit-google-sheet-example/" target="_blank" rel="noreferrer noopener">Download Source Code</a>
   </div>
 </div>

@@ -4,7 +4,7 @@ title: Write a VB program to accept the details of doctor having field’s dno, 
 date: 2020-08-28T14:23:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-accept-the-details-of-doctor-having-fields-dno-dname-address-and-phone-number-display-those-details-on-to-the-grid/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-accept-the-details-of-doctor-having-fields-dno-dname-address-and-phone-number-display-those-details-on-to-the-grid/
 permalink: /write-a-vb-program-to-accept-the-details-of-doctor-having-fields-dno-dname-address-and-phone-number-display-those-details-on-to-the-grid/
 rank_math_internal_links_processed:
   - "1"

@@ -4,7 +4,7 @@ title: Write a VB program to create a Stop Watch. It contains buttons Start, Sto
 date: 2020-08-28T14:19:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-create-a-stop-watch-it-contains-buttons-start-stop-pause-and-reset-it-should-display-time-in-hours-minute-second-millisecond/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-create-a-stop-watch-it-contains-buttons-start-stop-pause-and-reset-it-should-display-time-in-hours-minute-second-millisecond/
 permalink: /write-a-vb-program-to-create-a-stop-watch-it-contains-buttons-start-stop-pause-and-reset-it-should-display-time-in-hours-minute-second-millisecond/
 rank_math_internal_links_processed:
   - "1"

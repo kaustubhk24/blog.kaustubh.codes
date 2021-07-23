@@ -1,10 +1,10 @@
 ---
 id: 1400
-title: 'Print Smallest And Largest Numbers From List &#8211; Python'
+title: 'Print Smallest And Largest Numbers From List - Python'
 date: 2021-03-08T06:52:21+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1400
+guid: https://blog.kaustubh.codes/?p=1400
 permalink: /print-smallest-and-largest-numbers-from-list-python/
 rank_math_seo_score:
   - "54"

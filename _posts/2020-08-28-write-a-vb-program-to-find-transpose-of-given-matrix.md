@@ -4,7 +4,7 @@ title: Write a VB Program to find transpose of given matrix.
 date: 2020-08-28T14:18:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-find-transpose-of-given-matrix/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-find-transpose-of-given-matrix/
 permalink: /write-a-vb-program-to-find-transpose-of-given-matrix/
 rank_math_internal_links_processed:
   - "1"

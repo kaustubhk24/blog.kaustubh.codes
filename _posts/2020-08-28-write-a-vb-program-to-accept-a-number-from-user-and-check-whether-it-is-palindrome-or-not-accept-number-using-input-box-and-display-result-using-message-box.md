@@ -4,7 +4,7 @@ title: 'Write a VB Program to accept a number from user and check whether it is 
 date: 2020-08-28T14:21:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-accept-a-number-from-user-and-check-whether-it-is-palindrome-or-not-accept-number-using-input-box-and-display-result-using-message-box/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-accept-a-number-from-user-and-check-whether-it-is-palindrome-or-not-accept-number-using-input-box-and-display-result-using-message-box/
 permalink: /write-a-vb-program-to-accept-a-number-from-user-and-check-whether-it-is-palindrome-or-not-accept-number-using-input-box-and-display-result-using-message-box/
 rank_math_internal_links_processed:
   - "1"

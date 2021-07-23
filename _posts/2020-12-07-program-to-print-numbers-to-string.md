@@ -4,7 +4,7 @@ title: Program to Print Numbers to String
 date: 2020-12-07T19:40:56+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=943
+guid: https://blog.kaustubh.codes/?p=943
 permalink: /program-to-print-numbers-to-string/
 rank_math_seo_score:
   - "73"
@@ -178,8 +178,8 @@ Ninty Nine Crore Eighty Six Lakh Fifty Seven Thousand Four Hundred Twelve</code>
 
 Screenshot<figure class="wp-block-image size-large is-resized">
 
-<img loading="lazy" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-1.png" alt="Program to Print Numbers to String" class="wp-image-944" width="662" height="92" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-1.png 662w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-1-300x42.png 300w" sizes="(max-width: 662px) 100vw, 662px" /> </figure> 
+<img loading="lazy" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-1.png" alt="Program to Print Numbers to String" class="wp-image-944" width="662" height="92" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-1.png 662w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-1-300x42.png 300w" sizes="(max-width: 662px) 100vw, 662px" /> 
 
 Looking solution to use in Android ? <a aria-label="Checkout here (opens in a new tab)" href="https://github.com/kaustubhk24/NumberToWords-Library" target="_blank" rel="noreferrer noopener nofollow" class="rank-math-link">Checkout here</a>
 
-Same Program in JavaScript <a href="https://www.swayalgo.com/program-to-print-numbers-to-string-in-javascript/" target="_blank" aria-label="Checkout here (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">Checkout here</a>
+Same Program in JavaScript <a href="https://blog.kaustubh.codes/program-to-print-numbers-to-string-in-javascript/" target="_blank" aria-label="Checkout here (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">Checkout here</a>

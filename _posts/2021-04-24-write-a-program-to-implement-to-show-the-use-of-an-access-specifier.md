@@ -4,7 +4,7 @@ title: Write a program to implement to show the use of an access specifier.
 date: 2021-04-24T06:25:49+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1541
+guid: https://blog.kaustubh.codes/?p=1541
 permalink: /write-a-program-to-implement-to-show-the-use-of-an-access-specifier/
 rank_math_seo_score:
   - "46"

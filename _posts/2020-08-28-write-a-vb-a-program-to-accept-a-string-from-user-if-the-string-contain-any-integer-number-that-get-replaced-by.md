@@ -4,7 +4,7 @@ title: 'Write a VB a program to accept a string from user if the string contain 
 date: 2020-08-28T14:49:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-a-program-to-accept-a-string-from-user-if-the-string-contain-any-integer-number-that-get-replaced-by/
+guid: http://blog.kaustubh.codes/write-a-vb-a-program-to-accept-a-string-from-user-if-the-string-contain-any-integer-number-that-get-replaced-by/
 permalink: /write-a-vb-a-program-to-accept-a-string-from-user-if-the-string-contain-any-integer-number-that-get-replaced-by/
 rank_math_internal_links_processed:
   - "1"

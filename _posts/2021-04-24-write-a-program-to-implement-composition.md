@@ -4,7 +4,7 @@ title: Write a program to implement composition
 date: 2021-04-24T06:22:57+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1535
+guid: https://blog.kaustubh.codes/?p=1535
 permalink: /write-a-program-to-implement-composition/
 rank_math_seo_score:
   - "44"

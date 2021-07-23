@@ -4,7 +4,7 @@ title: Program for Stack Implementation using CPP
 date: 2020-08-16T12:15:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/program-for-stack-implementation-using-cpp/
+guid: http://blog.kaustubh.codes/program-for-stack-implementation-using-cpp/
 permalink: /program-for-stack-implementation-using-cpp/
 rank_math_internal_links_processed:
   - "1"

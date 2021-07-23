@@ -4,7 +4,7 @@ title: 'function in Python to count words in a text file those are ending with a
 date: 2021-03-21T06:14:16+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1451
+guid: https://blog.kaustubh.codes/?p=1451
 permalink: /python-to-count-words-in-a-text-file-those-are-ending-with-alphabet-e/
 rank_math_seo_score:
   - "10"

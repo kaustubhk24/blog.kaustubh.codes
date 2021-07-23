@@ -4,7 +4,7 @@ title: Making Simple Calculator in JavaScript
 date: 2021-01-13T15:40:53+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1220
+guid: https://blog.kaustubh.codes/?p=1220
 permalink: /making-simple-calculator-in-javascript/
 rank_math_seo_score:
   - "63"

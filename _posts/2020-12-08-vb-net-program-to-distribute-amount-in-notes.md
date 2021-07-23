@@ -4,7 +4,7 @@ title: VB.NET Program to Distribute Amount in Notes
 date: 2020-12-08T15:51:41+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=951
+guid: https://blog.kaustubh.codes/?p=951
 permalink: /vb-net-program-to-distribute-amount-in-notes/
 rank_math_internal_links_processed:
   - "1"
@@ -25,7 +25,7 @@ We are going to write VB.NET Program to Distribute Amount in Notes.
 
 Design screen like below<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="782" height="360" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-2.png" alt="VB.NET Program to Distribute Amount in Notes " class="wp-image-952" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-2.png 782w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-2-300x138.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-2-768x354.png 768w" sizes="(max-width: 782px) 100vw, 782px" /> </figure> 
+<img loading="lazy" width="782" height="360" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-2.png" alt="VB.NET Program to Distribute Amount in Notes " class="wp-image-952" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-2.png 782w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-2-300x138.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-2-768x354.png 768w" sizes="(max-width: 782px) 100vw, 782px" /> 
 
 Now double click on screen and Add this code in **form1.vb**
 
@@ -97,6 +97,6 @@ End Class</code></pre>
 
 Output:<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="460" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-3-1024x460.png" alt="VB.NET Program to Distribute Amount in Notes " class="wp-image-953" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-3-1024x460.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-3-300x135.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-3-768x345.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-3.png 1083w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="460" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-3-1024x460.png" alt="VB.NET Program to Distribute Amount in Notes " class="wp-image-953" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-3-1024x460.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-3-300x135.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-3-768x345.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-3.png 1083w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
-Get same program in <a href="https://www.swayalgo.com/distribute-amount-in-notes/" target="_blank" aria-label="Java here. (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">Java here.</a>
+Get same program in <a href="https://blog.kaustubh.codes/distribute-amount-in-notes/" target="_blank" aria-label="Java here. (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">Java here.</a>

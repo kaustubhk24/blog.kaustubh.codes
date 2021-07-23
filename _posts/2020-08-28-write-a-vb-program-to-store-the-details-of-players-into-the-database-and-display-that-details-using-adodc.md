@@ -4,7 +4,7 @@ title: Write a VB program to store the details of players into the database and 
 date: 2020-08-28T14:32:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-store-the-details-of-players-into-the-database-and-display-that-details-using-adodc/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-store-the-details-of-players-into-the-database-and-display-that-details-using-adodc/
 permalink: /write-a-vb-program-to-store-the-details-of-players-into-the-database-and-display-that-details-using-adodc/
 rank_math_internal_links_processed:
   - "1"

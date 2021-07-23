@@ -4,7 +4,7 @@ title: Program to Find Given Number is Perfect or NOT
 date: 2020-08-16T11:32:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/program-to-find-given-number-is-perfect-or-not/
+guid: http://blog.kaustubh.codes/program-to-find-given-number-is-perfect-or-not/
 permalink: /program-to-find-given-number-is-perfect-or-not/
 rank_math_internal_links_processed:
   - "1"

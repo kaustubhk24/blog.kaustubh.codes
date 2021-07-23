@@ -4,7 +4,7 @@ title: Create an application in VB to display 4 X 4 squares on the screen. One o
 date: 2020-08-28T14:48:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/create-an-application-in-vb-to-display-4-x-4-squares-on-the-screen-one-of-the-blocks-will-be-active-with-black-color-all-other-block-will-be-fill-with-blue-color-provide-a-command-button-as-follows/
+guid: http://blog.kaustubh.codes/create-an-application-in-vb-to-display-4-x-4-squares-on-the-screen-one-of-the-blocks-will-be-active-with-black-color-all-other-block-will-be-fill-with-blue-color-provide-a-command-button-as-follows/
 permalink: /create-an-application-in-vb-to-display-4-x-4-squares-on-the-screen-one-of-the-blocks-will-be-active-with-black-color-all-other-block-will-be-fill-with-blue-color-provide-a-command-button-as-follows/
 rank_math_internal_links_processed:
   - "1"

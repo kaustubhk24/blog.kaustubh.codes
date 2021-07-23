@@ -1,15 +1,15 @@
 ---
 id: 474
-title: 'How to Access Digital Ocean Droplet? &#8211; The Best Way'
+title: 'How to Access Digital Ocean Droplet? - The Best Way'
 date: 2020-11-09T15:58:24+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/?p=474
+guid: http://blog.kaustubh.codes/?p=474
 permalink: /how-to-access-digital-ocean-droplet-the-best-way/
 rank_math_seo_score:
   - "75"
 rank_math_description:
-  - "How to Access Digital Ocean Droplet? Best &amp; Efficient ways to access your Terminal. Don't miss the trick. | Windows | Console | Ubuntu | All Explained."
+  - "How to Access Digital Ocean Droplet? Best & Efficient ways to access your Terminal. Don't miss the trick. | Windows | Console | Ubuntu | All Explained."
 rank_math_focus_keyword:
   - How to Access Digital Ocean Droplet?
 rank_math_internal_links_processed:
@@ -26,13 +26,13 @@ categories:
 ---
  
 
-How to Access Digital Ocean Droplet? &#8211; The Best Way
+How to Access Digital Ocean Droplet? - The Best Way
 
-If you don&#8217;t know what exactly <a href="https://www.swayalgo.com/digitalocean" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">Digital Ocean</a> is, Please visit <a href="https://www.swayalgo.com/digitalocean" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">this link.</a>
+If you don&#8217;t know what exactly <a href="https://m.do.co/c/253fdc8807b5" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">Digital Ocean</a> is, Please visit <a href="https://m.do.co/c/253fdc8807b5" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">this link.</a>
 
 Digital Ocean is Cloud computing platform.
 
-If you dont know [how to create Digital Ocean droplet click here](https://swayalgo.com/how-to-install-lamp-stack-on-digitalocean-ubuntu-20-04/#Creating_Droplet){.rank-math-link}
+If you dont know [how to create Digital Ocean droplet click here](http://blog.kaustubh.codes/how-to-install-lamp-stack-on-digitalocean-ubuntu-20-04/#Creating_Droplet)
 
 Now Let&#8217;s see how to access Our Digital Ocean Droplet from diffrent platforms.
 
@@ -42,11 +42,11 @@ Now Let&#8217;s see how to access Our Digital Ocean Droplet from diffrent platfo
 
 Yes, that&#8217;s correct you can access Digital Ocean Droplet directly from your digital ocean droplet. No need to download any software to connect.
 
-To connect just open your <a href="https://www.swayalgo.com/digitalocean" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">dashboard</a>. Now click on **3 dots** of any droplet that you want access.
+To connect just open your <a href="https://m.do.co/c/253fdc8807b5" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">dashboard</a>. Now click on **3 dots** of any droplet that you want access.
 
 Now click on **Access Console** Button.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="429" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/Untitled-1024x429.png" alt="" class="wp-image-477" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/11/Untitled-1024x429.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/Untitled-300x126.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/Untitled-768x322.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/Untitled.png 1098w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="429" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/Untitled-1024x429.png" alt="" class="wp-image-477" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/Untitled-1024x429.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/Untitled-300x126.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/Untitled-768x322.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/Untitled.png 1098w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
 
 That&#8217;s it, now you can use your console. Done.
 
@@ -74,7 +74,7 @@ Now open Putty app from windows apps list.
 
 & in the place of Host Name (or IP address) , Put your username and droplet IP address.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="456" height="445" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image.png" alt="" class="wp-image-475" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/11/image.png 456w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-300x293.png 300w" sizes="(max-width: 456px) 100vw, 456px" /> </figure> 
+<img loading="lazy" width="456" height="445" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image.png" alt="" class="wp-image-475" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image.png 456w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-300x293.png 300w" sizes="(max-width: 456px) 100vw, 456px" /> 
 
 Now click on **Open**, If it asks for anything click on **Allow**. Now It will open console & If username matches it will ask you for password . we set while creating droplet.
 

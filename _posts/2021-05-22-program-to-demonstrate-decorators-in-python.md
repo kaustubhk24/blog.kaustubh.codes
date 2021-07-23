@@ -4,7 +4,7 @@ title: Program to demonstrate Decorators in Python
 date: 2021-05-22T01:42:32+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1681
+guid: https://blog.kaustubh.codes/?p=1681
 permalink: /program-to-demonstrate-decorators-in-python/
 rank_math_seo_score:
   - "61"

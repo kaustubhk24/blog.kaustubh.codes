@@ -4,7 +4,7 @@ title: Program To Sum All The Items In A List
 date: 2021-02-21T06:02:21+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1261
+guid: https://blog.kaustubh.codes/?p=1261
 permalink: /program-to-sum-all-the-items-in-a-list/
 rank_math_primary_category:
   - "85"

@@ -4,7 +4,7 @@ title: Program to demonstrate Using the Same Variable Name in Calling Function a
 date: 2021-05-22T01:26:24+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1665
+guid: https://blog.kaustubh.codes/?p=1665
 permalink: /program-to-demonstrate-using-the-same-variable-name-in-calling-function-and-function-definition/
 rank_math_seo_score:
   - "56"

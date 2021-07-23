@@ -4,7 +4,7 @@ title: Program to Find Minimum and Maximum Number from Given Array
 date: 2020-08-16T11:34:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/program-to-find-minimum-and-maximum-number-from-given-array/
+guid: http://blog.kaustubh.codes/program-to-find-minimum-and-maximum-number-from-given-array/
 permalink: /program-to-find-minimum-and-maximum-number-from-given-array/
 rank_math_internal_links_processed:
   - "1"

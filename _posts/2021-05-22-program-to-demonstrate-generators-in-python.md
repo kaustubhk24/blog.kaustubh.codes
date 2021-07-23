@@ -4,7 +4,7 @@ title: Program to demonstrate Generators in Python
 date: 2021-05-22T01:45:07+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1686
+guid: https://blog.kaustubh.codes/?p=1686
 permalink: /program-to-demonstrate-generators-in-python/
 rank_math_seo_score:
   - "52"
@@ -63,4 +63,5 @@ a=&#91;1,2,3]
 b=func(a)
 next(b)</code></pre>
 
-<pre class="wp-block-code"><code>&#91;1, 2, 3]</code></pre>
+<pre class="wp-block-code"><code>&#91;1, 2, 3]
+</code></pre>

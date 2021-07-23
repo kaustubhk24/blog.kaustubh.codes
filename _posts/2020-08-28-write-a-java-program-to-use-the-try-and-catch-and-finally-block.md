@@ -4,7 +4,7 @@ title: Write a Java program to use the try and catch and finally block.
 date: 2020-08-28T15:58:00+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/write-a-java-program-to-use-the-try-and-catch-and-finally-block/
+guid: https://blog.kaustubh.codes/write-a-java-program-to-use-the-try-and-catch-and-finally-block/
 permalink: /write-a-java-program-to-use-the-try-and-catch-and-finally-block/
 rank_math_internal_links_processed:
   - "1"

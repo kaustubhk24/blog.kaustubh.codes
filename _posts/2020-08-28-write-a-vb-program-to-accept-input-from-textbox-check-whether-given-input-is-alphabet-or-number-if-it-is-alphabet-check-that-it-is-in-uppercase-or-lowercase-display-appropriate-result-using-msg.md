@@ -4,7 +4,7 @@ title: 'Write a VB program to accept Input from Textbox. Check whether given inp
 date: 2020-08-28T14:44:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-program-to-accept-input-from-textbox-check-whether-given-input-is-alphabet-or-number-if-it-is-alphabet-check-that-it-is-in-uppercase-or-lowercase-display-appropriate-result-using-msg/
+guid: http://blog.kaustubh.codes/write-a-vb-program-to-accept-input-from-textbox-check-whether-given-input-is-alphabet-or-number-if-it-is-alphabet-check-that-it-is-in-uppercase-or-lowercase-display-appropriate-result-using-msg/
 permalink: /write-a-vb-program-to-accept-input-from-textbox-check-whether-given-input-is-alphabet-or-number-if-it-is-alphabet-check-that-it-is-in-uppercase-or-lowercase-display-appropriate-result-using-msg/
 rank_math_internal_links_processed:
   - "1"

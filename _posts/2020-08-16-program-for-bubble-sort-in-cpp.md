@@ -4,7 +4,7 @@ title: Program for Bubble Sort in CPP
 date: 2020-08-16T12:08:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/program-for-bubble-sort-in-cpp/
+guid: http://blog.kaustubh.codes/program-for-bubble-sort-in-cpp/
 permalink: /program-for-bubble-sort-in-cpp/
 rank_math_internal_links_processed:
   - "1"

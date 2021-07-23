@@ -4,7 +4,7 @@ title: Program for Priority Queue in CPP
 date: 2020-08-16T12:19:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/program-for-priority-queue-in-cpp/
+guid: http://blog.kaustubh.codes/program-for-priority-queue-in-cpp/
 permalink: /program-for-priority-queue-in-cpp/
 rank_math_internal_links_processed:
   - "1"

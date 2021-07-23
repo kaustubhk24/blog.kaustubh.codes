@@ -4,7 +4,7 @@ title: 'Write a VB a program to enter “Voters details and on next form disply 
 date: 2020-08-28T14:36:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/write-a-vb-a-program-to-enter-voters-details-and-on-next-form-disply-voters-information-and-check-proper-validation-forname-agenationality-as-name-should-b/
+guid: http://blog.kaustubh.codes/write-a-vb-a-program-to-enter-voters-details-and-on-next-form-disply-voters-information-and-check-proper-validation-forname-agenationality-as-name-should-b/
 permalink: /write-a-vb-a-program-to-enter-voters-details-and-on-next-form-disply-voters-information-and-check-proper-validation-forname-agenationality-as-name-should-b/
 rank_math_internal_links_processed:
   - "1"

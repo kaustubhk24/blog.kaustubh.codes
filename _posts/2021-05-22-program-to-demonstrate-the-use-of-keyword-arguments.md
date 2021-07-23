@@ -4,7 +4,7 @@ title: Program to demonstrate the Use of Keyword Arguments
 date: 2021-05-22T01:39:12+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1676
+guid: https://blog.kaustubh.codes/?p=1676
 permalink: /program-to-demonstrate-the-use-of-keyword-arguments/
 rank_math_seo_score:
   - "57"

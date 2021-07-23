@@ -4,7 +4,7 @@ title: Program for performing some addition, sum, product and division operation
 date: 2021-05-22T01:49:24+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1692
+guid: https://blog.kaustubh.codes/?p=1692
 permalink: /program-for-performing-some-addition-sum-product-and-division-operation-on-given-input-and-handle-all-types-of-exceptions-using-attribute-error-value-error-and-division-by-zero-error-etc/
 ocean_gallery_link_images:
   - 'off'

@@ -4,7 +4,7 @@ title: 'Write an implementation of hash tables from scratch. Define the  followi
 date: 2020-10-04T12:42:00+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/write-an-implementation-of-hash-tables-from-scratch-define-the-following-methods-getkey-put-key-value-removekey-containskey-key-and-size/
+guid: https://blog.kaustubh.codes/write-an-implementation-of-hash-tables-from-scratch-define-the-following-methods-getkey-put-key-value-removekey-containskey-key-and-size/
 permalink: /write-an-implementation-of-hash-tables-from-scratch-define-the-following-methods-getkey-put-key-value-removekey-containskey-key-and-size/
 rank_math_internal_links_processed:
   - "1"

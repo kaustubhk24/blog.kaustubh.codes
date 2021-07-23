@@ -4,7 +4,7 @@ title: How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?
 date: 2020-10-24T08:12:30+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/?p=452
+guid: http://blog.kaustubh.codes/?p=452
 permalink: /how-to-install-lamp-stack-on-digitalocean-ubuntu-20-04/
 rank_math_focus_keyword:
   - How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?
@@ -64,21 +64,21 @@ tags:
 ---
 How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?
 
-Before starting this process please [create your Digital Ocean Account here.](https://www.swayalgo.com/digitalocean){.rank-math-link}
+Before starting this process please [create your Digital Ocean Account here.](https://m.do.co/c/253fdc8807b5)
 
-Or visit <a href="https://www.swayalgo.com/digitalocean" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">Digital Ocean Directly here With $100 FREE Credits.</a>
+Or visit <a href="https://m.do.co/c/253fdc8807b5" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">Digital Ocean Directly here With $100 FREE Credits.</a>
 
 
 
-Now Visit <a href="https://www.swayalgo.com/digitalocean" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">Digital Ocean</a> & Click on Sign In. You will be redirected to [https://cloud.digitalocean.com/](https://www.swayalgo.com/digitalocean){.rank-math-link}
+Now Visit <a href="https://m.do.co/c/253fdc8807b5" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">Digital Ocean</a> & Click on Sign In. You will be redirected to [https://cloud.digitalocean.com/](https://m.do.co/c/253fdc8807b5)
 
 ## Creating Droplet
 
-In <a href="https://www.swayalgo.com/digitalocean" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">Digital Ocean</a> we call a server as Droplet.
+In <a href="https://m.do.co/c/253fdc8807b5" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">Digital Ocean</a> we call a server as Droplet.
 
 Now click on **Create** Button Top right corner and Select **Droplet** Option.<figure class="wp-block-image size-large is-resized">
 
-<img loading="lazy" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-11.png" alt="" class="wp-image-454" width="815" height="255" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-11.png 815w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-11-300x94.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-11-768x240.png 768w" sizes="(max-width: 815px) 100vw, 815px" /> </figure> 
+<img loading="lazy" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-11.png" alt="" class="wp-image-454" width="815" height="255" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-11.png 815w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-11-300x94.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-11-768x240.png 768w" sizes="(max-width: 815px) 100vw, 815px" />  
 
 Now once we click on Create Droplets , next we have to select Droplet Configuration.
 
@@ -107,11 +107,11 @@ If you are using Windows you will use Putty.
 
 Or simply use the Console Provided by Digital Ocean.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="984" height="343" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-12.png" alt="How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?" class="wp-image-455" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-12.png 984w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-12-300x105.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-12-768x268.png 768w" sizes="(max-width: 984px) 100vw, 984px" /> </figure> 
+<img loading="lazy" width="984" height="343" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-12.png" alt="How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?" class="wp-image-455" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-12.png 984w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-12-300x105.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-12-768x268.png 768w" sizes="(max-width: 984px) 100vw, 984px" />  
 
 Now click on that **Console** button right corner. It will open a Prompt with terminal. If your internet speed is slow. You will see your commands slow.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="884" height="245" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-13.png" alt="How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?" class="wp-image-456" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-13.png 884w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-13-300x83.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-13-768x213.png 768w" sizes="(max-width: 884px) 100vw, 884px" /> </figure> 
+<img loading="lazy" width="884" height="245" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-13.png" alt="How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?" class="wp-image-456" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-13.png 884w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-13-300x83.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-13-768x213.png 768w" sizes="(max-width: 884px) 100vw, 884px" />  
 
 Now you will see below screen. 
 
@@ -139,7 +139,7 @@ To install apache we will run a very simple command
 
 Click Y if prompted.
 
-Now our Apache is installed. If you visit your\_ip\_address you will see the apache2 default page. if you don&#8217;t see the page, No problem. We need to [configure our firewall.](#firewall-config){.rank-math-link}
+Now our Apache is installed. If you visit your\_ip\_address you will see the apache2 default page. if you don&#8217;t see the page, No problem. We need to [configure our firewall.](#firewall-config)
 
 ## Installing MySQL
 
@@ -159,7 +159,7 @@ Like other software we installed. PHP My admin is also has similar and tricky in
 
 Now you have to complete remaining setup by reading options correctly.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="620" height="336" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-15.png" alt="How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?" class="wp-image-460" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-15.png 620w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-15-300x163.png 300w" sizes="(max-width: 620px) 100vw, 620px" /> </figure> 
+<img loading="lazy" width="620" height="336" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-15.png" alt="How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?" class="wp-image-460" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-15.png 620w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-15-300x163.png 300w" sizes="(max-width: 620px) 100vw, 620px" />  
 
 
 
@@ -167,7 +167,7 @@ in this configuration window, You have to select **apache2**.
 
 to select click on space bar. You will see [ * ] this mean the option is selected.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="630" height="330" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-14.png" alt="How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?" class="wp-image-459" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-14.png 630w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-14-300x157.png 300w" sizes="(max-width: 630px) 100vw, 630px" /> </figure> 
+<img loading="lazy" width="630" height="330" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-14.png" alt="How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?" class="wp-image-459" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-14.png 630w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-14-300x157.png 300w" sizes="(max-width: 630px) 100vw, 630px" />  
 
 In this you have to select **Yes** option.
 
@@ -175,7 +175,7 @@ That will create a database for you to configure users.
 
 In next step you have to setup password for PhpMyAdmin<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="608" height="239" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-16.png" alt="How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?" class="wp-image-461" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-16.png 608w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-16-300x118.png 300w" sizes="(max-width: 608px) 100vw, 608px" /> </figure> 
+<img loading="lazy" width="608" height="239" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-16.png" alt="How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?" class="wp-image-461" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-16.png 608w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-16-300x118.png 300w" sizes="(max-width: 608px) 100vw, 608px" />  
 
 also, add a confirm password. That&#8217;s it. PhpMyadmin installation is done. Now the last and important part of the setup is firewall configuration.
 
@@ -217,7 +217,7 @@ Open Any browser type droplet&#8217;s your public ip_address.
 
 If you see below page your installation is successful.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="896" height="486" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-17.png" alt="How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?" class="wp-image-462" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-17.png 896w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-17-300x163.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-17-768x417.png 768w" sizes="(max-width: 896px) 100vw, 896px" /> </figure> 
+<img loading="lazy" width="896" height="486" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-17.png" alt="How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?" class="wp-image-462" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-17.png 896w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-17-300x163.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-17-768x417.png 768w" sizes="(max-width: 896px) 100vw, 896px" />  
 
 Above is default page of apache server to tell that configuration is successful.
 
@@ -227,19 +227,19 @@ your\_ip\_address/phpmyadmin
 
 If you see below screen<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="475" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-18-1024x475.png" alt="How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?" class="wp-image-463" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-18-1024x475.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-18-300x139.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-18-768x356.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/image-18.png 1055w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="475" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-18-1024x475.png" alt="How to Install LAMP Stack on DigitalOcean Ubuntu 20.04?" class="wp-image-463" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-18-1024x475.png 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-18-300x139.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-18-768x356.png 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/image-18.png 1055w" sizes="(max-width: 1024px) 100vw, 1024px" />  
 
 Done . we have completed LAMP installation on Digital Ocean Ubuntu 20.04 .
 
-## Special Offer for Our Readers
+## Special Offer for My Readers
 
-Below is the special Link. Which is Gift from us for you. You just have to click on below link & Create Your FREE Digital Ocean Account & Get FREE $100 Credit. That means you&#8217;ll get your first cloud completely FREE.
+Below is the special Link. Which is Gift from us for you. You just have to click on below link & Create Your FREE Digital Ocean Account & Get FREE $100 Credit. That means you'll get your first cloud completely FREE.
 
 
 
 <div class="wp-block-buttons">
   <div class="wp-block-button is-style-outline">
-    <a class="wp-block-button__link has-white-color has-vivid-cyan-blue-to-vivid-purple-gradient-background has-text-color has-background" href="https://www.swayalgo.com/digitalocean">Get That Offer Now [FREE $100]</a>
+    <a class="wp-block-button__link has-white-color has-vivid-cyan-blue-to-vivid-purple-gradient-background has-text-color has-background" href="https://m.do.co/c/253fdc8807b5">Get That Offer Now [FREE $100]</a>
   </div>
 </div>
 
@@ -249,7 +249,5 @@ Below is the special Link. Which is Gift from us for you. You just have to click
 
 
 
-## Video Version of This Tutorial<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-
-<div class="wp-block-embed__wrapper">
-</div></figure>
+## Video Version of This Tutorial
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PtInVulpJNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

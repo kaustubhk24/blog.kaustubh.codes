@@ -4,7 +4,7 @@ title: How to Make Programming CV / Resume?
 date: 2020-11-24T16:44:37+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=912
+guid: https://blog.kaustubh.codes/?p=912
 permalink: /make-programming-cv-resume/
 rank_math_seo_score:
   - "63"
@@ -166,12 +166,5 @@ categories:
 </code></pre><figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
 <div class="wp-block-embed__wrapper">
-</div></figure> 
-
-## Download Link
-
-<div class="wp-block-buttons">
-  <div class="wp-block-button">
-    <a class="wp-block-button__link" href="https://www.swayalgo.com/product/programming-cv-resume-type-1/" target="_blank" rel="noreferrer noopener">Download Source Code</a>
-  </div>
 </div>
+

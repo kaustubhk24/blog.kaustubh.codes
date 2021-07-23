@@ -4,7 +4,7 @@ title: Program for Number Pattern 2
 date: 2020-08-16T11:49:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/program-for-number-pattern-2/
+guid: http://blog.kaustubh.codes/program-for-number-pattern-2/
 permalink: /program-for-number-pattern-2/
 rank_math_internal_links_processed:
   - "1"

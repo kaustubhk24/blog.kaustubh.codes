@@ -4,7 +4,7 @@ title: Program to accept the folder name from user and print the list of files a
 date: 2021-03-21T06:19:54+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1457
+guid: https://blog.kaustubh.codes/?p=1457
 permalink: /program-to-accept-the-folder-name-from-user-and-print-the-list-of-files-and-folders-from-the-given-folder/
 rank_math_seo_score:
   - "50"

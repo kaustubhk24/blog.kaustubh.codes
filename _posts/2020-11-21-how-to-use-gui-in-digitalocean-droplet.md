@@ -1,10 +1,10 @@
 ---
 id: 855
-title: 'How To Use GUI in DigitalOcean Droplet? &#8211; 2 Easy Steps'
+title: 'How To Use GUI in DigitalOcean Droplet? - 2 Easy Steps'
 date: 2020-11-21T11:20:46+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=855
+guid: https://blog.kaustubh.codes/?p=855
 permalink: /how-to-use-gui-in-digitalocean-droplet/
 rank_math_seo_score:
   - "86"
@@ -30,21 +30,21 @@ categories:
 ---
 Let&#8217;s see How To Use GUI in DigitalOcean Droplet? 
 
-If you are looking for running <a aria-label="DigitalOcean  (opens in a new tab)" rel="noreferrer noopener sponsored" class="rank-math-link" href="https://www.swayalgo.com/digitalocean" target="_blank">DigitalOcean </a>Ubuntu Droplet using GUI ( Graphical User Interface ) Then you are at right place. to Follow this tutorial you must have Droplet.
+If you are looking for running <a aria-label="DigitalOcean  (opens in a new tab)" rel="noreferrer noopener sponsored" class="rank-math-link" href="https://m.do.co/c/253fdc8807b5" target="_blank">DigitalOcean </a>Ubuntu Droplet using GUI ( Graphical User Interface ) Then you are at right place. to Follow this tutorial you must have Droplet.
 
-If you don&#8217;t have your droplet then Create your first [DigitalOcean Droplet here](https://www.swayalgo.com/how-to-install-lamp-stack-on-digitalocean-ubuntu-20-04/#Creating_Droplet){.rank-math-link}.
+If you don&#8217;t have your droplet then Create your first [DigitalOcean Droplet here](https://blog.kaustubh.codes/how-to-install-lamp-stack-on-digitalocean-ubuntu-20-04/#Creating_Droplet).
 
 ## Access your Droplet
 
 To use install <a aria-label="GUI (Graphical User Interface) (opens in a new tab)" href="https://en.wikipedia.org/wiki/Graphical_user_interface" target="_blank" rel="noreferrer noopener nofollow" class="rank-math-link">GUI (Graphical User Interface)</a> on your droplet. You must have <a aria-label="root level access (opens in a new tab)" href="https://en.wikipedia.org/wiki/Superuser" target="_blank" rel="noreferrer noopener nofollow" class="rank-math-link">root level access</a> to your Droplet. 
 
-If you don&#8217;t know how access your DigitalOcean droplet. Please read <a aria-label=" this article. (opens in a new tab)" href="https://www.swayalgo.com/how-to-access-digital-ocean-droplet-the-best-way/" target="_blank" rel="noreferrer noopener" class="rank-math-link">this article.</a>
+If you don&#8217;t know how access your DigitalOcean droplet. Please read <a aria-label=" this article. (opens in a new tab)" href="https://blog.kaustubh.codes/how-to-access-digital-ocean-droplet-the-best-way/" target="_blank" rel="noreferrer noopener" class="rank-math-link">this article.</a>
 
 ## Installing Required Packages
 
 Ubuntu server does NOT comes with GUI. We need to install GUI.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="733" height="428" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-17.png" alt="How To Use GUI in DigitalOcean Droplet" class="wp-image-862" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-17.png 733w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-17-300x175.png 300w" sizes="(max-width: 733px) 100vw, 733px" /> </figure> 
+<img loading="lazy" width="733" height="428" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-17.png" alt="How To Use GUI in DigitalOcean Droplet" class="wp-image-862" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-17.png 733w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-17-300x175.png 300w" sizes="(max-width: 733px) 100vw, 733px" /> 
 
 <pre class="wp-block-code"><code>$ sudo apt update</code></pre>
 
@@ -59,7 +59,7 @@ Enter **y** when asked.
 <pre class="wp-block-code"><code>$  tasksel install ubuntu-desktop</code></pre>
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large"><img loading="lazy" width="528" height="337" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-16.png" alt="How To Use GUI in DigitalOcean Droplet" class="wp-image-860" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-16.png 528w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-16-300x191.png 300w" sizes="(max-width: 528px) 100vw, 528px" /></figure>
+  <figure class="aligncenter size-large"><img loading="lazy" width="528" height="337" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-16.png" alt="How To Use GUI in DigitalOcean Droplet" class="wp-image-860" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-16.png 528w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-16-300x191.png 300w" sizes="(max-width: 528px) 100vw, 528px" />
 </div>
 
 This will install desktop GUI. After installing we need to reboot droplet. To reboot execute,
@@ -70,7 +70,7 @@ After rebooting it will open, in GUI.
 
 Now you will need to follow and complete the wizard. That&#8217;s it done! <figure class="wp-block-image size-large">
 
-<img loading="lazy" width="754" height="523" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-18.png" alt="How To Use GUI in DigitalOcean Droplet" class="wp-image-863" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-18.png 754w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-18-300x208.png 300w" sizes="(max-width: 754px) 100vw, 754px" /> </figure> 
+<img loading="lazy" width="754" height="523" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-18.png" alt="How To Use GUI in DigitalOcean Droplet" class="wp-image-863" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-18.png 754w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-18-300x208.png 300w" sizes="(max-width: 754px) 100vw, 754px" /> 
 
 If you still have issues watch video version below.
 
@@ -79,4 +79,4 @@ If you still have issues watch video version below.
 ## Video Version of Tutorial<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
 <div class="wp-block-embed__wrapper">
-</div></figure>
+</div>

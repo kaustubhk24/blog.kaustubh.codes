@@ -4,7 +4,7 @@ title: Write a program to implement multiple inheritance.
 date: 2021-04-24T06:19:29+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1529
+guid: https://blog.kaustubh.codes/?p=1529
 permalink: /write-a-program-to-implement-multiple-inheritance/
 rank_math_seo_score:
   - "44"

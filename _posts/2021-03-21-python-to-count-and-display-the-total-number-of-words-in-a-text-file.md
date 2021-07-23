@@ -4,7 +4,7 @@ title: Python to count and display the total number of words in a text file.
 date: 2021-03-21T06:07:21+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1443
+guid: https://blog.kaustubh.codes/?p=1443
 permalink: /python-to-count-and-display-the-total-number-of-words-in-a-text-file/
 rank_math_seo_score:
   - "58"

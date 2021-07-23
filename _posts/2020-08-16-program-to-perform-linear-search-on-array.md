@@ -4,7 +4,7 @@ title: Program to Perform Linear Search on Array
 date: 2020-08-16T11:36:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/program-to-perform-linear-search-on-array/
+guid: http://blog.kaustubh.codes/program-to-perform-linear-search-on-array/
 permalink: /program-to-perform-linear-search-on-array/
 rank_math_internal_links_processed:
   - "1"

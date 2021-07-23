@@ -4,7 +4,7 @@ title: Loops Python Example
 date: 2021-02-27T02:53:08+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1280
+guid: https://blog.kaustubh.codes/?p=1280
 permalink: /loops-python-example/
 rank_math_primary_category:
   - "85"

@@ -4,7 +4,7 @@ title: How To Make Completely Free Blog?
 date: 2021-05-13T08:02:04+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1557
+guid: https://blog.kaustubh.codes/?p=1557
 permalink: /how-to-make-completely-free-blog/
 rank_math_seo_score:
   - "84"
@@ -81,23 +81,23 @@ So we&#8217;re here to help you making blog completely Free of cost,
 
 ## What are the expenses for a Blog?
 
-To run a successful blog you would need Good hosting that can handle your users, domain name like for example, swayalgo.com and theme, there are multiple Free themes available in the market but paid themes works much smooth, also there are paid plugins like for SEO, optimizations etc. These are the costs you may need to pay if you go for Paid blog, I will highly recommend if you are looking for blogging as your career, don&#8217;t go for free blogging strategies, Go for paid Blog, Read [How To Make the Fastest Blog in WordPress 5 Easy Steps?](https://www.swayalgo.com/how-to-make-fastest-blog-in-wordpress/){.rank-math-link} Now Let&#8217;s Continue Making free blog as you read in title.
+To run a successful blog you would need Good hosting that can handle your users, domain name like for example, swayalgo.com and theme, there are multiple Free themes available in the market but paid themes works much smooth, also there are paid plugins like for SEO, optimizations etc. These are the costs you may need to pay if you go for Paid blog, I will highly recommend if you are looking for blogging as your career, don&#8217;t go for free blogging strategies, Go for paid Blog, Read [How To Make the Fastest Blog in WordPress 5 Easy Steps?](https://blog.kaustubh.codes/how-to-make-fastest-blog-in-wordpress/) Now Let&#8217;s Continue Making free blog as you read in title.
 
 ## Ways To Make Free Blog
 
 There are Multiple ways to run Free Blog, we will see all ways one by one here, So Let&#8217;s Get started.
 
-  * [Blogger &#8211; Google](#blogger){.rank-math-link}
-  * [WordPress.com](#wordpress-com){.rank-math-link}
-  * [Free Hosting and Free Domain](#Free-Hosting-and-Free-Domain){.rank-math-link} 
-  * [GitHub Pages &#8211; ( Static Site Generators)](#github-pages){.rank-math-link}
-  * [Medium](#medium){.rank-math-link}
+  * [Blogger - Google](#blogger)
+  * [WordPress.com](#wordpress-com)
+  * [Free Hosting and Free Domain](#Free-Hosting-and-Free-Domain) 
+  * [GitHub Pages - ( Static Site Generators)](#github-pages)
+  * [Medium](#medium)
 
 We will see all ways one by one and definitely we will see advantages and disadvantages about all of these,
 
 ## Blogger  {#blogger}<figure class="wp-block-image size-large is-resized">
 
-<img loading="lazy" src="https://1.bp.blogspot.com/-04CGx2qKYkk/YJoGIWZuMiI/AAAAAAAAhIk/qqEqDYCdc6UOdzEkZYwQw7vetYAWl3OZwCLcBGAsYHQ/s320/1_LwMPmY-mmlrghW5zbBDh1Q.png" alt="Blogger.com" width="404" height="227" /> </figure> 
+<img loading="lazy" src="https://1.bp.blogspot.com/-04CGx2qKYkk/YJoGIWZuMiI/AAAAAAAAhIk/qqEqDYCdc6UOdzEkZYwQw7vetYAWl3OZwCLcBGAsYHQ/s320/1_LwMPmY-mmlrghW5zbBDh1Q.png" alt="Blogger.com" width="404" height="227" /> 
 
 <a aria-label="Blogger (opens in a new tab)" href="https://www.blogger.com/" target="_blank" rel="noreferrer noopener nofollow" class="rank-math-link">Blogger </a>started on 23 August 1999 and <a href="https://www.Google.com/" target="_blank" aria-label="Google (opens in a new tab)" rel="noreferrer noopener nofollow" class="rank-math-link">Google</a> acquired it in 2003, Blogger allows us to create a Free Blog site & all posts published on blogger are automatically added in Google Search results, You don&#8217;t need to submit any sitemaps for anything else.
 
@@ -117,14 +117,14 @@ We will see all ways one by one and definitely we will see advantages and disadv
   * No controls like WordPress
   * Not much customizable
 
-Now after reading this if you want to <a aria-label="make blog in blogger Let's Get started Here (opens in a new tab)" href="https://www.swayalgo.com/complete-guide-to-free-blogger-blog/" target="_blank" rel="noreferrer noopener" class="rank-math-link">make blog in blogger Let&#8217;s Get started Here</a>
+Now after reading this if you want to <a aria-label="make blog in blogger Let's Get started Here (opens in a new tab)" href="https://blog.kaustubh.codes/complete-guide-to-free-blogger-blog/" target="_blank" rel="noreferrer noopener" class="rank-math-link">make blog in blogger Let&#8217;s Get started Here</a>
 
 <div class="wp-block-buttons">
 </div>
 
 ## WordPress.com {#wordpress-com}<figure class="wp-block-image size-large">
 
-![wordpress.com](https://lh3.googleusercontent.com/-9H9bgesOuqs/YJoGhWQ9IoI/AAAAAAAAhIs/3SyWAtlUdl0S1kKrPoD9AO0Eg4t3qF2FwCLcBGAsYHQ/509474-wordpress.com.png) </figure> 
+![wordpress.com](https://lh3.googleusercontent.com/-9H9bgesOuqs/YJoGhWQ9IoI/AAAAAAAAhIs/3SyWAtlUdl0S1kKrPoD9AO0Eg4t3qF2FwCLcBGAsYHQ/509474-wordpress.com.png) 
 
 <a aria-label="WordPress.com (opens in a new tab)" href="https://wordpress.com" target="_blank" rel="noreferrer noopener nofollow" class="rank-math-link">WordPress.com</a> is a hosting service platform created by Matt Mullenweg and owned by Automattic, You can create your wordpress.com blog for free, But you have to use there own example.wordpress.com domain, to connect your own domain , you need to purchase paid plan.
 
@@ -147,7 +147,7 @@ Now after reading this if you want to make blog in WordPress.com Let&#8217;s Get
 
 ## Free Hosting and Free Domain {#Free-Hosting-and-Free-Domain}
 
-You can also create a free blog using Free domain and hosting, You can get free domain names like .tk, .ml, .cf etc for Free from <a aria-label="freenom.com (opens in a new tab)" href="http://freenom.com/" target="_blank" rel="noreferrer noopener nofollow" class="rank-math-link">freenom.com</a> or other providers and Free hosting from <https://www.freehosting.com/>{.rank-math-link} or other providers, Once you have your domain and hosting, You can install [WordPress](https://wordpress.org){.rank-math-link} [Content Management System] on hosting and can start writing your blog.
+You can also create a free blog using Free domain and hosting, You can get free domain names like .tk, .ml, .cf etc for Free from <a aria-label="freenom.com (opens in a new tab)" href="http://freenom.com/" target="_blank" rel="noreferrer noopener nofollow" class="rank-math-link">freenom.com</a> or other providers and Free hosting from <https://www.freehosting.com/> or other providers, Once you have your domain and hosting, You can install [WordPress](https://wordpress.org) [Content Management System] on hosting and can start writing your blog.
 
 ### Advantages:
 
@@ -168,7 +168,7 @@ Hence it is not recommended to use, Now after reading this if you still want to 
 
 ## GitHub Pages {#github-pages}<figure class="wp-block-image size-large is-resized">
 
-<img loading="lazy" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/1_UBPbXxCACLSygvXutPPGSA-1024x576.jpeg" alt="" class="wp-image-1564" width="405" height="228" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/05/1_UBPbXxCACLSygvXutPPGSA-1024x576.jpeg 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1_UBPbXxCACLSygvXutPPGSA-300x169.jpeg 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1_UBPbXxCACLSygvXutPPGSA-768x432.jpeg 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1_UBPbXxCACLSygvXutPPGSA-1200x675.jpeg 1200w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1_UBPbXxCACLSygvXutPPGSA.jpeg 1280w" sizes="(max-width: 405px) 100vw, 405px" /> </figure> 
+<img loading="lazy" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/1_UBPbXxCACLSygvXutPPGSA-1024x576.jpeg" alt="" class="wp-image-1564" width="405" height="228" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/1_UBPbXxCACLSygvXutPPGSA-1024x576.jpeg 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/1_UBPbXxCACLSygvXutPPGSA-300x169.jpeg 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/1_UBPbXxCACLSygvXutPPGSA-768x432.jpeg 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/1_UBPbXxCACLSygvXutPPGSA-1200x675.jpeg 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/1_UBPbXxCACLSygvXutPPGSA.jpeg 1280w" sizes="(max-width: 405px) 100vw, 405px" /> 
 
 
 
@@ -194,7 +194,7 @@ Now after reading this if you want to make blog on Github Pages, Let&#8217;s Get
 
 ## Medium {#medium}<figure class="wp-block-image size-large is-resized">
 
-<img loading="lazy" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1-1024x512.jpeg" alt="" class="wp-image-1565" width="435" height="218" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1-1024x512.jpeg 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1-300x150.jpeg 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1-768x384.jpeg 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1-1536x768.jpeg 1536w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1-1200x600.jpeg 1200w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1.jpeg 1600w" sizes="(max-width: 435px) 100vw, 435px" /> </figure> 
+<img loading="lazy" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1-1024x512.jpeg" alt="" class="wp-image-1565" width="435" height="218" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1-1024x512.jpeg 1024w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1-300x150.jpeg 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1-768x384.jpeg 768w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1-1536x768.jpeg 1536w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1-1200x600.jpeg 1200w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1.jpeg 1600w" sizes="(max-width: 435px) 100vw, 435px" /> 
 
 Medium is Free to use But you can not advertise here, You will get paid when their premium subscribers reads your post (story). They also provide premium plans also.
 
@@ -213,4 +213,4 @@ Medium is Free to use But you can not advertise here, You will get paid when the
   * Not customizable
   * You can&#8217;t place ads
 
-Now after reading this if you want to make blog on Medium, Let&#8217;s <a href="https://www.swayalgo.com/making-free-medium-blog/" target="_blank" aria-label="Get started Here (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">Get started Here</a><figure class="wp-block-video"><video controls src="https://static-cdn.swayalgo.com/assets/videos/How%20To%20Make%20Completely%20Free%20Blog.mp4"></video></figure>
+Now after reading this if you want to make blog on Medium, Let&#8217;s <a href="https://blog.kaustubh.codes/making-free-medium-blog/" target="_blank" aria-label="Get started Here (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">Get started Here</a><figure class="wp-block-video"><video controls src="https://static-cdn.swayalgo.com/assets/videos/How%20To%20Make%20Completely%20Free%20Blog.mp4"></video>

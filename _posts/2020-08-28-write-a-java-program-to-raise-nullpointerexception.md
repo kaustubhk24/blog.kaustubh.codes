@@ -4,7 +4,7 @@ title: Write a Java Program to raise NullPointerException
 date: 2020-08-28T15:59:00+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/write-a-java-program-to-raise-nullpointerexception/
+guid: https://blog.kaustubh.codes/write-a-java-program-to-raise-nullpointerexception/
 permalink: /write-a-java-program-to-raise-nullpointerexception/
 rank_math_internal_links_processed:
   - "1"

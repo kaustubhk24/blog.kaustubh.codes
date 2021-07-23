@@ -4,7 +4,7 @@ title: 'Design a calculator in VB, Which has Two extra command buttons to check 
 date: 2020-08-28T14:39:00+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/design-a-calculator-in-vb-which-has-two-extra-command-buttons-to-check-factorial-of-given-number-and-to-check-whether-entered-number-is-even-or-odd/
+guid: http://blog.kaustubh.codes/design-a-calculator-in-vb-which-has-two-extra-command-buttons-to-check-factorial-of-given-number-and-to-check-whether-entered-number-is-even-or-odd/
 permalink: /design-a-calculator-in-vb-which-has-two-extra-command-buttons-to-check-factorial-of-given-number-and-to-check-whether-entered-number-is-even-or-odd/
 rank_math_internal_links_processed:
   - "1"

@@ -4,7 +4,7 @@ title: Java Program to Distribute Amount in Notes
 date: 2020-12-07T16:46:35+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=937
+guid: https://blog.kaustubh.codes/?p=937
 permalink: /distribute-amount-in-notes/
 rank_math_seo_score:
   - "69"
@@ -162,7 +162,7 @@ Total            :86549</code></pre>
 
 Screenshot<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="502" height="242" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image.png" alt="Distribute Amount in Notes " class="wp-image-938" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image.png 502w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-300x145.png 300w" sizes="(max-width: 502px) 100vw, 502px" /> </figure> 
+<img loading="lazy" width="502" height="242" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image.png" alt="Distribute Amount in Notes " class="wp-image-938" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image.png 502w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-300x145.png 300w" sizes="(max-width: 502px) 100vw, 502px" /> 
 
 <div class="wp-block-buttons">
   <div class="wp-block-button">
@@ -170,4 +170,4 @@ Screenshot<figure class="wp-block-image size-large">
   </div>
 </div>
 
-Get same program in <a href="https://www.swayalgo.com/vb-net-program-to-distribute-amount-in-notes/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">VB.NET here.</a>
+Get same program in <a href="https://blog.kaustubh.codes/vb-net-program-to-distribute-amount-in-notes/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">VB.NET here.</a>

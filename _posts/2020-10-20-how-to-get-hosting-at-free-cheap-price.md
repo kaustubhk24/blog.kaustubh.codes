@@ -4,7 +4,7 @@ title: How to Get Hosting at FREE / Cheap Price?
 date: 2020-10-20T09:21:02+00:00
 author: kaustubh
 layout: post
-guid: https://swayalgo.com/?p=428
+guid: http://blog.kaustubh.codes/?p=428
 permalink: /how-to-get-hosting-at-free-cheap-price/
 rank_math_seo_score:
   - "73"
@@ -73,7 +73,7 @@ How the big hosting companies work?
 
 <figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1004" height="591" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Yellow-Illustrated-Web-Designer-Business-Card-1-1.png" alt="" class="wp-image-436" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/Yellow-Illustrated-Web-Designer-Business-Card-1-1.png 1004w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Yellow-Illustrated-Web-Designer-Business-Card-1-1-300x177.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Yellow-Illustrated-Web-Designer-Business-Card-1-1-768x452.png 768w" sizes="(max-width: 1004px) 100vw, 1004px" /> </figure> 
+<img loading="lazy" width="1004" height="591" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Yellow-Illustrated-Web-Designer-Business-Card-1-1.png" alt="" class="wp-image-436" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Yellow-Illustrated-Web-Designer-Business-Card-1-1.png 1004w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Yellow-Illustrated-Web-Designer-Business-Card-1-1-300x177.png 300w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Yellow-Illustrated-Web-Designer-Business-Card-1-1-768x452.png 768w" sizes="(max-width: 1004px) 100vw, 1004px" /> 
 
 What they exactly do is:
 
@@ -97,14 +97,14 @@ And for these services, we pay an amount nearly similar to the cost of VPS.
 
 There are multiple VPS providers but I will recommend using 
 
-<a href="https://www.swayalgo.com/digitalocean" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener sponsored" class="rank-math-link">DigitalOcean</a> only.
+<a href="https://m.do.co/c/253fdc8807b5" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener sponsored" class="rank-math-link">DigitalOcean</a> only.
 
-It is very easy to use and scalable. In the next article, we will see how to host your website on <a href="https://www.swayalgo.com/digitalocean" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener sponsored" class="rank-math-link">DigitalOcean</a>.
+It is very easy to use and scalable. In the next article, we will see how to host your website on <a href="https://m.do.co/c/253fdc8807b5" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener sponsored" class="rank-math-link">DigitalOcean</a>.
 
-Currently, <a href="https://www.swayalgo.com/digitalocean" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">DigitalOcean</a> is providing $100 FREE credits for 2 months on all new account openings. It will be useful for your next learning article. Then why waste?
+Currently, <a href="https://m.do.co/c/253fdc8807b5" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">DigitalOcean</a> is providing $100 FREE credits for 2 months on all new account openings. It will be useful for your next learning article. Then why waste?
 
 <div class="wp-block-buttons">
   <div class="wp-block-button is-style-outline">
-    <a class="wp-block-button__link has-white-color has-vivid-cyan-blue-to-vivid-purple-gradient-background has-text-color has-background" href="https://www.swayalgo.com/digitalocean" target="_blank" rel="noreferrer noopener">Click Here to Get $100 for FREE</a>
+    <a class="wp-block-button__link has-white-color has-vivid-cyan-blue-to-vivid-purple-gradient-background has-text-color has-background" href="https://m.do.co/c/253fdc8807b5" target="_blank" rel="noreferrer noopener">Click Here to Get $100 for FREE</a>
   </div>
 </div>

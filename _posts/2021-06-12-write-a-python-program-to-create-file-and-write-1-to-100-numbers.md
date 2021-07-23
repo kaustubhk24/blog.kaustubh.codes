@@ -4,7 +4,7 @@ title: write a python program to create file and write 1 to 100 numbers
 date: 2021-06-12T01:52:22+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1831
+guid: https://blog.kaustubh.codes/?p=1831
 permalink: /write-a-python-program-to-create-file-and-write-1-to-100-numbers/
 rank_math_seo_score:
   - "58"

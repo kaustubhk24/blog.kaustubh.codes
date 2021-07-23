@@ -4,7 +4,7 @@ title: Time Table in Python
 date: 2021-03-08T10:42:15+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1411
+guid: https://blog.kaustubh.codes/?p=1411
 permalink: /time-table-in-python/
 rank_math_primary_category:
   - "85"
@@ -156,10 +156,10 @@ toast.show_toast("Next Lecture is About to start","Hello {}, {} Lecture is about
 Output 1:  
 <figure class="wp-block-image size-large">
 
-<img loading="lazy" width="606" height="233" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-13.png" alt="" class="wp-image-1412" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-13.png 606w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-13-300x115.png 300w" sizes="(max-width: 606px) 100vw, 606px" /> </figure> 
+<img loading="lazy" width="606" height="233" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-13.png" alt="" class="wp-image-1412" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-13.png 606w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-13-300x115.png 300w" sizes="(max-width: 606px) 100vw, 606px" /> 
 
 Output 2:
 
 This will show all lectures<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="439" height="303" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-14.png" alt="" class="wp-image-1413" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-14.png 439w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/image-14-300x207.png 300w" sizes="(max-width: 439px) 100vw, 439px" /> </figure>
+<img loading="lazy" width="439" height="303" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-14.png" alt="" class="wp-image-1413" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-14.png 439w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/image-14-300x207.png 300w" sizes="(max-width: 439px) 100vw, 439px" /> 

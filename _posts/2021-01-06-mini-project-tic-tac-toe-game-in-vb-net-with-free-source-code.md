@@ -4,7 +4,7 @@ title: 'Mini Project : Tic Tac Toe Game in VB.NET With FREE Source Code'
 date: 2021-01-06T13:09:12+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1151
+guid: https://blog.kaustubh.codes/?p=1151
 permalink: /mini-project-tic-tac-toe-game-in-vb-net-with-free-source-code/
 rank_math_primary_category:
   - "8"
@@ -44,7 +44,7 @@ In this tutorial we are going to make complete mini project VB.NET game named ti
 
 Now Let&#8217;s get started, first open your Visual Studio and drag 10 Buttons and 1 label and 1 image view and arrange all of them like design below. You can download image assets from here.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="736" height="484" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/tic-tac-toe.png" alt="Tic Tac Toe Game in VB.NET" class="wp-image-1152" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/tic-tac-toe.png 736w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/tic-tac-toe-300x197.png 300w" sizes="(max-width: 736px) 100vw, 736px" /> </figure> 
+<img loading="lazy" width="736" height="484" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/tic-tac-toe.png" alt="Tic Tac Toe Game in VB.NET" class="wp-image-1152" srcset="https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/tic-tac-toe.png 736w, https://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/tic-tac-toe-300x197.png 300w" sizes="(max-width: 736px) 100vw, 736px" /> 
 
 ### **Code**
 
@@ -214,7 +214,7 @@ End Class
 ### **Video Guide**<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
 <div class="wp-block-embed__wrapper">
-</div></figure> 
+</div>
 
 ### **Download** 
 
@@ -224,8 +224,8 @@ if you want to Download complete Project with source code or want to download as
 
 <div class="wp-block-buttons">
   <div class="wp-block-button">
-    <a class="wp-block-button__link" href="https://www.swayalgo.com/product/source-code-mini-project-tic-tac-toe-game-in-vb-net/" target="_blank" rel="noreferrer noopener">Download Now FREE</a>
+    <a class="wp-block-button__link" href="https://blog.kaustubh.codes/product/source-code-mini-project-tic-tac-toe-game-in-vb-net/" target="_blank" rel="noreferrer noopener">Download Now FREE</a>
   </div>
 </div>
 
-want to send Game to friends? Family ? Read <a href="https://www.swayalgo.com/how-to-make-setup-file-in-vb-net/" target="_blank" aria-label="Making Setup File here. (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">Making Setup File here.</a>
+want to send Game to friends? Family ? Read <a href="https://blog.kaustubh.codes/how-to-make-setup-file-in-vb-net/" target="_blank" aria-label="Making Setup File here. (opens in a new tab)" rel="noreferrer noopener" class="rank-math-link">Making Setup File here.</a>

@@ -4,7 +4,7 @@ title: Write a program to implement abstraction.
 date: 2021-04-24T06:24:54+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=1539
+guid: https://blog.kaustubh.codes/?p=1539
 permalink: /write-a-program-to-implement-abstraction/
 rank_math_seo_score:
   - "44"

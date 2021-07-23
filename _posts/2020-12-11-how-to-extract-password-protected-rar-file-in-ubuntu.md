@@ -4,7 +4,7 @@ title: How To Extract Password Protected rar file in Ubuntu?
 date: 2020-12-11T14:08:15+00:00
 author: kaustubh
 layout: post
-guid: https://www.swayalgo.com/?p=959
+guid: https://blog.kaustubh.codes/?p=959
 permalink: /how-to-extract-password-protected-rar-file-in-ubuntu/
 rank_math_focus_keyword:
   - How To Extract Password Protected rar file in Ubuntu?
