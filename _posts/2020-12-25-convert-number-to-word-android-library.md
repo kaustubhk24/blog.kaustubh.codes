@@ -56,7 +56,7 @@ ocean_link_format_target:
   - self
 ocean_quote_format_link:
   - post
-image: http://blog.kaustubh.codes/wp-content/uploads/2020/12/yt-vid-1200x675.png
+image: http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/yt-vid-1200x675.png
 categories:
   - Android
 ---
@@ -76,7 +76,7 @@ Now Let us see with example how it works
 
 First Open your android Studio then click on **New Project** -> Select **Empty Activity**, after that Click on **finish**.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="769" height="554" src="http://blog.kaustubh.codes/wp-content/uploads/2020/12/image-5.png" alt="Convert Number To Word Android Library" class="wp-image-1016" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-5.png 769w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-5-300x216.png 300w" sizes="(max-width: 769px) 100vw, 769px" /> </figure> 
+<img loading="lazy" width="769" height="554" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-5.png" alt="Convert Number To Word Android Library" class="wp-image-1016" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-5.png 769w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-5-300x216.png 300w" sizes="(max-width: 769px) 100vw, 769px" /> </figure> 
 
 Now wait while Android Studio setup your Project. In next step we will Import Library.
 
@@ -90,11 +90,11 @@ To follow this tutorial we are using <a aria-label="this version (opens in a new
 
 To import Library First open **build.gradle** file, check screenshot,<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="431" height="231" src="http://blog.kaustubh.codes/wp-content/uploads/2020/12/image-6.png" alt="Convert Number To Word Android Library" class="wp-image-1017" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-6.png 431w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-6-300x161.png 300w" sizes="(max-width: 431px) 100vw, 431px" /> </figure> 
+<img loading="lazy" width="431" height="231" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-6.png" alt="Convert Number To Word Android Library" class="wp-image-1017" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-6.png 431w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-6-300x161.png 300w" sizes="(max-width: 431px) 100vw, 431px" /> </figure> 
 
 and paste below code there, Inside **allprojects** and **repositories**<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="549" height="153" src="http://blog.kaustubh.codes/wp-content/uploads/2020/12/image-8.png" alt="Convert Number To Word Android Library" class="wp-image-1019" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-8.png 549w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-8-300x84.png 300w" sizes="(max-width: 549px) 100vw, 549px" /> </figure> 
+<img loading="lazy" width="549" height="153" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-8.png" alt="Convert Number To Word Android Library" class="wp-image-1019" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-8.png 549w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-8-300x84.png 300w" sizes="(max-width: 549px) 100vw, 549px" /> </figure> 
 
 <pre class="wp-block-code"><code>	allprojects {
 		repositories {
@@ -107,7 +107,7 @@ and paste below code there, Inside **allprojects** and **repositories**<figure c
 
 Now Open **build.gradle (Module**) file and paste implemention line there in dependencies.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="427" height="221" src="http://blog.kaustubh.codes/wp-content/uploads/2020/12/image-7.png" alt="Convert Number To Word Android Library" class="wp-image-1018" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-7.png 427w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-7-300x155.png 300w" sizes="(max-width: 427px) 100vw, 427px" /> </figure> 
+<img loading="lazy" width="427" height="221" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-7.png" alt="Convert Number To Word Android Library" class="wp-image-1018" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-7.png 427w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-7-300x155.png 300w" sizes="(max-width: 427px) 100vw, 427px" /> </figure> 
 
 <pre class="wp-block-code"><code>implementation 'com.github.kaustubhk24:NumberToWords-Library:c3880604dc'
 </code></pre>
@@ -116,7 +116,7 @@ That&#8217;s it . Now you will see one notification that Gradle files have chang
 
 You need to click on **Sync Now** Button.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="888" height="33" src="http://blog.kaustubh.codes/wp-content/uploads/2020/12/image-9.png" alt="Convert Number To Word Android Library" class="wp-image-1020" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-9.png 888w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-9-300x11.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-9-768x29.png 768w" sizes="(max-width: 888px) 100vw, 888px" /> </figure> 
+<img loading="lazy" width="888" height="33" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-9.png" alt="Convert Number To Word Android Library" class="wp-image-1020" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-9.png 888w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-9-300x11.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-9-768x29.png 768w" sizes="(max-width: 888px) 100vw, 888px" /> </figure> 
 
 Now we will impletement Library in our project.
 
@@ -144,7 +144,7 @@ Now Open Your **MainActivity.xml** and remove complete code from there and paste
 
 Now we will write code in **MainActivity.Java**. Paste this code inside **onCreate()**. check screenshot<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="645" height="302" src="http://blog.kaustubh.codes/wp-content/uploads/2020/12/image-10.png" alt="Convert Number To Word Android Library" class="wp-image-1021" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-10.png 645w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-10-300x140.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </figure> 
+<img loading="lazy" width="645" height="302" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-10.png" alt="Convert Number To Word Android Library" class="wp-image-1021" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-10.png 645w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-10-300x140.png 300w" sizes="(max-width: 645px) 100vw, 645px" /> </figure> 
 
 <pre class="wp-block-code"><code>TextView txt=findViewById(R.id.txt);
         NumberToWordConverter numberToWordConverter=new NumberToWordConverter();
@@ -155,7 +155,7 @@ Now we will write code in **MainActivity.Java**. Paste this code inside **onCrea
 
 Now Lets see output, To see output connect your device to Android Studio and Click on run.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="291" height="617" src="http://blog.kaustubh.codes/wp-content/uploads/2020/12/image-11.png" alt="Convert Number To Word Android Library" class="wp-image-1022" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-11.png 291w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-11-141x300.png 141w" sizes="(max-width: 291px) 100vw, 291px" /> </figure> 
+<img loading="lazy" width="291" height="617" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-11.png" alt="Convert Number To Word Android Library" class="wp-image-1022" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-11.png 291w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-11-141x300.png 141w" sizes="(max-width: 291px) 100vw, 291px" /> </figure> 
 
 ## Video Version Of Tutorial<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 

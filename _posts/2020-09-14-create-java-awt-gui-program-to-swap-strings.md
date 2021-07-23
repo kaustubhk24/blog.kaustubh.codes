@@ -18,7 +18,7 @@ blogger_internal:
   - /feeds/8126989156179907512/posts/default/5213327710712219741
 rank_math_analytic_object_id:
   - "102"
-image: http://blog.kaustubh.codes/wp-content/uploads/2020/09/Screenshot-2Bfrom-2B2020-09-14-2B10-33-44.png
+image: http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/09/Screenshot-2Bfrom-2B2020-09-14-2B10-33-44.png
 categories:
   - Java
 ---
@@ -27,7 +27,5 @@ categories:
 Output: 
 
 <div style="clear: both;">
-  <a href="https://swayalgo.com/wp-content/uploads/2020/09/Screenshot-2Bfrom-2B2020-09-14-2B10-33-44.png" style="display: block; padding: 1em 0px; text-align: center;"><img loading="lazy" alt="" border="0" data-original-height="768" data-original-width="1366" height="351" src="https://swayalgo.com/wp-content/uploads/2020/09/Screenshot-2Bfrom-2B2020-09-14-2B10-33-44-300x169.png" width="625" /></a>
+  <a href="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/09/Screenshot-2Bfrom-2B2020-09-14-2B10-33-44.png" style="display: block; padding: 1em 0px; text-align: center;"><img loading="lazy" alt="" border="0" data-original-height="768" data-original-width="1366" height="351" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/09/Screenshot-2Bfrom-2B2020-09-14-2B10-33-44-300x169.png" width="625" /></a>
 </div>
-
-</script>

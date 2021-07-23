@@ -32,7 +32,7 @@ What I tried?
 
 I did steps as below. But I dont know why its not working.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="498" src="http://blog.kaustubh.codes/wp-content/uploads/2021/02/image-1024x498.png" alt="" class="wp-image-1288" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/02/image-1024x498.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/02/image-300x146.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/02/image-768x373.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/02/image.png 1160w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="498" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/02/image-1024x498.png" alt="" class="wp-image-1288" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/02/image-1024x498.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/02/image-300x146.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/02/image-768x373.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/02/image.png 1160w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
 
 **Answer**
 

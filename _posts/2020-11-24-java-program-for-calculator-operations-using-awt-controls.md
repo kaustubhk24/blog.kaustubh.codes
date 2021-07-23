@@ -254,4 +254,4 @@ calculator v = new calculator();
 
 <pre class="wp-block-code"><code>Output</code></pre><figure class="wp-block-image size-large">
 
-<img loading="lazy" width="321" height="314" src="http://blog.kaustubh.codes/wp-content/uploads/2020/11/image-20.png" alt="" class="wp-image-890" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-20.png 321w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-20-300x293.png 300w" sizes="(max-width: 321px) 100vw, 321px" /> </figure>
+<img loading="lazy" width="321" height="314" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-20.png" alt="" class="wp-image-890" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-20.png 321w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-20-300x293.png 300w" sizes="(max-width: 321px) 100vw, 321px" /> </figure>

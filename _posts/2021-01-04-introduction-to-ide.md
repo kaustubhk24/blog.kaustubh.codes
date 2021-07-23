@@ -19,7 +19,7 @@ categories:
 ---
 Let us see IDE in detail.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="547" src="http://blog.kaustubh.codes/wp-content/uploads/2021/01/intro-ide-1024x547.png" alt="Introduction to IDE" class="wp-image-1128" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/intro-ide-1024x547.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/intro-ide-300x160.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/intro-ide-768x410.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/intro-ide-1200x641.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/intro-ide.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="547" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/intro-ide-1024x547.png" alt="Introduction to IDE" class="wp-image-1128" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/intro-ide-1024x547.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/intro-ide-300x160.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/intro-ide-768x410.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/intro-ide-1200x641.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/intro-ide.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
 
 **Menu Bar:**
 

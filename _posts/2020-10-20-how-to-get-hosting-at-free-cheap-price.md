@@ -18,7 +18,7 @@ rank_math_description:
   - 'How to Get Hosting at FREE / Cheap Price?  We know all beginners search for FREE or cheap hosting plans. '
 rank_math_analytic_object_id:
   - "92"
-image: http://blog.kaustubh.codes/wp-content/uploads/2020/10/Yellow-Illustrated-Web-Designer-Business-Card-1.png
+image: http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Yellow-Illustrated-Web-Designer-Business-Card-1.png
 categories:
   - Digital Ocean
 ---
@@ -73,7 +73,7 @@ How the big hosting companies work?
 
 <figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1004" height="591" src="http://blog.kaustubh.codes/wp-content/uploads/2020/10/Yellow-Illustrated-Web-Designer-Business-Card-1-1.png" alt="" class="wp-image-436" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/Yellow-Illustrated-Web-Designer-Business-Card-1-1.png 1004w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Yellow-Illustrated-Web-Designer-Business-Card-1-1-300x177.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Yellow-Illustrated-Web-Designer-Business-Card-1-1-768x452.png 768w" sizes="(max-width: 1004px) 100vw, 1004px" /> </figure> 
+<img loading="lazy" width="1004" height="591" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Yellow-Illustrated-Web-Designer-Business-Card-1-1.png" alt="" class="wp-image-436" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/10/Yellow-Illustrated-Web-Designer-Business-Card-1-1.png 1004w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Yellow-Illustrated-Web-Designer-Business-Card-1-1-300x177.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/10/Yellow-Illustrated-Web-Designer-Business-Card-1-1-768x452.png 768w" sizes="(max-width: 1004px) 100vw, 1004px" /> </figure> 
 
 What they exactly do is:
 

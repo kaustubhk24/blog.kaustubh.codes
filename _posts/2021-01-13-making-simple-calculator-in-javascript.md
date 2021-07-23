@@ -16,7 +16,7 @@ rank_math_internal_links_processed:
   - "1"
 rank_math_analytic_object_id:
   - "49"
-image: http://blog.kaustubh.codes/wp-content/uploads/2021/01/Screenshot-from-2021-01-13-21-04-36.png
+image: http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/Screenshot-from-2021-01-13-21-04-36.png
 categories:
   - Javascript
 ---

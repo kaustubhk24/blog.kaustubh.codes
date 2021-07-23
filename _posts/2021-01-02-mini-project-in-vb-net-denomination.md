@@ -18,7 +18,7 @@ rank_math_internal_links_processed:
   - "1"
 rank_math_analytic_object_id:
   - "59"
-image: http://blog.kaustubh.codes/wp-content/uploads/2021/01/mini-pro-vb-denomination-1200x675.png
+image: http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/mini-pro-vb-denomination-1200x675.png
 categories:
   - VB.NET
 tags:
@@ -35,7 +35,7 @@ In this tutorial we will make Mini Project VB.NET for denomination. User will en
 
 First you need to make UI, Now make UI like below, name textbox like t2000,t500,t200 upto t1.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="735" height="625" src="http://blog.kaustubh.codes/wp-content/uploads/2021/01/image-4.png" alt="Mini Project in VB.NET Denomination" class="wp-image-1113" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-4.png 735w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-4-300x255.png 300w" sizes="(max-width: 735px) 100vw, 735px" /> </figure> 
+<img loading="lazy" width="735" height="625" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-4.png" alt="Mini Project in VB.NET Denomination" class="wp-image-1113" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-4.png 735w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-4-300x255.png 300w" sizes="(max-width: 735px) 100vw, 735px" /> </figure> 
 
 ## Code
 

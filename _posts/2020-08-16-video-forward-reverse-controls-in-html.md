@@ -35,8 +35,3 @@ categories:
 ---
 <pre><br /><br />&lt;!DOCTYPE html&gt;<br />&lt;html&gt;<br />&lt;head&gt;<br />	&lt;title&gt;Video-Forward,Reverse&lt;/title&gt;<br /><br />&lt;/head&gt;<br />&lt;body&gt;<br />    &lt;center&gt;<br />        &lt;video width="400" height="400" id="myVd" controls&gt;<br />                  &lt;source id="firstVd" src="1.mp4" type="video/mp4"&gt;&lt;/video&gt;<br />       &lt;button id="btFwd" type="button" onClick="vdFwd()"&gt;Forward&lt;/button&gt;<br />       &lt;button id="btBhd" type="button" onClick="vdRev()"&gt;Reverse&lt;/button&gt;&lt;br&gt;<br />        &lt;/center&gt;<br />        &lt;script type="text/javascript"&gt;<br />            var vd = document.getElementById("myVd");<br />           <br />            function vdFwd()<br />            {<br />                vd.currentTime=vd.currentTime+10;<br />                vd.play();<br />            }<br />            function vdRev()<br />            {<br />                vd.currentTime=vd.currentTime-10;<br />                vd.play();<br />            }&lt;/script&gt;<br />&lt;/body&gt;<br />&lt;/html&gt;<br /></pre>
 
-## Live Preview
-
-<center>
-  <video width="400" height="400" id="myVd" controls> <source id="firstVd" src="https://static-cdn.swayalgo.com/assets/videos/sample-video.mp4" type="video/mp4"></video><br /> <button id="btFwd" type="button" onClick="vdFwd()">Forward</button> <button id="btBhd" type="button" onClick="vdRev()">Reverse</button><br />
-</center>

@@ -16,7 +16,7 @@ rank_math_focus_keyword:
   - Most Affordable Hosting With FREE Domain
 rank_math_analytic_object_id:
   - "66"
-image: http://blog.kaustubh.codes/wp-content/uploads/2020/12/hostinger-1200x675.png
+image: http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/hostinger-1200x675.png
 categories:
   - Hostings
 ---
@@ -41,7 +41,7 @@ Looking for something else? Check out if its covered <a aria-label="here (opens 
 
 To get that offer just visit <a aria-label="hostinger.in (opens in a new tab)" href="https://www.swayalgo.com/hostinger/" target="_blank" rel="noreferrer noopener sponsored" class="rank-math-link">hostinger.in</a> and select plan that suits you.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1012" height="324" src="http://blog.kaustubh.codes/wp-content/uploads/2020/12/image-4.png" alt="Most Affordable Hosting With FREE Domain" class="wp-image-1008" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-4.png 1012w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-4-300x96.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-4-768x246.png 768w" sizes="(max-width: 1012px) 100vw, 1012px" /> </figure> 
+<img loading="lazy" width="1012" height="324" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-4.png" alt="Most Affordable Hosting With FREE Domain" class="wp-image-1008" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-4.png 1012w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-4-300x96.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-4-768x246.png 768w" sizes="(max-width: 1012px) 100vw, 1012px" /> </figure> 
 
 **Pro Tip**: Apply coupon code if you have any 🙂
 

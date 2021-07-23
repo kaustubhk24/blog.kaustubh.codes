@@ -16,7 +16,7 @@ rank_math_focus_keyword:
   - Tic  Tac Toe VB.NET With Source Code
 rank_math_analytic_object_id:
   - "75"
-image: http://blog.kaustubh.codes/wp-content/uploads/2020/11/image-21.png
+image: http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-21.png
 categories:
   - VB.NET
 ---
@@ -30,7 +30,7 @@ Let&#8217;s see How to make Tic Tac Toe VB.NET With Source Code?
 
 First Create a Project and make design like below<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="315" height="183" src="http://blog.kaustubh.codes/wp-content/uploads/2020/11/image-21.png" alt="Tic  Tac Toe VB.NET With Source Code" class="wp-image-896" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-21.png 315w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-21-300x174.png 300w" sizes="(max-width: 315px) 100vw, 315px" /> </figure> 
+<img loading="lazy" width="315" height="183" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-21.png" alt="Tic  Tac Toe VB.NET With Source Code" class="wp-image-896" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-21.png 315w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-21-300x174.png 300w" sizes="(max-width: 315px) 100vw, 315px" /> </figure> 
 
 Enter code below 
 

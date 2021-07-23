@@ -22,7 +22,7 @@ saswp_custom_schema_field:
   - ""
 rank_math_analytic_object_id:
   - "94"
-image: http://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-2Bfrom-2B2020-10-08-2B11-11-57.png
+image: http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-2Bfrom-2B2020-10-08-2B11-11-57.png
 categories:
   - Java
   - JDBC
@@ -55,4 +55,4 @@ Output:
 
 <pre> </pre><figure class="wp-block-image size-large">
 
-![](http://blog.kaustubh.codes/wp-content/uploads/2020/10/Screenshot-2Bfrom-2B2020-10-08-2B11-11-57.png) </figure>
+![](http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/Screenshot-2Bfrom-2B2020-10-08-2B11-11-57.png) </figure>

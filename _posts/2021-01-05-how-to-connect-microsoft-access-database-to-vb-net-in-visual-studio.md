@@ -18,7 +18,7 @@ rank_math_internal_links_processed:
   - "1"
 rank_math_analytic_object_id:
   - "55"
-image: http://blog.kaustubh.codes/wp-content/uploads/2021/01/Database-Connection-1200x675.png
+image: http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/Database-Connection-1200x675.png
 categories:
   - VB.NET
 tags:
@@ -30,7 +30,7 @@ Open Visual Studio and create project ,
 
 ## Creating Project<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="570" height="379" src="http://blog.kaustubh.codes/wp-content/uploads/2021/01/image-7.png" alt="How to Connect Microsoft Access Database to VB.NET in Visual Studio" class="wp-image-1144" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-7.png 570w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-7-300x199.png 300w" sizes="(max-width: 570px) 100vw, 570px" /> </figure> 
+<img loading="lazy" width="570" height="379" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-7.png" alt="How to Connect Microsoft Access Database to VB.NET in Visual Studio" class="wp-image-1144" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-7.png 570w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-7-300x199.png 300w" sizes="(max-width: 570px) 100vw, 570px" /> </figure> 
 
 Once Project is created , 
 
@@ -38,13 +38,13 @@ Once Project is created ,
 
 In next step we will create Access Database <figure class="wp-block-image size-large">
 
-<img loading="lazy" width="599" height="274" src="http://blog.kaustubh.codes/wp-content/uploads/2021/01/image-8.png" alt="How to Connect Microsoft Access Database to VB.NET in Visual Studio" class="wp-image-1145" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-8.png 599w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-8-300x137.png 300w" sizes="(max-width: 599px) 100vw, 599px" /> </figure> 
+<img loading="lazy" width="599" height="274" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-8.png" alt="How to Connect Microsoft Access Database to VB.NET in Visual Studio" class="wp-image-1145" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-8.png 599w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-8-300x137.png 300w" sizes="(max-width: 599px) 100vw, 599px" /> </figure> 
 
 ## Making Connection
 
 Open Visual Studio 2019, Open **View** menu and **Server Explorer**, On Data Connection **Right Click** and Click **New Connection**<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="229" height="240" src="http://blog.kaustubh.codes/wp-content/uploads/2021/01/image-9.png" alt="How to Connect Microsoft Access Database to VB.NET in Visual Studio" class="wp-image-1146" /> </figure> 
+<img loading="lazy" width="229" height="240" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-9.png" alt="How to Connect Microsoft Access Database to VB.NET in Visual Studio" class="wp-image-1146" /> </figure> 
 
 Follow the wizard and You just completed Connection.
 

@@ -87,31 +87,3 @@ categories:
         &lt;/body>
 &lt;/html> </code></pre>
 
-## Live Preview
-
-<center>
-  <div>
-    <audio id="myAd" controls> <source id="firstAd" src="https://static-cdn.swayalgo.com/assets/audios/sample-audios/Breatha%20-%20josh%20pan.mp3" type="audio/mpeg"> </audio><br />
-  </div>
-</center>
-
-### Music Play-list! Click on Any song to start 
-
-<li onclick="chgAudio('https://static-cdn.swayalgo.com/assets/audios/sample-audios/Spring%20In%20My%20Step%20-%20Silent%20Partner.mp3')">
-  Spring In My Step
-</li>
-<li onClick="chgAudio('https://static-cdn.swayalgo.com/assets/audios/sample-audios/Breatha%20-%20josh%20pan.mp3')">
-  Bretha &#8211; Josh
-</li>
-<li onClick="chgAudio('https://static-cdn.swayalgo.com/assets/audios/sample-audios/Calvin%20Harris%20-%20josh%20pan.mp3')">
-  Calvin Harris Josh
-</li>
-<li onclick="chgAudio('https://static-cdn.swayalgo.com/assets/audios/sample-audios/Muriel%20-%20Bobby%20Richards.mp3')">
-  Muriel &#8211; Bobby Richards
-</li>
-<li onclick="chgAudio('https://static-cdn.swayalgo.com/assets/audios/sample-audios/Phrase%20Prant%20-%20josh%20pan.mp3')">
-  Phrase Prant
-</li>
-<li onclick="chgAudio('https://static-cdn.swayalgo.com/assets/audios/sample-audios/Voices%20-%20Patrick%20Patrikios.mp3')">
-  Voices
-</li> ﻿

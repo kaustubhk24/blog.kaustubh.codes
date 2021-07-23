@@ -77,4 +77,4 @@ checkAge(data&#91;0],data&#91;1])</code></pre>
 
 Output ><figure class="wp-block-image size-large">
 
-<img loading="lazy" width="827" height="114" src="http://blog.kaustubh.codes/wp-content/uploads/2021/06/image.png" alt="" class="wp-image-1829" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/06/image.png 827w, https://blog.kaustubh.codes/wp-content/uploads/2021/06/image-300x41.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/06/image-768x106.png 768w" sizes="(max-width: 827px) 100vw, 827px" /> </figure>
+<img loading="lazy" width="827" height="114" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/06/image.png" alt="" class="wp-image-1829" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/06/image.png 827w, https://blog.kaustubh.codes/wp-content/uploads/2021/06/image-300x41.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/06/image-768x106.png 768w" sizes="(max-width: 827px) 100vw, 827px" /> </figure>

@@ -22,17 +22,11 @@ rank_math_primary_category:
   - "30"
 rank_math_analytic_object_id:
   - "97"
-image: http://blog.kaustubh.codes/wp-content/uploads/2020/10/chart.png
+image: http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/chart.png
 categories:
   - Tech
 ---
-<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://swayalgo.com/wp-content/uploads/2020/10/chart.png"><img src="https://swayalgo.com/wp-content/uploads/2020/10/chart-300x300.png" border="0" data-original-height="300" data-original-width="300" /></a>
-
- 
-
- 
-
- 
+<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/chart.png"><img src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/10/chart-300x300.png" border="0" data-original-height="300" data-original-width="300" /></a>
 
 Do you want to add FREE URL QR Code on all pages of your website for FREE?
 
@@ -48,13 +42,7 @@ and Done. You just added the QR code of URL of that page. Make sure you use the 
 
 <pre>&lt;body&gt;  and &lt;/body&gt; tag</pre>
 
-See Example we added code for our webpage.Above codes are completely FREE to use. Incase you want to remove branding then contact <a href="https://swayalgo.com/contact/" data-wplink-edit="true">https://swayalgo.com/contact/</a>
+See Example we added code for our webpage.Above codes are completely FREE to use. 
 
  
 
-See Video Guide
-
- <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-
-<div class="wp-block-embed__wrapper">
-</div></figure>

@@ -18,7 +18,7 @@ rank_math_primary_category:
   - "8"
 rank_math_analytic_object_id:
   - "62"
-image: http://blog.kaustubh.codes/wp-content/uploads/2021/01/Download-and-INstall-Visual-Studio-Correctly-1200x675.png
+image: http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/Download-and-INstall-Visual-Studio-Correctly-1200x675.png
 categories:
   - VB.NET
 ---
@@ -44,7 +44,7 @@ We use ID because of following features
 
 ## Some Screenshots of IDE<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="512" src="http://blog.kaustubh.codes/wp-content/uploads/2021/01/image-1024x512.png" alt="Visual Studio IDE" class="wp-image-1067" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-1024x512.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-300x150.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-768x384.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-1200x600.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image.png 1365w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption>(Visual Studio 2019 IDE )</figcaption></figure> 
+<img loading="lazy" width="1024" height="512" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-1024x512.png" alt="Visual Studio IDE" class="wp-image-1067" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-1024x512.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-300x150.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-768x384.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-1200x600.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image.png 1365w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption>(Visual Studio 2019 IDE )</figcaption></figure> 
 
 ## Downloading IDE
 
@@ -58,11 +58,11 @@ To follow along you must download visual studio IDE. To Download Visit link belo
 
 Now you need to Select **Community** Version and Click on **Free Download** ,<figure class="wp-block-image size-large is-resized">
 
-<img loading="lazy" src="http://blog.kaustubh.codes/wp-content/uploads/2021/01/image-2-1024x399.png" alt="Visual Studio IDE" class="wp-image-1070" width="694" height="270" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-2-1024x399.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-2-300x117.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-2-768x299.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-2.png 1182w" sizes="(max-width: 694px) 100vw, 694px" /> </figure> 
+<img loading="lazy" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-2-1024x399.png" alt="Visual Studio IDE" class="wp-image-1070" width="694" height="270" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-2-1024x399.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-2-300x117.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-2-768x299.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-2.png 1182w" sizes="(max-width: 694px) 100vw, 694px" /> </figure> 
 
 Once Downloaded It will Automatically Download and Install **Visual Studio Installer**, After that you will see menu below <figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="487" src="http://blog.kaustubh.codes/wp-content/uploads/2021/01/image-3-1024x487.png" alt="Visual Studio IDE" class="wp-image-1072" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-3-1024x487.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-3-300x143.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-3-768x365.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-3-1200x570.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-3.png 1258w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="487" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-3-1024x487.png" alt="Visual Studio IDE" class="wp-image-1072" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-3-1024x487.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-3-300x143.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-3-768x365.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-3-1200x570.png 1200w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-3.png 1258w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
 
 From that menu just select .NET Desktop Development Option and Click on **Install While Downloading.**
 

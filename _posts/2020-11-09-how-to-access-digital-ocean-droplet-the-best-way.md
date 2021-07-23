@@ -20,7 +20,7 @@ rank_math_primary_category:
   - "3"
 rank_math_analytic_object_id:
   - "90"
-image: http://blog.kaustubh.codes/wp-content/uploads/2020/11/Untitled-1024x4291-1.png
+image: http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/Untitled-1024x4291-1.png
 categories:
   - Digital Ocean
 ---
@@ -46,7 +46,7 @@ To connect just open your <a href="https://www.swayalgo.com/digitalocean" target
 
 Now click on **Access Console** Button.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="429" src="https://swayalgo.com/wp-content/uploads/2020/11/Untitled-1024x429.png" alt="" class="wp-image-477" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/11/Untitled-1024x429.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/Untitled-300x126.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/Untitled-768x322.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/Untitled.png 1098w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="429" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/Untitled-1024x429.png" alt="" class="wp-image-477" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/11/Untitled-1024x429.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/Untitled-300x126.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/Untitled-768x322.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/Untitled.png 1098w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
 
 That&#8217;s it, now you can use your console. Done.
 
@@ -74,7 +74,7 @@ Now open Putty app from windows apps list.
 
 & in the place of Host Name (or IP address) , Put your username and droplet IP address.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="456" height="445" src="http://blog.kaustubh.codes/wp-content/uploads/2020/11/image.png" alt="" class="wp-image-475" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/11/image.png 456w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-300x293.png 300w" sizes="(max-width: 456px) 100vw, 456px" /> </figure> 
+<img loading="lazy" width="456" height="445" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image.png" alt="" class="wp-image-475" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/11/image.png 456w, https://blog.kaustubh.codes/wp-content/uploads/2020/11/image-300x293.png 300w" sizes="(max-width: 456px) 100vw, 456px" /> </figure> 
 
 Now click on **Open**, If it asks for anything click on **Allow**. Now It will open console & If username matches it will ask you for password . we set while creating droplet.
 

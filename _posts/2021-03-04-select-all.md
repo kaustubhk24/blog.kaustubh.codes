@@ -21,7 +21,7 @@ Query all columns (attributes) for every row in the&nbsp;**CITY**&nbsp;table.
 
 The&nbsp;**CITY**&nbsp;table is described as follows:<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="365" height="300" src="http://blog.kaustubh.codes/wp-content/uploads/2021/03/sql-1.jpg" alt="" class="wp-image-1307" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/03/sql-1.jpg 365w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/sql-1-300x247.jpg 300w" sizes="(max-width: 365px) 100vw, 365px" /> </figure> 
+<img loading="lazy" width="365" height="300" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/03/sql-1.jpg" alt="" class="wp-image-1307" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/03/sql-1.jpg 365w, https://blog.kaustubh.codes/wp-content/uploads/2021/03/sql-1-300x247.jpg 300w" sizes="(max-width: 365px) 100vw, 365px" /> </figure> 
 
 Answer :
 

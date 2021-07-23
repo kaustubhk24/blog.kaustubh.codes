@@ -22,7 +22,7 @@ enclosure:
     
 rank_math_analytic_object_id:
   - "64"
-image: http://blog.kaustubh.codes/wp-content/uploads/2020/12/yt-vid-1-1200x675.png
+image: http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/yt-vid-1-1200x675.png
 categories:
   - wordpress
 ---
@@ -38,7 +38,7 @@ Moving / Migrating posts from blogger to WordPress is very easy.
 
 Just Visit <a aria-label=" (opens in a new tab)" href="http://blogger.com" target="_blank" rel="noreferrer noopener" class="rank-math-link">Blogger.com</a>, then Login in your blog, Now Select **Settings** Option from and click on **Back up Content.** <figure class="wp-block-image size-large">
 
-<img loading="lazy" width="998" height="376" src="http://blog.kaustubh.codes/wp-content/uploads/2020/12/image-12.png" alt="Move From Blogger To WordPress Without Loosing Traffic" class="wp-image-1033" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-12.png 998w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-12-300x113.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-12-768x289.png 768w" sizes="(max-width: 998px) 100vw, 998px" /> </figure> 
+<img loading="lazy" width="998" height="376" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-12.png" alt="Move From Blogger To WordPress Without Loosing Traffic" class="wp-image-1033" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-12.png 998w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-12-300x113.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-12-768x289.png 768w" sizes="(max-width: 998px) 100vw, 998px" /> </figure> 
 
 Now open WordPress Admin and Click on **Tools** and then Click on **Import**. Now Click on **Install** Button of Blogger Importer . After that Click on **Run Importer**, and select File Downloaded from Blogger.com 
 
@@ -58,7 +58,7 @@ If you are using ***.blogspot.com** then your blog is currently hosted on Google
 
 Open **Settings** in Blogger & Select **Theme** Option and Click on **Arrow Near Customize** & Click on **Edit HTML**,<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="805" height="405" src="http://blog.kaustubh.codes/wp-content/uploads/2020/12/image-14.png" alt="Move From Blogger To WordPress Without Loosing Traffic" class="wp-image-1051" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-14.png 805w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-14-300x151.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-14-768x386.png 768w" sizes="(max-width: 805px) 100vw, 805px" /> </figure> 
+<img loading="lazy" width="805" height="405" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-14.png" alt="Move From Blogger To WordPress Without Loosing Traffic" class="wp-image-1051" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-14.png 805w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-14-300x151.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-14-768x386.png 768w" sizes="(max-width: 805px) 100vw, 805px" /> </figure> 
 
 Now You will see some code. Now we have to add code below there. in between **<head></head>** tag.
 
@@ -78,7 +78,7 @@ You Need to Change SiteURL to Your new WordPress site URL .
 
 Now from Permalinks Settings Select **Post Name** option & Click On **Save Change**s option below.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1024" height="407" src="http://blog.kaustubh.codes/wp-content/uploads/2020/12/image-15-1024x407.png" alt="Move From Blogger To WordPress Without Loosing Traffic" class="wp-image-1052" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-15-1024x407.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-15-300x119.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-15-768x305.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-15.png 1084w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<img loading="lazy" width="1024" height="407" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-15-1024x407.png" alt="Move From Blogger To WordPress Without Loosing Traffic" class="wp-image-1052" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-15-1024x407.png 1024w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-15-300x119.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-15-768x305.png 768w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-15.png 1084w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
 
 Now All of your traffic will automatically forwarded to your new blog.
 
@@ -96,7 +96,7 @@ If your current Blogger configuration contains Configuration like below example 
 
 then its covered in WordPress just **update the permalinks structure** from WordPress Admin Dashboard.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="1002" height="388" src="http://blog.kaustubh.codes/wp-content/uploads/2020/12/image-16.png" alt="Move From Blogger To WordPress Without Loosing Traffic" class="wp-image-1054" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-16.png 1002w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-16-300x116.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-16-768x297.png 768w" sizes="(max-width: 1002px) 100vw, 1002px" /> </figure> 
+<img loading="lazy" width="1002" height="388" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image-16.png" alt="Move From Blogger To WordPress Without Loosing Traffic" class="wp-image-1054" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-16.png 1002w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-16-300x116.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-16-768x297.png 768w" sizes="(max-width: 1002px) 100vw, 1002px" /> </figure> 
 
 Now traffic will be auto-redirected.
 

@@ -95,7 +95,7 @@ These are most commonly used data types in Visual Basic .NET
 
 <figure class="wp-block-image size-large">
 
-<img loading="lazy" width="787" height="234" src="http://blog.kaustubh.codes/wp-content/uploads/2021/01/image-6.png" alt="Data Types in VB.NET" class="wp-image-1135" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-6.png 787w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-6-300x89.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-6-768x228.png 768w" sizes="(max-width: 787px) 100vw, 787px" /> </figure> 
+<img loading="lazy" width="787" height="234" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/image-6.png" alt="Data Types in VB.NET" class="wp-image-1135" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-6.png 787w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-6-300x89.png 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/image-6-768x228.png 768w" sizes="(max-width: 787px) 100vw, 787px" /> </figure> 
 
 
 

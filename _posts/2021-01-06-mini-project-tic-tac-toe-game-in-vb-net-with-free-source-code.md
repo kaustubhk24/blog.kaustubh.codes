@@ -24,7 +24,7 @@ ampforwp-redirection-on-off:
   - enable
 rank_math_analytic_object_id:
   - "53"
-image: http://blog.kaustubh.codes/wp-content/uploads/2021/01/Copy-of-mini-pro-vb-denomination-1200x675.png
+image: http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/Copy-of-mini-pro-vb-denomination-1200x675.png
 categories:
   - VB.NET
 tags:
@@ -44,7 +44,7 @@ In this tutorial we are going to make complete mini project VB.NET game named ti
 
 Now Let&#8217;s get started, first open your Visual Studio and drag 10 Buttons and 1 label and 1 image view and arrange all of them like design below. You can download image assets from here.<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="736" height="484" src="http://blog.kaustubh.codes/wp-content/uploads/2021/01/tic-tac-toe.png" alt="Tic Tac Toe Game in VB.NET" class="wp-image-1152" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/tic-tac-toe.png 736w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/tic-tac-toe-300x197.png 300w" sizes="(max-width: 736px) 100vw, 736px" /> </figure> 
+<img loading="lazy" width="736" height="484" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/01/tic-tac-toe.png" alt="Tic Tac Toe Game in VB.NET" class="wp-image-1152" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/01/tic-tac-toe.png 736w, https://blog.kaustubh.codes/wp-content/uploads/2021/01/tic-tac-toe-300x197.png 300w" sizes="(max-width: 736px) 100vw, 736px" /> </figure> 
 
 ### **Code**
 

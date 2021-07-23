@@ -64,7 +64,7 @@ ocean_link_format_target:
   - self
 ocean_quote_format_link:
   - post
-image: http://blog.kaustubh.codes/wp-content/uploads/2021/05/How-To-Make-Completely-Free-Blog-1200x675.png
+image: http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/How-To-Make-Completely-Free-Blog-1200x675.png
 categories:
   - Blogging
 tags:
@@ -168,7 +168,7 @@ Hence it is not recommended to use, Now after reading this if you still want to 
 
 ## GitHub Pages {#github-pages}<figure class="wp-block-image size-large is-resized">
 
-<img loading="lazy" src="http://blog.kaustubh.codes/wp-content/uploads/2021/05/1_UBPbXxCACLSygvXutPPGSA-1024x576.jpeg" alt="" class="wp-image-1564" width="405" height="228" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/05/1_UBPbXxCACLSygvXutPPGSA-1024x576.jpeg 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1_UBPbXxCACLSygvXutPPGSA-300x169.jpeg 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1_UBPbXxCACLSygvXutPPGSA-768x432.jpeg 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1_UBPbXxCACLSygvXutPPGSA-1200x675.jpeg 1200w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1_UBPbXxCACLSygvXutPPGSA.jpeg 1280w" sizes="(max-width: 405px) 100vw, 405px" /> </figure> 
+<img loading="lazy" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/1_UBPbXxCACLSygvXutPPGSA-1024x576.jpeg" alt="" class="wp-image-1564" width="405" height="228" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/05/1_UBPbXxCACLSygvXutPPGSA-1024x576.jpeg 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1_UBPbXxCACLSygvXutPPGSA-300x169.jpeg 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1_UBPbXxCACLSygvXutPPGSA-768x432.jpeg 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1_UBPbXxCACLSygvXutPPGSA-1200x675.jpeg 1200w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1_UBPbXxCACLSygvXutPPGSA.jpeg 1280w" sizes="(max-width: 405px) 100vw, 405px" /> </figure> 
 
 
 
@@ -194,7 +194,7 @@ Now after reading this if you want to make blog on Github Pages, Let&#8217;s Get
 
 ## Medium {#medium}<figure class="wp-block-image size-large is-resized">
 
-<img loading="lazy" src="http://blog.kaustubh.codes/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1-1024x512.jpeg" alt="" class="wp-image-1565" width="435" height="218" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1-1024x512.jpeg 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1-300x150.jpeg 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1-768x384.jpeg 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1-1536x768.jpeg 1536w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1-1200x600.jpeg 1200w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1.jpeg 1600w" sizes="(max-width: 435px) 100vw, 435px" /> </figure> 
+<img loading="lazy" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1-1024x512.jpeg" alt="" class="wp-image-1565" width="435" height="218" srcset="https://blog.kaustubh.codes/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1-1024x512.jpeg 1024w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1-300x150.jpeg 300w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1-768x384.jpeg 768w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1-1536x768.jpeg 1536w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1-1200x600.jpeg 1200w, https://blog.kaustubh.codes/wp-content/uploads/2021/05/1J-PcIDrkewUmwrTZuJIIJA-1600x800-1.jpeg 1600w" sizes="(max-width: 435px) 100vw, 435px" /> </figure> 
 
 Medium is Free to use But you can not advertise here, You will get paid when their premium subscribers reads your post (story). They also provide premium plans also.
 

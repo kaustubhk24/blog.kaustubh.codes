@@ -45,4 +45,4 @@ Thread.currentThread().getName());
 
 Output:<figure class="wp-block-image size-large">
 
-<img src="http://blog.kaustubh.codes/wp-content/uploads/2020/11/image-24.png" alt="" class="wp-image-919" /> </figure>
+<img src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/11/image-24.png" alt="" class="wp-image-919" /> </figure>

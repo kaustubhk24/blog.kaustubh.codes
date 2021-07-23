@@ -61,7 +61,7 @@ Code >
 
 <pre class="wp-block-code"><code>import matplotlib.pyplot as plt
 import matplotlib.image as img
-testImage = img.imread('http://blog.kaustubh.codes/wp-content/uploads/2021/05/python-programming-language-1.png')
+testImage = img.imread('http://blog.kaustubh.codes/imgs/wp-content/uploads/2021/05/python-programming-language-1.png')
 plt.imshow(testImage)
 print(testImage)</code></pre>
 

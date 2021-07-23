@@ -162,11 +162,11 @@ Total            :86549</code></pre>
 
 Screenshot<figure class="wp-block-image size-large">
 
-<img loading="lazy" width="502" height="242" src="http://blog.kaustubh.codes/wp-content/uploads/2020/12/image.png" alt="Distribute Amount in Notes " class="wp-image-938" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image.png 502w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-300x145.png 300w" sizes="(max-width: 502px) 100vw, 502px" /> </figure> 
+<img loading="lazy" width="502" height="242" src="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/image.png" alt="Distribute Amount in Notes " class="wp-image-938" srcset="https://blog.kaustubh.codes/wp-content/uploads/2020/12/image.png 502w, https://blog.kaustubh.codes/wp-content/uploads/2020/12/image-300x145.png 300w" sizes="(max-width: 502px) 100vw, 502px" /> </figure> 
 
 <div class="wp-block-buttons">
   <div class="wp-block-button">
-    <a class="wp-block-button__link" href="http://blog.kaustubh.codes/wp-content/uploads/2020/12/denomination.zip" target="_blank" rel="noreferrer noopener">Download Program</a>
+    <a class="wp-block-button__link" href="http://blog.kaustubh.codes/imgs/wp-content/uploads/2020/12/denomination.zip" target="_blank" rel="noreferrer noopener">Download Program</a>
   </div>
 </div>
 

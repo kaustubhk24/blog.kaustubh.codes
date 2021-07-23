@@ -1,6 +1,6 @@
 ---
 id: 512
-title: 'Write a Java program to replace all the &#039;d&#039; characters with &#039;f&#039; characters. Input : “The quick brown fox jumps over the lazy dog”'
+title: 'Write a Java program to replace all the "d" characters with "f" characters. Input : “The quick brown fox jumps over the lazy dog”'
 date: 2020-08-28T15:57:00+00:00
 author: kaustubh
 layout: post
